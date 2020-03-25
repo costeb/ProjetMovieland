@@ -1,0 +1,4 @@
+25/03/20:
+Objectifs principaux: à partir d'un fichier texte contenant une liste de format donnée des films référencés par le livre Movieland,
+pouvoir recevoir aléatoirement un film non vu qui sera un début de randonnée.
+Pouvoir confirmer si un film proposé a déjà été vu.
