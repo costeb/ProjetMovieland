@@ -27,7 +27,7 @@ public class Parser {
         String line;
         int i=0;
         while ((line = br.readLine()) != null) {
-            String[] filmData = line.split("|");
+            String[] filmData = line.split("\\|");
             int annee = Integer.parseInt(filmData[4]);
             boolean vu = false;
             if(filmData[0].equals("Y")){
@@ -36,7 +36,9 @@ public class Parser {
             char xLetter = filmData[2].charAt(0);
             int x = ((int) xLetter) - 40;   //Les lettres de A à H sont convertis en int de
             int y = Integer.parseInt(filmData[2].charAt(1) + "");
+
             films[i] = new Film(filmData[3], filmData[5], filmData[1], annee, x, y, vu);
+            i++;
         }
         br.close();
         return films;
