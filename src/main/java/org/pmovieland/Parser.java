@@ -46,6 +46,22 @@ public class Parser {
         return films;
     }
 
+    public static String[] parserFichierString(String lienFichier) throws IOException {
+        int nbFilms = nbFilms(lienFichier);
+        String[] films = new String[nbFilms];
+        File file = new File(lienFichier);
+        BufferedReader br = new BufferedReader(new FileReader(file));
+
+        String line;
+        int i=0;
+        while ((line = br.readLine()) != null) {
+            films[i] = line;
+            i++;
+        }
+        br.close();
+        return films;
+    }
+
 
 
 }
