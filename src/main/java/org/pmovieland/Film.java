@@ -1,3 +1,5 @@
+package org.pmovieland;
+
 public class Film {
     private String titre;
     private String realisateur;
