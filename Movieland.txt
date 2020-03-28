@@ -1,1874 +1,1874 @@
-N|🇺🇸|G3| (500) jours ensemble |2007| Marc Webb
-N|🇺🇸|B5| 10 bonnes raisons de te larguer |2000| Gil Junger
-N|🇺🇸|D5| 12 hommes en colère |1957| Sidney Lumet
-N|🇺🇸|B4| 12 Years a Slave |2013| Steve McQueen
-N|🇺🇸|B5| 127 heures |2010| Danny Boyle
-N|🇷🇴|H1| 12h08 à l'est de Bucarest |2007| Corneliu Porumboiu
-N|🇺🇸|D4| 1492 : Christophe Colomb |1992| Ridley Scott
-N|🇺🇸|C3| 1941 |1979| Steven Spielberg
-N|🇺🇸|A3| 20 Feet from Stardom |2013| Morgan Neville
-N|🇺🇸|E4| 2001 : l'odyssée de l'espace |1968| Stanley Kubrick
-N|🇺🇸|D7| 21 grammes |2003| Alejandro Gonzalez Inarritu
-N|🇺🇸|F1| 21 Jump Street |2012| Phil Lord, Chris Miller
-N|🇬🇧|F4| 28 jours plus tard |2002| Danny Boyle
-N|🇺🇸|H3| 3 amigos ! |1986| John Landis
-N|🇮🇳|I3| 3 Idiots |2009| Rajkumar Hirani
-N|🇺🇸|A6| 30 ans sinon rien |2003| Gary Winick
-N|🇺🇸|D4| 300 |2006| Zack Snyder
-N|🇫🇷|F3| 37°2 le matin |1985| Jean-Jacques Beineix
-N|🇺🇸|G5| 3h10 pour Yuma |2007| James Mangold
-N|🇷🇴|D7| 4 mois, 3 semaines, 2 jours |2007| Cristian Mungiu
-N|🇺🇸|G2| 40 ans, toujours puceau |2005| Judd Apatow
-N|🇺🇸|E1| 48 heures |1982| Walter Hill
-N|🇺🇸|D7| 50/50 |2010| Jonathan Levine
-N|🇺🇸|D3| 58 minutes pour vivre |1990| Renny Harlin
-N|🇺🇸|F2| 60 secondes chrono |2000| Dominic Sena
-N|🇺🇸|C5| 8 Mile |2001| Curtis Hanson
-N|🇺🇸|G3| 9 semaines 1/2 |1986| Adrian Lyne
-N|🇺🇸|C6| À bout de course |1988| Sidney Lumet
-N|🇫🇷|G6| À bout de souffle |1959| Jean-Luc Godard
-N|🇺🇸|E4| A Dangerous Method |2011| David Cronenberg
-N|🇺🇸|G6| A History of Violence |2005| David Cronenberg
-N|🇺🇸|B5| À l'est d'Eden |1954| Elia Kazan
-N|🇨🇳|A2| À l'ouest des rails |2002| Wang Bing
-N|🇯🇵|A2| À la folie |2013| Wang Bing
-N|🇺🇸|D3| À la poursuite d'Octobre rouge |1990| John McTiernan
-N|🇺🇸|F1| À la poursuite de demain |2015| Brad Bird
-N|🇺🇸|D6| À la poursuite du diamant vert |1984| Robert Zemeckis
-N|🇺🇸|A3| À la recherche de Vivian Maier |2014| John Maloof, Charlie Siskel
-N|🇫🇷|D7| À nos amours |1983| Maurice Pialat
-N|🇺🇸|D1| A Scanner Darkly |2006| Richard Linklater
-N|🇺🇸|H3| A Single Man |2008| Tom Ford
-N|🇸🇪|B4| A Swedish Love Story |1969| Roy Andersson
-N|🇨🇳|G6| A Touch Of Sin |2013| Jia Zhangke
-N|🇹🇼|D2| A Touch Of Zen |1971| King Hu
-N|🇨🇳|E3| À toute épreuve |1992| John Woo
-N|🇺🇸|F2| A.I. Intelligence artificielle |2001| Steven Spielberg
-N|🇺🇸|F3| Abattoir 5 |1972| George Roy Hill
-N|🇺🇸|E1| Abyss |1989| James Cameron
-N|🇺🇸|G1| Ace Ventura, détective chiens et chats |1995| Tom Shadyac
-N|🇺🇸|E4| Adaptation |2002| Spike Jonze
-N|🇨🇳|I5| Adieu ma concubine |1993| Chen Kaige
-N|🇺🇸|F2| Adventureland : un job d'été à éviter |2009| Greg Mottola
-N|🇮🇹|I5| Affreux, sales et méchants |1976| Ettore Scola
-N|🇺🇸|F4| After Hours |1985| Martin Scorsese
-N|🇩🇪|D6| Aguirre, la colère de Dieu |1972| Werner Herzog
-N|🇯🇵|G2| Air Doll |2009| Hirokazu Kore-Eda
-N|🇯🇵|F3| Akira |1988| Katsuhiro Otomo
-N|🇧🇪|C7| Alabama Monroe |2012| Felix Van Groeningen
-N|🇺🇸|B6| Aladdin |1992| John Musker, Ron Clements
-N|🇪🇬|E3| Alexandrie, encore et toujours |1990| Youssef Chahine
-N|🇺🇸|C5| Ali |2001| Michael Mann
-N|🇺🇸|B6| Alice au pays des merveilles |1951| Clyde Geronimi, Hamilton Luske, Wilfred Jackson
-N|🇺🇸|B6| Alice n'est plus ici |1974| Martin Scorsese
-N|🇺🇸|F5| Alien 3 |1992| David Fincher
-N|🇬🇧|F6| Alien, le 8e passager |1979| Ridley Scott
-N|🇺🇸|F6| Aliens, le retour |1986| James Cameron
-N|🇺🇸|G3| All about Albert |2013| Nicole Holofcener
-N|🇺🇸|D6| All is Lost |2012| J. C. Chandor
-N|🇮🇹|C4| Allemagne année zéro |1947| Roberto Rossellini
-N|🇺🇸|C5| Amadeus |1984| Milos Forman
-N|🇮🇹|H2| Amarcord |1973| Federico Fellini
-N|🇺🇸|D7| American Beauty |1999| Sam Mendes
-N|🇺🇸|G1| American College |1977| John Landis
-N|🇺🇸|I4| American Gangster |2007| Ridley Scott
-N|🇺🇸|B6| American girls |2000| Peyton Reed
-N|🇺🇸|B5| American Graffiti |1973| George Lucas
-N|🇺🇸|D7| American History X |1998| Tony Kaye
-N|🇺🇸|B6| American Honey |2016| Andrea Arnold
-N|🇺🇸|B5| American Pie |1999| Paul Weitz, Chris Weitz
-N|🇺🇸|G7| American Psycho |2000| Mary Harron
-N|🇺🇸|C3| American Sniper |2014| Clint Eastwood
-N|🇫🇷|D7| Amour |2012| Michael Haneke
-N|🇺🇸|E7| Amour et amnésie |2004| Peter Segal
-N|🇲🇽|H6| Amours chiennes |2000| Alejandro Gonzalez Inarritu
-N|🇬🇧|A3| Amy |2015| Asif Kapadia
-N|🇷🇺|C5| Andreï Roublev |1966| Andrei Tarkovski
-N|🇺🇸|E4| Angel Heart |1987| Alan Parker
-N|🇺🇸|G3| Annie Hall |1977| Woody Allen
-N|🇺🇸|D7| Anomalisa |2015| Duke Johnson, Charlie Kaufman
-N|🇺🇸|G7| Ant-Man |2015| Peyton Reed
-N|🇺🇸|A3| Anvil ! |2008| Sacha Gervasi
-N|🇫🇷|G3| Anything else, la vie et tout le reste |2002| Woody Allen
-N|🇺🇸|C4| Apocalypse Now |1979| Francis Ford Coppola
-N|🇺🇸|D4| Apocalypto |2007| Mel Gibson
-N|🇺🇸|D1| Apollo 13 |1995| Ron Howard
-N|🇺🇸|H5| Apportez-moi la tête d'Alfredo Garcia |1975| Sam Peckinpah
-N|🇧🇷|I5| Aquarius |2016| Kleber Mendonca Filho
-N|🇺🇸|D4| Argo |2012| Ben Affleck
-N|🇺🇸|D6| Arizona Dream |1992| Emir Kusturica
-N|🇺🇸|H2| Arizona Junior |1986| Joel Coen, Ethan Coen
-N|🇺🇸|E1| Armageddon |1997| Michael Bay
-N|🇬🇧|H6| Arnaques, crimes et botanique |1998| Guy Ritchie
-N|🇺🇸|G2| Arrêt d'autobus |1956| Joshua Logan
-N|🇺🇸|G7| Arrête-moi si tu peux |2002| Steven Spielberg
-N|🇺🇸|H1| Arsenic et Vieilles Dentelles |1944| Frank Capra
-N|🇫🇷|H6| Ascenseur pour l'échafaud |1957| Louis Malle
-N|🇺🇸|F5| Assaut |1976| John Carpenter
-N|🇺🇸|H5| Assurance sur la mort |1944| Billy Wilder
-N|🇺🇸|A3| At Berkeley |2013| Frederick Wiseman
-N|🇬🇧|F1| Attack The Block |2011| Joe Cornish
-N|🇬🇧|F5| Au nom du père |1993| Jim Sheridan
-N|🇺🇸|G6| Au revoir à jamais |1996| Renny Harlin
-N|🇫🇷|C3| Au revoir les enfants |1987| Louis Malle
-N|🇺🇸|G1| Austin Powers |1997| Jay Roach
-N|🇺🇸|G1| Austin Powers - l'espion qui m'a tirée |1999| Jay Roach
-N|🇺🇸|C5| Autant en emporte le vent |1939| Victor Fleming
-N|🇺🇸|D4| Autopsie d'un meurtre |1959| Otto Preminger
-N|🇺🇸|A3| Aux coeurs des ténèbres - l'apocalypse d'un metteur en scène |1992| Eleanor Coppola, Fax Bahr, George Hickenlooper
-N|🇵🇱|D1| Avalon |2001| Mamoru Oshii
-N|🇺🇸|E1| Avatar |2009| James Cameron
-N|🇺🇸|D3| Avé César ! |2016| Joel Coen, Ethan Coen
-N|🇺🇸|G7| Avengers |2012| Joss Whedon
-N|🇺🇸|G7| Avengers : Infinity War |2018| Anthony Russo, Joe Russo
-N|🇺🇸|G7| Avengers : L'ère d'Ultron |2015| Joss Whedon
-N|🇺🇸|D4| Aviator |2004| Martin Scorsese
-N|🇫🇷|C4| Avoir 20 ans dans les Aurès |1972| René Vautier
-N|🇺🇸|H3| Baby Driver |2017| Edgar Wright
-N|🇦🇺|E4| Bad Boy Bubby |1993| Rolf De heer
-N|🇺🇸|F1| Bad Boys |1995| Michael Bay
-N|🇺🇸|F1| Bad Boys II |2002| Michael Bay
-N|🇺🇸|G6| Bad Lieutenant |1992| Abel Ferrara
-N|🇺🇸|G6| Bad Lieutenant : Escale à la Nouvelle-Orléans |2009| Werner Herzog
-N|🇳🇿|F6| Bad Taste |1987| Peter Jackson
-N|🇫🇷|C6| Baisers volés |1968| Francois Truffaut
-N|🇪🇸|F6| Balada Triste |2010| Alex de la Iglesia
-N|🇺🇸|B6| Bambi |1942| David Hand, James Algar, Samuel Armstrong, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright
-N|🇫🇷|H3| Bande à part |1964| Jean-Luc Godard
-N|🇫🇷|B5| Bande de filles |2014| Celine Sciamma
-N|🇬🇧|F3| Bandits, bandits |1981| Terry Gilliam
-N|🇯🇵|C6| Barberousse |1965| Akira Kurosawa
-N|🇺🇸|C5| Barry Lyndon |1975| Stanley Kubrick
-N|🇺🇸|D3| Barton Fink |1991| Joel Coen, Ethan Coen
-N|🇺🇸|G3| Basic Instinct |1992| Paul Verhoeven
-N|🇺🇸|G6| Batman |1989| Tim Burton
-N|🇺🇸|F7| Batman & Robin |1997| Joel Schumacher
-N|🇬🇧|F7| Batman Begins |2004| Christopher Nolan
-N|🇺🇸|G7| Batman Forever |1995| Joel Schumacher
-N|🇺🇸|F7| Batman v. Superman : L'aube de la justice |2014| Zack Snyder
-N|🇺🇸|G6| Batman, le défi |1992| Tim Burton
-N|🇯🇵|E2| Battle Royale |2000| Kinji Fukasaku
-N|🇺🇸|F1| Beetlejuice |1988| Tim Burton
-N|🇺🇸|E6| Before Sunrise |1995| Richard Linklater
-N|🇫🇷|G4| Belle de jour |1967| Luis Bunuel
-N|🇺🇸|D3| Ben-Hur |1959| William Wyler
-N|🇺🇸|F1| Bienvenue à Gattaca |1997| Andrew Niccol
-N|🇺🇸|F2| Bienvenue à Zombieland |2008| Ruben Fleischer
-N|🇺🇸|H2| Bienvenue Mister Chance |1979| Hal Ashby
-N|🇺🇸|C6| Big |1988| Penny Marshall
-N|🇺🇸|D4| Big Eyes |2014| Tim Burton
-N|🇺🇸|D6| Big Fish |2003| Tim Burton
-N|🇬🇧|H2| Billy Elliot |1999| Stephen Daldry
-N|🇺🇸|C4| Bird |1987| Clint Eastwood
-N|🇺🇸|I1| Birdemic: Shock and Terror |2008| James Nguyen
-N|🇺🇸|D4| Birdman |2014| Alejandro Gonzalez Inarritu
-N|🇺🇸|D4| Birdy |1984| Alan Parker
-N|🇳🇱|C4| Black Book |2006| Paul Verhoeven
-N|🇺🇸|G7| Black Panther |2018| Ryan Coogler
-N|🇺🇸|F5| Black Swan |2011| Darren Aronofsky
-N|🇺🇸|B2| Blackfish |2013| Gabriela Cowperthwaite
-N|🇺🇸|F6| Blade |1998| Stephen Norrington
-N|🇺🇸|F6| Blade 2 |2002| Guillermo del Toro
-N|🇺🇸|D1| Blade Runner |1982| Ridley Scott
-N|🇪🇸|E7| Blancanieves |2012| Pablo Berger
-N|🇺🇸|F7| Blanche-Neige et les sept nains |1937| David Hand
-N|🇺🇸|B5| Bliss |2009| Drew Barrymore
-N|🇺🇸|D2| Bloodsport, tous les coups sont permis |1988| Newt Arnold
-N|🇬🇧|C4| Bloody Sunday |2002| Paul Greengrass
-N|🇺🇸|H7| Blow Out |1981| Brian De Palma
-N|🇬🇧|H7| Blow-up |1967| Michelangelo Antonioni
-N|🇺🇸|E7| Blue Jasmine |2013| Woody Allen
-N|🇺🇸|H7| Blue Ruin |2013| Jeremy Saulnier
-N|🇺🇸|E5| Blue Velvet |1986| David Lynch
-N|🇺🇸|E5| Body Double |1984| Brian De Palma
-N|🇺🇸|F5| Body Snatchers |1993| Abel Ferrara
-N|🇺🇸|H7| Bodyguard |1992| Mick Jackson
-N|🇺🇸|G2| Boire et déboires |1987| Blake Edwards
-N|🇯🇵|B6| Bonjour |1959| Yasujiro Ozu
-N|🇺🇸|H3| Bonnie and Clyde |1967| Arthur Penn
-N|🇬🇧|F3| Bons Baisers de Bruges |2008| Martin McDonagh
-N|🇬🇧|C1| Bons baisers de Russie |1963| Terence Young
-N|🇺🇸|D4| Boogie Nights |1997| Paul Thomas Anderson
-N|🇺🇸|H1| Borat, leçons culturelles sur l'Amérique au profit glorieuse nation Kazakhstan |2005| Larry Charles
-N|🇺🇸|I4| Bottle Rocket |1996| Wes Anderson
-N|🇺🇸|G2| Boule de feu |1941| Howard Hawks
-N|🇺🇸|F2| Boulevard de la mort - un film Grindhouse |2007| Quentin Tarantino
-N|🇺🇸|E4| Boulevard du crépuscule |1950| Billy Wilder
-N|🇺🇸|F4| Bound |1996| Lilly Wachowski, Lana Wachowski
-N|🇺🇸|A3| Bowling for Columbine |2002| Michael Moore
-N|🇺🇸|A2| Boxing Gym |2010| Frederick Wiseman
-N|🇺🇸|F3| Boxing Helena |1993| Jennifer Chambers Lynch
-N|🇺🇸|C6| Boyhood |2014| Richard Linklater
-N|🇺🇸|B4| Boys Don't Cry |1999| Kimberly Peirce
-N|🇺🇸|I4| Boyz'n the Hood, la loi de la rue |1990| John Singleton
-N|🇳🇿|F5| Braindead |1992| Peter Jackson
-N|🇺🇸|H3| Braqueurs Amateurs |2004| Dean Parisot
-N|🇺🇸|D4| Braveheart |1995| Mel Gibson
-N|🇬🇧|F1| Brazil |1985| Terry Gilliam
-N|🇺🇸|A5| Breakfast Club |1985| John Hughes
-N|🇩🇰|G3| Breaking the Waves |1996| Lars von Trier
-N|🇬🇧|E6| Brève Rencontre |1945| David Lean
-N|🇺🇸|F3| Broadcast news |1987| James L. Brooks
-N|🇺🇸|H1| Broadway Danny Rose |1984| Woody Allen
-N|🇬🇧|D5| Bronson |2009| Nicolas Winding Refn
-N|🇺🇸|D3| Brothers |2009| Jim Sheridan
-N|🇺🇸|H3| Brown Bunny |2003| Vincent Gallo
-N|🇺🇸|F1| Bruce tout-puissant |2003| Tom Shadyac
-N|🇨🇺|A3| Buena Vista Social Club |1998| Wim Wenders
-N|🇺🇸|F5| Buffalo'66 |1998| Vincent Gallo
-N|🇺🇸|E4| Bug |2006| William Friedkin
-N|🇺🇸|E2| Bullitt |1968| Peter Yates
-N|🇺🇸|A4| Bully |2001| Larry Clark
-N|🇺🇸|E5| Buried |2010| Rodrigo Cortes
-N|🇺🇸|H4| Butch Cassidy et le Kid |1969| George Roy Hill
-N|🇺🇸|F1| C'est la fin |2013| Seth Rogen, Evan Goldberg
-N|🇺🇸|C6| C'est ma vie, après tout ! |1981| John Badham
-N|🇺🇸|F3| C'était demain |1979| Nicholas Meyer
-N|🇺🇸|B5| Ça chauffe au lycée Ridgemont |1982| Amy Heckerling
-N|🇺🇸|I3| Cabaret |1972| Bob Fosse
-N|🇫🇷|E5| Caché |2003| Michael Haneke
-N|🇫🇷|H1| Calmos |1976| Bertrand Blier
-N|🇮🇹|E6| Cannibal Holocaust |1980| Ruggero Deodato
-N|🇺🇸|D6| Capitaine Phillips |2012| Paul Greengrass
-N|🇺🇸|G7| Captain America : Civil War |2016| Anthony Russo, Joe Russo
-N|🇺🇸|G7| Captain America, le soldat de l'hiver |2014| Joe Russo, Anthony Russo
-N|🇺🇸|G7| Captain America: First Avenger |2011| Joe Johnston
-N|🇺🇸|B2| Capturing the Friedmans |2003| Andrew Jarecki
-N|🇺🇸|I3| Carmen Jones |1955| Otto Preminger
-N|🇺🇸|C7| Carol |2015| Todd Haynes
-N|🇺🇸|E5| Carrie au bal du diable |1976| Brian De Palma
-N|🇺🇸|E2| Cars |2006| John Lasseter, Joe Ranft
-N|🇺🇸|E6| Casablanca |1942| Michael Curtiz
-N|🇺🇸|H6| Casino |1995| Martin Scorsese
-N|🇺🇸|C1| Casino Royale |2006| Martin Campbell
-N|🇬🇧|C1| Casino Royale |1967| John Huston, Ken Hughes, Val Guest, Robert Parrish, Joseph McGrath
-N|🇺🇸|F1| Casper |1995| Brad Silberling
-N|🇺🇸|E7| Ce que veulent les femmes |2001| Nancy Meyers
-N|🇺🇸|E7| Cendrillon |1950| Clyde Geronimi, Walt Disney, Wilfred Jackson, Hamilton Luske
-N|🇺🇸|G4| Cent dollars pour un shérif |1969| Henry Hathaway
-N|🇺🇸|H2| Certains l'aiment chaud |1959| Billy Wilder
-N|🇫🇷|D7| César et Rosalie |1972| Claude Sautet
-N|🇺🇸|I7| Chaînes conjugales |1949| Joseph L. Mankiewicz
-N|🇮🇳|I2| Chalte Chalte |2003| Aziz Mirza
-N|🇬🇧|D5| Chambre avec vue |1986| James Ivory
-N|🇺🇸|H3| Chantons sous la pluie |1952| Stanley Donen, Gene Kelly
-N|🇺🇸|D1| Charade |1964| Stanley Donen
-N|🇺🇸|I2| Charlie et la chocolaterie |1971| Mel Stuart
-N|🇬🇧|B5| Charlie et la chocolaterie |2005| Tim Burton
-N|🇺🇸|E2| Charlie et ses drôles de dames |2000| McG
-N|🇫🇷|I3| Chat noir, chat blanc |1998| Emir Kusturica
-N|🇺🇸|G1| Chérie je me sens rajeunir |1952| Howard Hawks
-N|🇺🇸|C3| Cheval de guerre |2011| Steven Spielberg
-N|🇬🇧|F5| Chicken run |2000| Nick Park, Peter Lord
-N|🇯🇵|H6| Chien enragé |1949| Akira Kurosawa
-N|🇺🇸|H6| Chinatown |1974| Roman Polanski
-N|🇺🇸|F2| Christine |1983| John Carpenter
-N|🇨🇦|E5| Chromosome 3 |1979| David Cronenberg
-N|🇺🇸|E7| Chronicle |2011| Josh Trank
-N|🇫🇷|A2| Chronique d'un été |1961| Jean Rouch, Edgar Morin
-N|🇩🇿|C4| Chronique des années de braise |1975| Mohammed Lakhdar-Hamina
-N|🇨🇳|E7| Chungking Express |1995| Wong Kar-Wai
-N|🇺🇸|G6| Chute libre |1993| Joel Schumacher
-N|🇮🇹|E4| Cinema Paradiso |1989| Giuseppe Tornatore
-N|🇺🇸|G3| Cinquante Nuances de Grey |2014| Sam Taylor-Wood
-N|🇺🇸|E5| Citizen Kane |1941| Orson Welles
-N|🇺🇸|B3| Citizenfour |2014| Laura Poitras
-N|🇨🇳|H5| City on fire |1987| Ringo Lam
-N|🇫🇷|E6| Cléo de 5 à 7 |1962| Agnes Varda
-N|🇬🇧|D5| Cléopâtre |1963| Joseph L. Mankiewicz
-N|🇺🇸|G1| Clerks, les employés modèles |1994| Kevin Smith
-N|🇮🇷|A3| Close-Up |1990| Abbas Kiarostami
-N|🇺🇸|E1| Cloud Atlas |2012| Lilly Wachowski, Lana Wachowski, Tom Tykwer
-N|🇺🇸|E6| Cloverfield |2008| Matt Reeves
-N|🇺🇸|A6| Clueless |1995| Amy Heckerling
-N|🇺🇸|I4| Coffy |1973| Jack Hill
-N|🇺🇸|G5| Collatéral |2004| Michael Mann
-N|🇺🇸|A6| Collège attitude |1999| Raja Gosnell
-N|🇺🇸|G4| Color of night |1994| Richard Rush
-N|🇺🇸|I4| Colors |1988| Dennis Hopper
-N|🇺🇸|H4| Comancheria |2016| David MacKenzie
-N|🇺🇸|E3| Commando |1985| Mark L. Lester
-N|🇺🇸|G3| Comment savoir |2010| James L. Brooks
-N|🇺🇸|H2| Comment se faire larguer en 10 leçons |2003| Donald Petrie
-N|🇺🇸|I4| Comment voler un million de dollars |1966| William Wyler
-N|🇺🇸|D3| Conan le barbare |1982| John Milius
-N|🇺🇸|F5| Conjuring : Les dossiers Warren |2013| James Wan
-N|🇺🇸|E3| Contact |1997| Robert Zemeckis
-N|🇺🇸|F3| Contagion |2011| Steven Soderbergh
-N|🇬🇧|C5| Control |2007| Anton Corbijn
-N|🇺🇸|D1| Conversation Secrète |1974| Francis Ford Coppola
-N|🇺🇸|I4| Cooley High |1975| Michael Schultz
-N|🇺🇸|I6| Coup de coeur |1982| Francis Ford Coppola
-N|🇺🇸|G3| Coup de foudre à Notting Hill |1998| Roger Michell
-N|🇫🇷|B5| Coup de tête |1979| Jean-Jacques Annaud
-N|🇩🇪|G4| Cours, Lola, cours |1998| Tom Tykwer
-N|🇨🇦|F2| Crash |1996| David Cronenberg
-N|🇺🇸|G3| Crazy Amy |2015| Judd Apatow
-N|🇫🇷|A2| Crazy Horse |2011| Frederick Wiseman
-N|🇺🇸|G2| Crazy, Stupid, Love |2011| John Requa, Glenn Ficarra
-N|🇳🇿|C5| Créatures célestes |1995| Peter Jackson
-N|🇺🇸|C5| Creed : L'héritage de Rocky Balboa |2015| Ryan Coogler
-N|🇪🇸|D7| Cría Cuervos |1976| Carlos Saura
-N|🇺🇸|I6| Crimes et délits |1989| Woody Allen
-N|🇸🇪|I7| Cris et chuchotements |1972| Ingmar Bergman
-N|🇩🇪|C3| Croix de fer |1978| Sam Peckinpah
-N|🇺🇸|I2| Cry-Baby |1990| John Waters
-N|🇨🇦|E4| Cube |1997| Vincenzo Natali
-N|🇫🇷|D5| Cyrano de Bergerac |1990| Jean-Paul Rappeneau
-N|🇺🇸|C6| Dallas Buyers Club |2013| Jean-Marc Vallee
-N|🇩🇰|I3| Dancer in the Dark |2000| Lars von Trier
-N|🇺🇸|B5| Dangereuse Alliance |1995| Andrew Fleming
-N|🇺🇸|I6| Dangereuse sous tous rapports |1987| Jonathan Demme
-N|🇺🇸|C4| Dans l'ombre de Mary |2013| John Lee Hancock
-N|🇺🇸|I5| Dans la chaleur de la nuit |1967| Norman Jewison
-N|🇺🇸|H7| Dans la ligne de mire |1993| Wolfgang Petersen
-N|🇺🇸|E4| Dans la peau de John Malkovich |1999| Spike Jonze
-N|🇺🇸|D4| Danse avec les loups |1991| Kevin Costner
-N|🇦🇺|E4| Dark City |1998| Alex Proyas
-N|🇺🇸|E7| Dark crystal |1982| Frank Oz, Jim Henson
-N|🇺🇸|G7| Darkman |1990| Sam Raimi
-N|🇺🇸|G1| Date limite |2010| Todd Phillips
-N|🇫🇷|B3| De Nuremberg à Nuremberg |1989| Frederic Rossif
-N|🇺🇸|D5| De sang-froid |1967| Richard Brooks
-N|🇺🇸|F4| Dead Again |1991| Kenneth Branagh
-N|🇺🇸|G4| Dead Man |1995| Jim Jarmusch
-N|🇺🇸|E5| Dead Zone |1983| David Cronenberg
-N|🇺🇸|F7| Deadpool |2016| Tim Miller
-N|🇬🇧|D7| Deep End |1970| Jerzy Skolimowski
-N|🇺🇸|F3| Déjà Vu |2006| Tony Scott
-N|🇺🇸|H7| Délivrance |1972| John Boorman
-N|🇮🇹|F3| Dellamorte dellamore |1994| Michele Soavi
-N|🇺🇸|C3| Démineurs |2008| Kathryn Bigelow
-N|🇺🇸|E2| Demolition Man |1993| Marco Brambilla
-N|🇯🇵|D6| Dersou Ouzala |1975| Akira Kurosawa
-N|🇺🇸|C7| Des gens comme les autres |1980| Robert Redford
-N|🇺🇸|C4| Des hommes d'honneur |1992| Rob Reiner
-N|🇺🇸|E3| Desperado |1995| Robert Rodriguez
-N|🇺🇸|E5| Destination finale |2000| James Wong
-N|🇺🇸|G1| Deux en un |2004| Peter Farrelly, Bobby Farrelly
-N|🇮🇳|I2| Devdas |2002| Sanjay Leela Bhansali
-N|🇫🇷|A5| Diabolo menthe |1977| Diane Kurys
-N|🇺🇸|D7| Diamants sur canapé |1961| Blake Edwards
-N|🇮🇳|I3| Dil se |1998| Mani Ratnam
-N|🇮🇳|I2| Dilwale Dulhania Le Jayenge |1995| Aditya Chopra
-N|🇺🇸|H3| Dirty Dancing |1987| Emile Ardolino
-N|🇺🇸|G1| Disjoncté |1996| Ben Stiller
-N|🇺🇸|E1| District 9 |2009| Neill Blomkamp
-N|🇮🇹|G5| Django |1966| Sergio Corbucci
-N|🇺🇸|G5| Django Unchained |2012| Quentin Tarantino
-N|🇺🇸|I5| Do the Right Thing |1989| Spike Lee
-N|🇺🇸|H1| Docteur Folamour, ou : Comment j'ai appris à ne plus m'en faire et à aimer la bombe |1964| Stanley Kubrick
-N|🇺🇸|H2| Dodgeball |2004| Rawson Marshall Thurber
-N|🇦🇹|H3| Dog Days |2002| Ulrich Seidl
-N|🇺🇸|F1| Dogma |1999| Kevin Smith
-N|🇫🇷|C6| Domicile conjugal |1970| Francois Truffaut
-N|🇺🇸|G6| Donnie Brasco |1997| Mike Newell
-N|🇺🇸|F4| Donnie Darko |2001| Richard Kelly
-N|🇬🇧|A3| Dont Look Back |1967| D.A. Pennebaker
-N|🇺🇸|H6| Double mise |1996| Paul Thomas Anderson
-N|🇺🇸|F5| Down by Law |1986| Jim Jarmusch
-N|🇺🇸|E6| Dracula |1992| Francis Ford Coppola
-N|🇺🇸|I1| Dragonball Evolution |2009| James Wong
-N|🇺🇸|B6| Dragons |2010| Chris Sanders, Dean Deblois
-N|🇺🇸|B6| Dragons 2 |2013| Dean Deblois
-N|🇺🇸|I4| Dressé pour tuer |1981| Samuel Fuller
-N|🇺🇸|E2| Drive |2011| Nicolas Winding Refn
-N|🇺🇸|E2| Driver |1978| Walter Hill
-N|🇺🇸|G2| Drôle de frimousse |1957| Stanley Donen
-N|🇨🇳|D2| Drunken Master |1978| Yuen Woo-ping
-N|🇫🇷|G2| Du côté d'Orouët |1971| Jacques Rozier
-N|🇫🇷|H5| Du rififi chez les hommes |1955| Jules Dassin
-N|🇺🇸|D4| Du silence et des ombres |1962| Robert Mulligan
-N|🇺🇸|F2| Duel |1971| Steven Spielberg
-N|🇺🇸|G1| Dumb et Dumber |1995| Peter Farrelly, Bobby Farrelly
-N|🇺🇸|E1| Dune |1984| David Lynch
-N|🇬🇧|C3| Dunkerque |2017| Christopher Nolan
-N|🇺🇸|C5| Duo à trois |1988| Ron Shelton
-N|🇺🇸|E1| E.T. l'extra-terrestre |1982| Steven Spielberg
-N|🇺🇸|A6| Easy Girl |2010| Will Gluck
-N|🇺🇸|D6| Easy Rider |1968| Dennis Hopper
-N|🇺🇸|A6| Ecarts de conduite |2000| Penny Marshall
-N|🇺🇸|E7| Ecrit sur du vent |1956| Douglas Sirk
-N|🇺🇸|D4| Ed Wood |1994| Tim Burton
-N|🇺🇸|F3| Edge of Tomorrow |2013| Doug Liman
-N|🇺🇸|C6| Edward aux mains d'argent |1990| Tim Burton
-N|🇺🇸|G5| El Dorado |1966| Howard Hawks
-N|🇺🇸|B4| Elephant |2003| Gus Van Sant
-N|🇬🇧|F6| Elephant Man |1980| David Lynch
-N|🇫🇷|G3| Elle |2016| Paul Verhoeven
-N|🇺🇸|G2| Elle |1979| Blake Edwards
-N|🇺🇸|A6| Elle est trop bien |1999| Robert Iscove
-N|🇺🇸|G2| Elle et lui |1957| Leo McCarey
-N|🇺🇸|C3| Empire du soleil |1987| Steven Spielberg
-N|🇺🇸|A6| Empire records |1995| Allan Moyle
-N|🇺🇸|G2| En cloque, mode d'emploi |2007| Judd Apatow
-N|🇺🇸|G6| En quatrième vitesse |1955| Robert Aldrich
-N|🇺🇸|F1| Endiablé |2000| Harold Ramis
-N|🇺🇸|D1| Ennemi d'Etat |1999| Tony Scott
-N|🇫🇷|F5| Enter the Void |2009| Gaspar Noe
-N|🇯🇵|H6| Entre le ciel et l'enfer |1963| Akira Kurosawa
-N|🇩🇰|F3| Epidemic |1987| Lars von Trier
-N|🇺🇸|E5| Eraserhead |1976| David Lynch
-N|🇺🇸|C5| Erin Brockovich, seule contre tous |1999| Steven Soderbergh
-N|🇺🇸|D5| Esther |2008| Jaume Collet-Serra
-N|🇮🇹|H4| Et pour quelques dollars de plus |1965| Sergio Leone
-N|🇺🇸|G3| Et tout le monde riait |1981| Peter Bogdanovich
-N|🇲🇽|B4| Et... ta mère aussi ! |2001| Alfonso Cuaron
-N|🇺🇸|G3| Eternal Sunshine of the Spotless Mind |2004| Michel Gondry
-N|🇫🇷|B3| Être et avoir |2002| Nicolas Philibert
-N|🇺🇸|F1| Etroite surveillance |1987| John Badham
-N|🇺🇸|D4| Eve |1951| Joseph L. Mankiewicz
-N|🇺🇸|A6| Everybody Wants Some |2016| Richard Linklater
-N|🇺🇸|E5| Evil Dead |1982| Sam Raimi
-N|🇺🇸|E6| Evil Dead 2 |1987| Sam Raimi
-N|🇺🇸|G2| Ex Machina |2015| Alex Garland
-N|🇬🇧|E7| Excalibur |1980| John Boorman
-N|🇨🇦|D1| eXistenZ |1999| David Cronenberg
-N|🇨🇦|I5| Exotica |1994| Atom Egoyan
-N|🇺🇸|E3| Expendables : unité spéciale |2010| Sylvester Stallone
-N|🇺🇸|G4| Eyes Wide Shut |1999| Stanley Kubrick
-N|🇺🇸|D7| Faces |1968| John Cassavetes
-N|🇺🇸|A3| Fahrenheit 9/11 |2003| Michael Moore
-N|🇺🇸|H5| Family business |1989| Sidney Lumet
-N|🇺🇸|B5| Fanboys |2008| Kyle Newman
-N|🇸🇪|D6| Fanny et Alexandre |1982| Ingmar Bergman
-N|🇺🇸|H2| Fantasia |1940| Hamilton Luske, Ben Sharpsteen, James Algar, Bill Roberts, Samuel Armstrong, Jim Handley, T. Hee, Paul Satterfield, Ford Beebe, Norman Ferguson, Norm Ferguson, Wilfred Jackson
-N|🇺🇸|H3| Fantastic Mister Fox |2009| Wes Anderson
-N|🇺🇸|F6| Fantômes contre fantômes |1996| Peter Jackson
-N|🇺🇸|H5| Fargo |1996| Joel Coen, Ethan Coen
-N|🇺🇸|E2| Fast & furious |2001| Rob Cohen
-N|🇺🇸|F2| Fast & Furious 5 |2011| Justin Lin
-N|🇺🇸|E2| Fast & Furious 6 |2013| Justin Lin
-N|🇺🇸|F2| Faster, Pussycat! Kill! Kill! |1965| Russ Meyer
-N|🇺🇸|A4| Fatal Games |1989| Michael Lehmann
-N|🇨🇦|E4| Faux-Semblants |1988| David Cronenberg
-N|🇫🇷|G4| Femme Fatale |2002| Brian De Palma
-N|🇪🇸|H2| Femmes au bord de la crise de nerfs |1988| Pedro Almodovar
-N|🇺🇸|D5| Fenêtre secrète |2003| David Koepp
-N|🇺🇸|E5| Fenêtre sur cour |1954| Alfred Hitchcock
-N|🇨🇳|A2| Fengming Chronique d'une femme chinoise |2007| Wang Bing
-N|🇩🇰|D7| Festen |1998| Thomas Vinterberg
-N|🇺🇸|H6| Feux croisés |1947| Edward Dmytryk
-N|🇺🇸|E4| Fight Club |1999| David Fincher
-N|🇺🇸|B5| Fighter |2010| David O. Russell
-N|🇺🇸|E4| Final Cut |2003| Omar Naim
-N|🇬🇧|B5| Fish Tank |2009| Andrea Arnold
-N|🇩🇪|D6| Fitzcarraldo |1982| Werner Herzog
-N|🇺🇸|H3| Flashdance |1983| Adrian Lyne
-N|🇯🇵|I6| Fleur pâle |1964| Masahiro Shinoda
-N|🇺🇸|D7| Flight |2012| Robert Zemeckis
-N|🇺🇸|D5| Flight Plan |2004| Robert Schwentke
-N|🇺🇸|F5| Fog |1979| John Carpenter
-N|🇬🇧|I5| Following - Le suiveur |1999| Christopher Nolan
-N|🇺🇸|B7| Forrest Gump |1994| Robert Zemeckis
-N|🇺🇸|G2| Fous d'Irène |2000| Peter Farrelly, Bobby Farrelly
-N|🇺🇸|B5| Foxcatcher |2014| Bennett Miller
-N|🇺🇸|I4| Foxy Brown |1974| Jack Hill
-N|🇺🇸|C5| Frances Ha |2012| Noah Baumbach
-N|🇺🇸|H1| Frangins malgré eux |2008| Adam McKay
-N|🇺🇸|F6| Frankenstein |1931| James Whale
-N|🇺🇸|H1| Frankenstein Junior |1974| Mel Brooks
-N|🇺🇸|F6| Freaks - La monstrueuse parade |1932| Tod Browning
-N|🇺🇸|A6| Freaky Friday, dans la peau de ma mère |2003| Mark Waters
-N|🇺🇸|E2| French Connection |1972| William Friedkin
-N|🇺🇸|E4| Fréquence Interdite |2000| Gregory Hoblit
-N|🇲🇽|C5| Frida |2002| Julie Taymor
-N|🇺🇸|I4| Friday |1995| F. Gary Gray
-N|🇺🇸|B5| Friday Night Lights |2004| Peter Berg
-N|🇺🇸|B4| Fruitvale Station |2013| Ryan Coogler
-N|🇸🇪|B4| Fucking Åmål |1999| Lukas Moodysson
-N|🇺🇸|C3| Full Metal Jacket |1987| Stanley Kubrick
-N|🇩🇪|H7| Funny Games |1997| Michael Haneke
-N|🇺🇸|F3| Funny People |2008| Judd Apatow
-N|🇺🇸|E7| Furie |1978| Brian De Palma
-N|🇺🇸|F5| Fury |1936| Fritz Lang
-N|🇺🇸|H2| Galaxy Quest |2000| Dean Parisot
-N|🇬🇧|D5| Gandhi |1983| Richard Attenborough
-N|🇺🇸|D4| Gangs of New York |2002| Martin Scorsese
-N|🇮🇳|G7| Gangs of Wasseypur |2012| Anurag Kashyap
-N|🇫🇷|H7| Garde à vue |1981| Claude Miller
-N|🇺🇸|G3| Garden State |2004| Zach Braff
-N|🇺🇸|B6| Génération rebelle |1993| Richard Linklater
-N|🇺🇸|I7| Gerry |2002| Gus Van Sant
-N|🇺🇸|F5| Get Out |2017| Jordan Peele
-N|🇺🇸|D7| Ghost |1990| Jerry Zucker
-N|🇺🇸|H7| Ghost Dog, La Voie Du Samourai |1999| Jim Jarmusch
-N|🇯🇵|E2| Ghost in the Shell |1995| Mamoru Oshii
-N|🇺🇸|C6| Ghost World |2001| Terry Zwigoff
-N|🇺🇸|I5| Gilda |1946| Charles Vidor
-N|🇺🇸|A3| Gimme Shelter |1970| Charlotte Zwerin, David Maysles, Albert Maysles
-N|🇺🇸|G2| Girl Next Door |2003| Luke Greenfield
-N|🇬🇧|D3| Gladiator |2000| Ridley Scott
-N|🇺🇸|H3| Go Go Tales |2007| Abel Ferrara
-N|🇯🇵|E6| Godzilla |1954| Ishirō Honda
-N|🇬🇧|C2| GoldenEye |1995| Martin Campbell
-N|🇬🇧|C1| Goldfinger |1964| Guy Hamilton
-N|🇮🇹|G7| Gomorra |2008| Matteo Garrone
-N|🇺🇸|E5| Gone Girl |2014| David Fincher
-N|🇩🇪|B4| Good Bye, Lenin! |2002| Wolfgang Becker
-N|🇬🇧|I2| Good Morning England |2009| Richard Curtis
-N|🇺🇸|C4| Good morning Vietnam |1987| Barry Levinson
-N|🇬🇧|C5| Gosford Park |2001| Robert Altman
-N|🇺🇸|E2| Gran Torino |2008| Clint Eastwood
-N|🇺🇸|E1| Gravity |2013| Alfonso Cuaron
-N|🇺🇸|I3| Grease |1978| Randal Kleiser
-N|🇺🇸|F6| Gremlins |1984| Joe Dante
-N|🇺🇸|F6| Gremlins 2, la nouvelle génération |1990| Joe Dante
-N|🇺🇸|A2| Grey Gardens |1975| Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles
-N|🇺🇸|B2| Grizzly Man |2005| Werner Herzog
-N|🇺🇸|A4| Gummo |1997| Harmony Korine
-N|🇮🇹|E3| Habemus Papam |2011| Nanni Moretti
-N|🇺🇸|I2| Hair |1979| Milos Forman
-N|🇺🇸|E5| Halloween : La Nuit des masques |1978| John Carpenter
-N|🇯🇵|H5| Hana-bi |1997| Takeshi Kitano
-N|🇺🇸|G6| Hancock |2008| Peter Berg
-N|🇺🇸|D7| Hannah et ses soeurs |1986| Woody Allen
-N|🇺🇸|I7| Happiness |1997| Todd Solondz
-N|🇺🇸|D7| Happiness Therapy |2012| David O. Russell
-N|🇯🇵|H7| Harakiri |1962| Masaki Kobayashi
-N|🇺🇸|G3| Harcèlement |1994| Barry Levinson
-N|🇺🇸|A2| Harlan County |1977| Barbara Kopple
-N|🇺🇸|G2| Harold et Maude |1971| Hal Ashby
-N|🇬🇧|B7| Harry Potter à l'école des sorciers |2001| Chris Columbus
-N|🇬🇧|A7| Harry Potter et l'Ordre du Phénix |2007| David Yates
-N|🇬🇧|B7| Harry Potter et la chambre des secrets |2002| Chris Columbus
-N|🇬🇧|A7| Harry Potter et la Coupe de Feu |2005| Mike Newell
-N|🇬🇧|A7| Harry Potter et le Prince de sang mêlé |2009| David Yates
-N|🇬🇧|A7| Harry Potter et le prisonnier d'Azkaban |2004| Alfonso Cuaron
-N|🇬🇧|A6| Harry Potter et les reliques de la mort - partie 1 |2010| David Yates
-N|🇺🇸|A6| Harry Potter et les reliques de la mort - partie 2 |2011| David Yates
-N|🇺🇸|D5| Harvey Milk |2008| Gus Van Sant
-N|🇫🇷|C7| Haut les coeurs ! |1999| Sólveig Anspach
-N|🇺🇸|I5| Haute pègre |1932| Ernst Lubitsch
-N|🇬🇧|H3| Haute Voltige |1999| Jon Amiel
-N|🇺🇸|C5| He Got Game |1998| Spike Lee
-N|🇺🇸|H5| Heat |1995| Michael Mann
-N|🇺🇸|H2| Hedwig and the Angry Inch |2001| John Cameron Mitchell
-N|🇺🇸|F7| Hellboy |2003| Guillermo del Toro
-N|🇺🇸|F7| Hellboy II les légions d'or maudites |2008| Guillermo del Toro
-N|🇺🇸|F2| Her |2013| Spike Jonze
-N|🇺🇸|H3| High Fidelity |2000| Stephen Frears
-N|🇺🇸|E7| Highlander |1986| Russell Mulcahy
-N|🇫🇷|C4| Hiroshima mon amour |1959| Alain Resnais
-N|🇫🇷|A3| Histoire(s) du cinéma |1998| Jean-Luc Godard
-N|🇺🇸|G2| Hitch, expert en séduction |2005| Andy Tennant
-N|🇺🇸|F6| Hollow Man, l'homme sans ombre |2000| Paul Verhoeven
-N|🇫🇷|E4| Holy Motors |2012| Leos Carax
-N|🇺🇸|H3| Honkytonk Man |1982| Clint Eastwood
-N|🇺🇸|D6| Hook ou la revanche du Capitaine Crochet |1991| Steven Spielberg
-N|🇺🇸|A2| Hoop Dreams |1994| Steve James
-N|🇺🇸|F5| Hostel |2005| Eli Roth
-N|🇬🇧|F1| Hot Fuzz |2007| Edgar Wright
-N|🇺🇸|H1| Hot Shots! |1991| Jim Abrahams
-N|🇺🇸|B4| Hotel Rwanda |2004| Terry George
-N|🇺🇸|E3| Hugo Cabret |2011| Martin Scorsese
-N|🇮🇹|E4| Huit et demi |1963| Federico Fellini
-N|🇺🇸|G7| Hulk |2003| Ang Lee
-N|🇬🇧|F5| Hunger |2008| Steve McQueen
-N|🇺🇸|E3| Hunger Games |2012| Gary Ross
-N|🇺🇸|C5| Husbands |1971| John Cassavetes
-N|🇺🇸|I4| Hustle & Flow |2005| Craig Brewer
-N|🇺🇸|E3| Hyper tension |2005| Mark Neveldine, Brian Taylor
-N|🇺🇸|E3| Hyper tension 2 |2009| Mark Neveldine, Brian Taylor
-N|🇺🇸|A2| I Am Not Your Negro |2016| Raoul Peck
-N|🇺🇸|G2| I Love You Phillip Morris |2009| Glenn Ficarra, John Requa
-N|🇺🇸|C5| I'm Not There |2007| Todd Haynes
-N|🇺🇸|E1| I, Robot |2004| Alex Proyas
-N|🇯🇵|H7| Ichi the killer |2001| Takashi Miike
-N|🇺🇸|H1| Idiocracy |2006| Mike Judge
-N|🇬🇧|F3| Il était temps |2012| Richard Curtis
-N|🇮🇹|H5| Il était une fois dans l'Ouest |1969| Sergio Leone
-N|🇺🇸|G6| Il était une fois en Amérique |1984| Sergio Leone
-N|🇨🇳|D2| Il était une fois en Chine |1991| Tsui Hark
-N|🇮🇹|D4| Il était une fois la révolution |1972| Sergio Leone
-N|🇺🇸|C3| Il faut sauver le soldat Ryan |1998| Steven Spielberg
-N|🇺🇸|G4| Impitoyable |1992| Clint Eastwood
-N|🇺🇸|G3| In Her Shoes |2005| Curtis Hanson
-N|🇺🇸|H3| In the Cut |2003| Jane Campion
-N|🇺🇸|H1| In the loop |2008| Armando Iannucci
-N|🇨🇳|E7| In the Mood for Love |2000| Wong Kar-Wai
-N|🇺🇸|E7| Incassable |2000| M. Night Shyamalan
-N|🇨🇦|E5| Incendies |2010| Denis Villeneuve
-N|🇺🇸|E3| Inception |2010| Christopher Nolan
-N|🇺🇸|F1| Independence Day |1996| Roland Emmerich
-N|🇺🇸|D6| Indiana Jones et la Dernière Croisade |1989| Steven Spielberg
-N|🇺🇸|D6| Indiana Jones et le Temple maudit |1984| Steven Spielberg
-N|🇺🇸|D6| Indiana Jones et les aventuriers de l'Arche perdue |1981| Steven Spielberg
-N|🇺🇸|F1| Indiscrétion assurée |1993| John Badham
-N|🇺🇸|G2| Indiscrétions |1940| George Cukor
-N|🇨🇳|G6| Infernal affairs |2002| Alan Mak, Andrew Lau
-N|🇺🇸|C3| Inglourious Basterds |2008| Quentin Tarantino
-N|🇺🇸|H6| Inherent vice |2014| Paul Thomas Anderson
-N|🇺🇸|E5| Inland Empire |2006| David Lynch
-N|🇫🇷|G3| Innocents |2002| Bernardo Bertolucci
-N|🇺🇸|I4| Insaisissables |2013| Louis Leterrier
-N|🇺🇸|B2| Inside Job |2010| Charles Ferguson
-N|🇺🇸|H2| Inside Llewyn Davis |2012| Joel Coen, Ethan Coen
-N|🇺🇸|I4| Inside Man - l'homme de l'intérieur |2006| Spike Lee
-N|🇺🇸|F4| Insomnia |2002| Christopher Nolan
-N|🇺🇸|E4| Interstellar |2014| Christopher Nolan
-N|🇺🇸|D6| Into the Wild |2008| Sean Penn
-N|🇫🇷|H2| Intouchables |2011| Eric Toledano, Olivier Nakache
-N|🇺🇸|F3| Invasion Los Angeles |1988| John Carpenter
-N|🇺🇸|G7| Iron Man |2008| Jon Favreau
-N|🇺🇸|G7| Iron Man 3 |2013| Shane Black
-N|🇫🇷|H7| Irréversible |2002| Gaspar Noe
-N|🇺🇸|E5| It Follows |2014| David Robert Mitchell
-N|🇺🇸|C5| J. Edgar |2012| Clint Eastwood
-N|🇺🇸|E3| Jack Reacher |2012| Christopher McQuarrie
-N|🇺🇸|I4| Jackie Brown |1997| Quentin Tarantino
-N|🇨🇳|D2| Jackie Chan dans le Bronx |1995| Stanley Tong
-N|🇬🇧|C1| James Bond 007 contre Dr. No |1962| Terence Young
-N|🇺🇸|D3| Jarhead |2005| Sam Mendes
-N|🇺🇸|E2| Je suis une légende |2007| Francis Lawrence
-N|🇫🇷|F4| Je t'aime, je t'aime |1968| Alain Resnais
-N|🇺🇸|A6| Jem et les Hologrammes |2015| Jon M. Chu
-N|🇺🇸|G3| Jerry Maguire |1996| Cameron Crowe
-N|🇺🇸|H1| Jeux dangereux |1942| Ernst Lubitsch
-N|🇺🇸|C4| JFK |1991| Oliver Stone
-N|🇺🇸|A3| Jodorowsky’s Dune |2013| Franck Pavich
-N|🇺🇸|E7| John Carter |2012| Andrew Stanton
-N|🇺🇸|D3| John Rambo |2008| Sylvester Stallone
-N|🇺🇸|E3| John Wick |2014| David Leitch, Chad Stahelski
-N|🇺🇸|G4| Johnny Guitare |1953| Nicholas Ray
-N|🇺🇸|C3| Johnny s'en va-t-en guerre |1971| Dalton Trumbo
-N|🇺🇸|G4| Josey Wales, hors-la-loi |1976| Clint Eastwood
-N|🇬🇧|B5| Joue-la comme Beckham |2002| Gurinder Chadha
-N|🇫🇷|H1| Jour de fête |1949| Jacques Tati
-N|🇺🇸|F2| Jours de tonnerre |1990| Tony Scott
-N|🇺🇸|B5| Joy |2015| David O. Russell
-N|🇺🇸|F1| Judge Dredd |1995| Danny Cannon
-N|🇺🇸|C4| Jugement à Nuremberg |1961| Stanley Kramer
-N|🇺🇸|I4| Juice |1992| Ernest Dickerson
-N|🇫🇷|D7| Jules et Jim |1961| Francois Truffaut
-N|🇺🇸|C6| Jumanji |1996| Joe Johnston
-N|🇺🇸|D7| Jungle Fever |1991| Spike Lee
-N|🇺🇸|B4| Juno |2007| Jason Reitman
-N|🇺🇸|E1| Jupiter : Le Destin de l'Univers |2013| Lilly Wachowski, Lana Wachowski
-N|🇺🇸|F2| Jurassic Park |1993| Steven Spielberg
-N|🇺🇸|F1| Jurassic World |2015| Colin Trevorrow
-N|🇺🇸|F5| Jusqu'en enfer |2009| Sam Raimi
-N|🇺🇸|G3| Kaboom |2010| Gregg Araki
-N|🇯🇵|H7| Kagemusha, l'ombre du guerrier |1980| Akira Kurosawa
-N|🇯🇵|C7| Kaïro |2001| Kiyoshi Kurosawa
-N|🇺🇸|B5| Karate Kid |1984| John G. Avildsen
-N|🇺🇸|F3| Kate & Leopold |2002| James Mangold
-N|🇺🇸|G3| Ken Park |2002| Larry Clark, Edward Lachman
-N|🇬🇧|C6| Kes |1969| Ken Loach
-N|🇺🇸|G6| Kick-Ass |2010| Matthew Vaughn
-N|🇺🇸|G7| Kick-Ass 2 |2013| Jeff Wadlow
-N|🇺🇸|A4| Kids |1995| Larry Clark
-N|🇺🇸|E2| Kill Bill: Volume I |2003| Quentin Tarantino
-N|🇺🇸|E2| Kill Bill: Volume II |2003| Quentin Tarantino
-N|🇺🇸|F4| Killer Joe |2011| William Friedkin
-N|🇺🇸|D7| Killer of Sheep |1977| Charles Burnett
-N|🇺🇸|E6| King Kong |1933| Merian C. Cooper, Ernest B. Schoedsack
-N|🇺🇸|E6| King Kong |2005| Peter Jackson
-N|🇬🇧|D4| Kingdom of Heaven |2005| Ridley Scott
-N|🇺🇸|H2| Kingpin |1996| Peter Farrelly, Bobby Farrelly
-N|🇺🇸|D1| Kingsman : Services Secrets |2014| Matthew Vaughn
-N|🇺🇸|H2| Kiss Kiss Bang Bang |2005| Shane Black
-N|🇺🇸|I5| Klute |1971| Alan J. Pakula
-N|🇭🇺|F1| Kontroll |2003| Nimrod Antal
-N|🇺🇸|B2| Koyaanisqatsi |1982| Godfrey Reggio
-N|🇺🇸|C6| Kramer contre Kramer |1978| Robert Benton
-N|🇮🇳|I2| Kuch Kuch Hota Hai |1998| Karan Johar
-N|🇺🇸|D1| L'Affaire Cicéron |1952| Joseph L. Mankiewicz
-N|🇺🇸|H3| L'Affaire Thomas Crown |1968| Norman Jewison
-N|🇺🇸|E1| L'Age de Cristal |1976| Michael Anderson
-N|🇫🇷|G3| L'Amant |1992| Jean-Jacques Annaud
-N|🇩🇪|G6| L'Ami américain |1977| Wim Wenders
-N|🇺🇸|D7| L'Amour extra large |2002| Peter Farrelly, Bobby Farrelly
-N|🇲🇽|E4| L'Ange exterminateur |1962| Luis Bunuel
-N|🇫🇷|E4| L'Année dernière à Marienbad |1961| Alain Resnais
-N|🇺🇸|I5| L'Année du Dragon |1985| Michael Cimino
-N|🇺🇸|E4| L'antre de la folie |1995| John Carpenter
-N|🇷🇺|F3| L'Arche russe |2003| Alexandr Sokurov
-N|🇬🇧|D7| L'Arme à l'œil |1981| Richard Marquand
-N|🇺🇸|F1| L'Arme fatale |1987| Richard Donner
-N|🇺🇸|F1| L'Arme fatale 2 |1989| Richard Donner
-N|🇺🇸|F4| L'Armée des 12 singes |1995| Terry Gilliam
-N|🇫🇷|B4| L'Armée des Ombres |1969| Jean-Pierre Melville
-N|🇺🇸|H5| L'Arnaque |1973| George Roy Hill
-N|🇺🇸|C5| L'Arnaqueur |1961| Robert Rossen
-N|🇫🇷|E4| L'Arrivée d'un train en gare de La Ciotat |1896| Louis Lumiere, Auguste Lumiere
-N|🇺🇸|A5| L'Arriviste |1999| Alexander Payne
-N|🇺🇸|G4| L'Assassinat de Jesse James par le lâche Robert Ford |2007| Andrew Dominik
-N|🇮🇳|I3| L'Assoiffé |1957| Guru Dutt
-N|🇫🇷|D6| L'Atalante |1934| Jean Vigo
-N|🇺🇸|D7| L'Aurore |1927| Friedrich Wilhelm Murnau
-N|🇺🇸|F6| L'Aventure de Mme Muir |1947| Joseph L. Mankiewicz
-N|🇺🇸|E1| L'Aventure intérieure |1987| Joe Dante
-N|🇮🇹|E6| L'Avventura |1960| Michelangelo Antonioni
-N|🇺🇸|F5| L'Échelle de Jacob |1991| Adrian Lyne
-N|🇺🇸|D5| L'Effet papillon |2003| Eric Bress, J. Mackye Gruber
-N|🇯🇵|G3| L'Empire des Sens |1976| Nagisa Oshima
-N|🇺🇸|F6| L'Emprise |1981| Sidney J. Furie
-N|🇷🇺|B4| L'Enfance d'Ivan |1962| Andrei Tarkovski
-N|🇨🇦|F6| L'Enfant du diable |1980| Peter Medak
-N|🇺🇸|B5| L'Enfer du dimanche |1999| Oliver Stone
-N|🇺🇸|C6| L'Épouvantail |1973| Jerry Schatzberg
-N|🇺🇸|E3| L'Epreuve de force |1977| Clint Eastwood
-N|🇪🇸|F6| L'esprit de la ruche |1973| Victor Erice
-N|🇯🇵|C6| L'Eté de Kikujiro |1999| Takeshi Kitano
-N|🇺🇸|D1| L'Etoffe des héros |1983| Philip Kaufman
-N|🇺🇸|B6| L'Etrange histoire de Benjamin Button |2008| David Fincher
-N|🇺🇸|I2| L'Étrange Noël de Monsieur Jack |1994| Henry Selick
-N|🇺🇸|F5| L'Evadé d'Alcatraz |1979| Don Siegel
-N|🇮🇹|E3| L'Évangile selon St Matthieu |1964| Pier Paolo Pasolini
-N|🇺🇸|F5| L'Exorciste |1974| William Friedkin
-N|🇺🇸|D4| L'Extravagant M. Deeds |1936| Frank Capra
+N|US|G3| (500) jours ensemble |2007| Marc Webb
+N|US|B5| 10 bonnes raisons de te larguer |2000| Gil Junger
+N|US|D5| 12 hommes en colère |1957| Sidney Lumet
+N|US|B4| 12 Years a Slave |2013| Steve McQueen
+N|US|B5| 127 heures |2010| Danny Boyle
+N|RO|H1| 12h08 à l'est de Bucarest |2007| Corneliu Porumboiu
+N|US|D4| 1492 : Christophe Colomb |1992| Ridley Scott
+N|US|C3| 1941 |1979| Steven Spielberg
+N|US|A3| 20 Feet from Stardom |2013| Morgan Neville
+N|US|E4| 2001 : l'odyssée de l'espace |1968| Stanley Kubrick
+N|US|D7| 21 grammes |2003| Alejandro Gonzalez Inarritu
+N|US|F1| 21 Jump Street |2012| Phil Lord, Chris Miller
+N|GB|F4| 28 jours plus tard |2002| Danny Boyle
+N|US|H3| 3 amigos ! |1986| John Landis
+N|IN|I3| 3 Idiots |2009| Rajkumar Hirani
+N|US|A6| 30 ans sinon rien |2003| Gary Winick
+N|US|D4| 300 |2006| Zack Snyder
+N|FR|F3| 37°2 le matin |1985| Jean-Jacques Beineix
+N|US|G5| 3h10 pour Yuma |2007| James Mangold
+N|RO|D7| 4 mois, 3 semaines, 2 jours |2007| Cristian Mungiu
+N|US|G2| 40 ans, toujours puceau |2005| Judd Apatow
+N|US|E1| 48 heures |1982| Walter Hill
+N|US|D7| 50/50 |2010| Jonathan Levine
+N|US|D3| 58 minutes pour vivre |1990| Renny Harlin
+N|US|F2| 60 secondes chrono |2000| Dominic Sena
+N|US|C5| 8 Mile |2001| Curtis Hanson
+N|US|G3| 9 semaines 1/2 |1986| Adrian Lyne
+N|US|C6| À bout de course |1988| Sidney Lumet
+N|FR|G6| À bout de souffle |1959| Jean-Luc Godard
+N|US|E4| A Dangerous Method |2011| David Cronenberg
+N|US|G6| A History of Violence |2005| David Cronenberg
+N|US|B5| À l'est d'Eden |1954| Elia Kazan
+N|CN|A2| À l'ouest des rails |2002| Wang Bing
+N|JP|A2| À la folie |2013| Wang Bing
+N|US|D3| À la poursuite d'Octobre rouge |1990| John McTiernan
+N|US|F1| À la poursuite de demain |2015| Brad Bird
+N|US|D6| À la poursuite du diamant vert |1984| Robert Zemeckis
+N|US|A3| À la recherche de Vivian Maier |2014| John Maloof, Charlie Siskel
+N|FR|D7| À nos amours |1983| Maurice Pialat
+N|US|D1| A Scanner Darkly |2006| Richard Linklater
+N|US|H3| A Single Man |2008| Tom Ford
+N|SE|B4| A Swedish Love Story |1969| Roy Andersson
+N|CN|G6| A Touch Of Sin |2013| Jia Zhangke
+N|TW|D2| A Touch Of Zen |1971| King Hu
+N|CN|E3| À toute épreuve |1992| John Woo
+N|US|F2| A.I. Intelligence artificielle |2001| Steven Spielberg
+N|US|F3| Abattoir 5 |1972| George Roy Hill
+N|US|E1| Abyss |1989| James Cameron
+N|US|G1| Ace Ventura, détective chiens et chats |1995| Tom Shadyac
+N|US|E4| Adaptation |2002| Spike Jonze
+N|CN|I5| Adieu ma concubine |1993| Chen Kaige
+N|US|F2| Adventureland : un job d'été à éviter |2009| Greg Mottola
+N|IT|I5| Affreux, sales et méchants |1976| Ettore Scola
+N|US|F4| After Hours |1985| Martin Scorsese
+N|DE|D6| Aguirre, la colère de Dieu |1972| Werner Herzog
+N|JP|G2| Air Doll |2009| Hirokazu Kore-Eda
+N|JP|F3| Akira |1988| Katsuhiro Otomo
+N|BE|C7| Alabama Monroe |2012| Felix Van Groeningen
+N|US|B6| Aladdin |1992| John Musker, Ron Clements
+N|EG|E3| Alexandrie, encore et toujours |1990| Youssef Chahine
+N|US|C5| Ali |2001| Michael Mann
+N|US|B6| Alice au pays des merveilles |1951| Clyde Geronimi, Hamilton Luske, Wilfred Jackson
+N|US|B6| Alice n'est plus ici |1974| Martin Scorsese
+N|US|F5| Alien 3 |1992| David Fincher
+N|GB|F6| Alien, le 8e passager |1979| Ridley Scott
+N|US|F6| Aliens, le retour |1986| James Cameron
+N|US|G3| All about Albert |2013| Nicole Holofcener
+N|US|D6| All is Lost |2012| J. C. Chandor
+N|IT|C4| Allemagne année zéro |1947| Roberto Rossellini
+N|US|C5| Amadeus |1984| Milos Forman
+N|IT|H2| Amarcord |1973| Federico Fellini
+N|US|D7| American Beauty |1999| Sam Mendes
+N|US|G1| American College |1977| John Landis
+N|US|I4| American Gangster |2007| Ridley Scott
+N|US|B6| American girls |2000| Peyton Reed
+N|US|B5| American Graffiti |1973| George Lucas
+N|US|D7| American History X |1998| Tony Kaye
+N|US|B6| American Honey |2016| Andrea Arnold
+N|US|B5| American Pie |1999| Paul Weitz, Chris Weitz
+N|US|G7| American Psycho |2000| Mary Harron
+N|US|C3| American Sniper |2014| Clint Eastwood
+N|FR|D7| Amour |2012| Michael Haneke
+N|US|E7| Amour et amnésie |2004| Peter Segal
+N|MX|H6| Amours chiennes |2000| Alejandro Gonzalez Inarritu
+N|GB|A3| Amy |2015| Asif Kapadia
+N|RU|C5| Andreï Roublev |1966| Andrei Tarkovski
+N|US|E4| Angel Heart |1987| Alan Parker
+N|US|G3| Annie Hall |1977| Woody Allen
+N|US|D7| Anomalisa |2015| Duke Johnson, Charlie Kaufman
+N|US|G7| Ant-Man |2015| Peyton Reed
+N|US|A3| Anvil ! |2008| Sacha Gervasi
+N|FR|G3| Anything else, la vie et tout le reste |2002| Woody Allen
+N|US|C4| Apocalypse Now |1979| Francis Ford Coppola
+N|US|D4| Apocalypto |2007| Mel Gibson
+N|US|D1| Apollo 13 |1995| Ron Howard
+N|US|H5| Apportez-moi la tête d'Alfredo Garcia |1975| Sam Peckinpah
+N|BR|I5| Aquarius |2016| Kleber Mendonca Filho
+N|US|D4| Argo |2012| Ben Affleck
+N|US|D6| Arizona Dream |1992| Emir Kusturica
+N|US|H2| Arizona Junior |1986| Joel Coen, Ethan Coen
+N|US|E1| Armageddon |1997| Michael Bay
+N|GB|H6| Arnaques, crimes et botanique |1998| Guy Ritchie
+N|US|G2| Arrêt d'autobus |1956| Joshua Logan
+N|US|G7| Arrête-moi si tu peux |2002| Steven Spielberg
+N|US|H1| Arsenic et Vieilles Dentelles |1944| Frank Capra
+N|FR|H6| Ascenseur pour l'échafaud |1957| Louis Malle
+N|US|F5| Assaut |1976| John Carpenter
+N|US|H5| Assurance sur la mort |1944| Billy Wilder
+N|US|A3| At Berkeley |2013| Frederick Wiseman
+N|GB|F1| Attack The Block |2011| Joe Cornish
+N|GB|F5| Au nom du père |1993| Jim Sheridan
+N|US|G6| Au revoir à jamais |1996| Renny Harlin
+N|FR|C3| Au revoir les enfants |1987| Louis Malle
+N|US|G1| Austin Powers |1997| Jay Roach
+N|US|G1| Austin Powers - l'espion qui m'a tirée |1999| Jay Roach
+N|US|C5| Autant en emporte le vent |1939| Victor Fleming
+N|US|D4| Autopsie d'un meurtre |1959| Otto Preminger
+N|US|A3| Aux coeurs des ténèbres - l'apocalypse d'un metteur en scène |1992| Eleanor Coppola, Fax Bahr, George Hickenlooper
+N|PL|D1| Avalon |2001| Mamoru Oshii
+N|US|E1| Avatar |2009| James Cameron
+N|US|D3| Avé César ! |2016| Joel Coen, Ethan Coen
+N|US|G7| Avengers |2012| Joss Whedon
+N|US|G7| Avengers : Infinity War |2018| Anthony Russo, Joe Russo
+N|US|G7| Avengers : L'ère d'Ultron |2015| Joss Whedon
+N|US|D4| Aviator |2004| Martin Scorsese
+N|FR|C4| Avoir 20 ans dans les Aurès |1972| René Vautier
+N|US|H3| Baby Driver |2017| Edgar Wright
+N|AU|E4| Bad Boy Bubby |1993| Rolf De heer
+N|US|F1| Bad Boys |1995| Michael Bay
+N|US|F1| Bad Boys II |2002| Michael Bay
+N|US|G6| Bad Lieutenant |1992| Abel Ferrara
+N|US|G6| Bad Lieutenant : Escale à la Nouvelle-Orléans |2009| Werner Herzog
+N|NZ|F6| Bad Taste |1987| Peter Jackson
+N|FR|C6| Baisers volés |1968| Francois Truffaut
+N|ES|F6| Balada Triste |2010| Alex de la Iglesia
+N|US|B6| Bambi |1942| David Hand, James Algar, Samuel Armstrong, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright
+N|FR|H3| Bande à part |1964| Jean-Luc Godard
+N|FR|B5| Bande de filles |2014| Celine Sciamma
+N|GB|F3| Bandits, bandits |1981| Terry Gilliam
+N|JP|C6| Barberousse |1965| Akira Kurosawa
+N|US|C5| Barry Lyndon |1975| Stanley Kubrick
+N|US|D3| Barton Fink |1991| Joel Coen, Ethan Coen
+N|US|G3| Basic Instinct |1992| Paul Verhoeven
+N|US|G6| Batman |1989| Tim Burton
+N|US|F7| Batman & Robin |1997| Joel Schumacher
+N|GB|F7| Batman Begins |2004| Christopher Nolan
+N|US|G7| Batman Forever |1995| Joel Schumacher
+N|US|F7| Batman v. Superman : L'aube de la justice |2014| Zack Snyder
+N|US|G6| Batman, le défi |1992| Tim Burton
+N|JP|E2| Battle Royale |2000| Kinji Fukasaku
+N|US|F1| Beetlejuice |1988| Tim Burton
+N|US|E6| Before Sunrise |1995| Richard Linklater
+N|FR|G4| Belle de jour |1967| Luis Bunuel
+N|US|D3| Ben-Hur |1959| William Wyler
+N|US|F1| Bienvenue à Gattaca |1997| Andrew Niccol
+N|US|F2| Bienvenue à Zombieland |2008| Ruben Fleischer
+N|US|H2| Bienvenue Mister Chance |1979| Hal Ashby
+N|US|C6| Big |1988| Penny Marshall
+N|US|D4| Big Eyes |2014| Tim Burton
+N|US|D6| Big Fish |2003| Tim Burton
+N|GB|H2| Billy Elliot |1999| Stephen Daldry
+N|US|C4| Bird |1987| Clint Eastwood
+N|US|I1| Birdemic: Shock and Terror |2008| James Nguyen
+N|US|D4| Birdman |2014| Alejandro Gonzalez Inarritu
+N|US|D4| Birdy |1984| Alan Parker
+N|NL|C4| Black Book |2006| Paul Verhoeven
+N|US|G7| Black Panther |2018| Ryan Coogler
+N|US|F5| Black Swan |2011| Darren Aronofsky
+N|US|B2| Blackfish |2013| Gabriela Cowperthwaite
+N|US|F6| Blade |1998| Stephen Norrington
+N|US|F6| Blade 2 |2002| Guillermo del Toro
+N|US|D1| Blade Runner |1982| Ridley Scott
+N|ES|E7| Blancanieves |2012| Pablo Berger
+N|US|F7| Blanche-Neige et les sept nains |1937| David Hand
+N|US|B5| Bliss |2009| Drew Barrymore
+N|US|D2| Bloodsport, tous les coups sont permis |1988| Newt Arnold
+N|GB|C4| Bloody Sunday |2002| Paul Greengrass
+N|US|H7| Blow Out |1981| Brian De Palma
+N|GB|H7| Blow-up |1967| Michelangelo Antonioni
+N|US|E7| Blue Jasmine |2013| Woody Allen
+N|US|H7| Blue Ruin |2013| Jeremy Saulnier
+N|US|E5| Blue Velvet |1986| David Lynch
+N|US|E5| Body Double |1984| Brian De Palma
+N|US|F5| Body Snatchers |1993| Abel Ferrara
+N|US|H7| Bodyguard |1992| Mick Jackson
+N|US|G2| Boire et déboires |1987| Blake Edwards
+N|JP|B6| Bonjour |1959| Yasujiro Ozu
+N|US|H3| Bonnie and Clyde |1967| Arthur Penn
+N|GB|F3| Bons Baisers de Bruges |2008| Martin McDonagh
+N|GB|C1| Bons baisers de Russie |1963| Terence Young
+N|US|D4| Boogie Nights |1997| Paul Thomas Anderson
+N|US|H1| Borat, leçons culturelles sur l'Amérique au profit glorieuse nation Kazakhstan |2005| Larry Charles
+N|US|I4| Bottle Rocket |1996| Wes Anderson
+N|US|G2| Boule de feu |1941| Howard Hawks
+N|US|F2| Boulevard de la mort - un film Grindhouse |2007| Quentin Tarantino
+N|US|E4| Boulevard du crépuscule |1950| Billy Wilder
+N|US|F4| Bound |1996| Lilly Wachowski, Lana Wachowski
+N|US|A3| Bowling for Columbine |2002| Michael Moore
+N|US|A2| Boxing Gym |2010| Frederick Wiseman
+N|US|F3| Boxing Helena |1993| Jennifer Chambers Lynch
+N|US|C6| Boyhood |2014| Richard Linklater
+N|US|B4| Boys Don't Cry |1999| Kimberly Peirce
+N|US|I4| Boyz'n the Hood, la loi de la rue |1990| John Singleton
+N|NZ|F5| Braindead |1992| Peter Jackson
+N|US|H3| Braqueurs Amateurs |2004| Dean Parisot
+N|US|D4| Braveheart |1995| Mel Gibson
+N|GB|F1| Brazil |1985| Terry Gilliam
+N|US|A5| Breakfast Club |1985| John Hughes
+N|DK|G3| Breaking the Waves |1996| Lars von Trier
+N|GB|E6| Brève Rencontre |1945| David Lean
+N|US|F3| Broadcast news |1987| James L. Brooks
+N|US|H1| Broadway Danny Rose |1984| Woody Allen
+N|GB|D5| Bronson |2009| Nicolas Winding Refn
+N|US|D3| Brothers |2009| Jim Sheridan
+N|US|H3| Brown Bunny |2003| Vincent Gallo
+N|US|F1| Bruce tout-puissant |2003| Tom Shadyac
+N|CU|A3| Buena Vista Social Club |1998| Wim Wenders
+N|US|F5| Buffalo'66 |1998| Vincent Gallo
+N|US|E4| Bug |2006| William Friedkin
+N|US|E2| Bullitt |1968| Peter Yates
+N|US|A4| Bully |2001| Larry Clark
+N|US|E5| Buried |2010| Rodrigo Cortes
+N|US|H4| Butch Cassidy et le Kid |1969| George Roy Hill
+N|US|F1| C'est la fin |2013| Seth Rogen, Evan Goldberg
+N|US|C6| C'est ma vie, après tout ! |1981| John Badham
+N|US|F3| C'était demain |1979| Nicholas Meyer
+N|US|B5| Ça chauffe au lycée Ridgemont |1982| Amy Heckerling
+N|US|I3| Cabaret |1972| Bob Fosse
+N|FR|E5| Caché |2003| Michael Haneke
+N|FR|H1| Calmos |1976| Bertrand Blier
+N|IT|E6| Cannibal Holocaust |1980| Ruggero Deodato
+N|US|D6| Capitaine Phillips |2012| Paul Greengrass
+N|US|G7| Captain America : Civil War |2016| Anthony Russo, Joe Russo
+N|US|G7| Captain America, le soldat de l'hiver |2014| Joe Russo, Anthony Russo
+N|US|G7| Captain America: First Avenger |2011| Joe Johnston
+N|US|B2| Capturing the Friedmans |2003| Andrew Jarecki
+N|US|I3| Carmen Jones |1955| Otto Preminger
+N|US|C7| Carol |2015| Todd Haynes
+N|US|E5| Carrie au bal du diable |1976| Brian De Palma
+N|US|E2| Cars |2006| John Lasseter, Joe Ranft
+N|US|E6| Casablanca |1942| Michael Curtiz
+N|US|H6| Casino |1995| Martin Scorsese
+N|US|C1| Casino Royale |2006| Martin Campbell
+N|GB|C1| Casino Royale |1967| John Huston, Ken Hughes, Val Guest, Robert Parrish, Joseph McGrath
+N|US|F1| Casper |1995| Brad Silberling
+N|US|E7| Ce que veulent les femmes |2001| Nancy Meyers
+N|US|E7| Cendrillon |1950| Clyde Geronimi, Walt Disney, Wilfred Jackson, Hamilton Luske
+N|US|G4| Cent dollars pour un shérif |1969| Henry Hathaway
+N|US|H2| Certains l'aiment chaud |1959| Billy Wilder
+N|FR|D7| César et Rosalie |1972| Claude Sautet
+N|US|I7| Chaînes conjugales |1949| Joseph L. Mankiewicz
+N|IN|I2| Chalte Chalte |2003| Aziz Mirza
+N|GB|D5| Chambre avec vue |1986| James Ivory
+N|US|H3| Chantons sous la pluie |1952| Stanley Donen, Gene Kelly
+N|US|D1| Charade |1964| Stanley Donen
+N|US|I2| Charlie et la chocolaterie |1971| Mel Stuart
+N|GB|B5| Charlie et la chocolaterie |2005| Tim Burton
+N|US|E2| Charlie et ses drôles de dames |2000| McG
+N|FR|I3| Chat noir, chat blanc |1998| Emir Kusturica
+N|US|G1| Chérie je me sens rajeunir |1952| Howard Hawks
+N|US|C3| Cheval de guerre |2011| Steven Spielberg
+N|GB|F5| Chicken run |2000| Nick Park, Peter Lord
+N|JP|H6| Chien enragé |1949| Akira Kurosawa
+N|US|H6| Chinatown |1974| Roman Polanski
+N|US|F2| Christine |1983| John Carpenter
+N|CA|E5| Chromosome 3 |1979| David Cronenberg
+N|US|E7| Chronicle |2011| Josh Trank
+N|FR|A2| Chronique d'un été |1961| Jean Rouch, Edgar Morin
+N|DZ|C4| Chronique des années de braise |1975| Mohammed Lakhdar-Hamina
+N|CN|E7| Chungking Express |1995| Wong Kar-Wai
+N|US|G6| Chute libre |1993| Joel Schumacher
+N|IT|E4| Cinema Paradiso |1989| Giuseppe Tornatore
+N|US|G3| Cinquante Nuances de Grey |2014| Sam Taylor-Wood
+N|US|E5| Citizen Kane |1941| Orson Welles
+N|US|B3| Citizenfour |2014| Laura Poitras
+N|CN|H5| City on fire |1987| Ringo Lam
+N|FR|E6| Cléo de 5 à 7 |1962| Agnes Varda
+N|GB|D5| Cléopâtre |1963| Joseph L. Mankiewicz
+N|US|G1| Clerks, les employés modèles |1994| Kevin Smith
+N|IR|A3| Close-Up |1990| Abbas Kiarostami
+N|US|E1| Cloud Atlas |2012| Lilly Wachowski, Lana Wachowski, Tom Tykwer
+N|US|E6| Cloverfield |2008| Matt Reeves
+N|US|A6| Clueless |1995| Amy Heckerling
+N|US|I4| Coffy |1973| Jack Hill
+N|US|G5| Collatéral |2004| Michael Mann
+N|US|A6| Collège attitude |1999| Raja Gosnell
+N|US|G4| Color of night |1994| Richard Rush
+N|US|I4| Colors |1988| Dennis Hopper
+N|US|H4| Comancheria |2016| David MacKenzie
+N|US|E3| Commando |1985| Mark L. Lester
+N|US|G3| Comment savoir |2010| James L. Brooks
+N|US|H2| Comment se faire larguer en 10 leçons |2003| Donald Petrie
+N|US|I4| Comment voler un million de dollars |1966| William Wyler
+N|US|D3| Conan le barbare |1982| John Milius
+N|US|F5| Conjuring : Les dossiers Warren |2013| James Wan
+N|US|E3| Contact |1997| Robert Zemeckis
+N|US|F3| Contagion |2011| Steven Soderbergh
+N|GB|C5| Control |2007| Anton Corbijn
+N|US|D1| Conversation Secrète |1974| Francis Ford Coppola
+N|US|I4| Cooley High |1975| Michael Schultz
+N|US|I6| Coup de coeur |1982| Francis Ford Coppola
+N|US|G3| Coup de foudre à Notting Hill |1998| Roger Michell
+N|FR|B5| Coup de tête |1979| Jean-Jacques Annaud
+N|DE|G4| Cours, Lola, cours |1998| Tom Tykwer
+N|CA|F2| Crash |1996| David Cronenberg
+N|US|G3| Crazy Amy |2015| Judd Apatow
+N|FR|A2| Crazy Horse |2011| Frederick Wiseman
+N|US|G2| Crazy, Stupid, Love |2011| John Requa, Glenn Ficarra
+N|NZ|C5| Créatures célestes |1995| Peter Jackson
+N|US|C5| Creed : L'héritage de Rocky Balboa |2015| Ryan Coogler
+N|ES|D7| Cría Cuervos |1976| Carlos Saura
+N|US|I6| Crimes et délits |1989| Woody Allen
+N|SE|I7| Cris et chuchotements |1972| Ingmar Bergman
+N|DE|C3| Croix de fer |1978| Sam Peckinpah
+N|US|I2| Cry-Baby |1990| John Waters
+N|CA|E4| Cube |1997| Vincenzo Natali
+N|FR|D5| Cyrano de Bergerac |1990| Jean-Paul Rappeneau
+N|US|C6| Dallas Buyers Club |2013| Jean-Marc Vallee
+N|DK|I3| Dancer in the Dark |2000| Lars von Trier
+N|US|B5| Dangereuse Alliance |1995| Andrew Fleming
+N|US|I6| Dangereuse sous tous rapports |1987| Jonathan Demme
+N|US|C4| Dans l'ombre de Mary |2013| John Lee Hancock
+N|US|I5| Dans la chaleur de la nuit |1967| Norman Jewison
+N|US|H7| Dans la ligne de mire |1993| Wolfgang Petersen
+N|US|E4| Dans la peau de John Malkovich |1999| Spike Jonze
+N|US|D4| Danse avec les loups |1991| Kevin Costner
+N|AU|E4| Dark City |1998| Alex Proyas
+N|US|E7| Dark crystal |1982| Frank Oz, Jim Henson
+N|US|G7| Darkman |1990| Sam Raimi
+N|US|G1| Date limite |2010| Todd Phillips
+N|FR|B3| De Nuremberg à Nuremberg |1989| Frederic Rossif
+N|US|D5| De sang-froid |1967| Richard Brooks
+N|US|F4| Dead Again |1991| Kenneth Branagh
+N|US|G4| Dead Man |1995| Jim Jarmusch
+N|US|E5| Dead Zone |1983| David Cronenberg
+N|US|F7| Deadpool |2016| Tim Miller
+N|GB|D7| Deep End |1970| Jerzy Skolimowski
+N|US|F3| Déjà Vu |2006| Tony Scott
+N|US|H7| Délivrance |1972| John Boorman
+N|IT|F3| Dellamorte dellamore |1994| Michele Soavi
+N|US|C3| Démineurs |2008| Kathryn Bigelow
+N|US|E2| Demolition Man |1993| Marco Brambilla
+N|JP|D6| Dersou Ouzala |1975| Akira Kurosawa
+N|US|C7| Des gens comme les autres |1980| Robert Redford
+N|US|C4| Des hommes d'honneur |1992| Rob Reiner
+N|US|E3| Desperado |1995| Robert Rodriguez
+N|US|E5| Destination finale |2000| James Wong
+N|US|G1| Deux en un |2004| Peter Farrelly, Bobby Farrelly
+N|IN|I2| Devdas |2002| Sanjay Leela Bhansali
+N|FR|A5| Diabolo menthe |1977| Diane Kurys
+N|US|D7| Diamants sur canapé |1961| Blake Edwards
+N|IN|I3| Dil se |1998| Mani Ratnam
+N|IN|I2| Dilwale Dulhania Le Jayenge |1995| Aditya Chopra
+N|US|H3| Dirty Dancing |1987| Emile Ardolino
+N|US|G1| Disjoncté |1996| Ben Stiller
+N|US|E1| District 9 |2009| Neill Blomkamp
+N|IT|G5| Django |1966| Sergio Corbucci
+N|US|G5| Django Unchained |2012| Quentin Tarantino
+N|US|I5| Do the Right Thing |1989| Spike Lee
+N|US|H1| Docteur Folamour, ou : Comment j'ai appris à ne plus m'en faire et à aimer la bombe |1964| Stanley Kubrick
+N|US|H2| Dodgeball |2004| Rawson Marshall Thurber
+N|AT|H3| Dog Days |2002| Ulrich Seidl
+N|US|F1| Dogma |1999| Kevin Smith
+N|FR|C6| Domicile conjugal |1970| Francois Truffaut
+N|US|G6| Donnie Brasco |1997| Mike Newell
+N|US|F4| Donnie Darko |2001| Richard Kelly
+N|GB|A3| Dont Look Back |1967| D.A. Pennebaker
+N|US|H6| Double mise |1996| Paul Thomas Anderson
+N|US|F5| Down by Law |1986| Jim Jarmusch
+N|US|E6| Dracula |1992| Francis Ford Coppola
+N|US|I1| Dragonball Evolution |2009| James Wong
+N|US|B6| Dragons |2010| Chris Sanders, Dean Deblois
+N|US|B6| Dragons 2 |2013| Dean Deblois
+N|US|I4| Dressé pour tuer |1981| Samuel Fuller
+N|US|E2| Drive |2011| Nicolas Winding Refn
+N|US|E2| Driver |1978| Walter Hill
+N|US|G2| Drôle de frimousse |1957| Stanley Donen
+N|CN|D2| Drunken Master |1978| Yuen Woo-ping
+N|FR|G2| Du côté d'Orouët |1971| Jacques Rozier
+N|FR|H5| Du rififi chez les hommes |1955| Jules Dassin
+N|US|D4| Du silence et des ombres |1962| Robert Mulligan
+N|US|F2| Duel |1971| Steven Spielberg
+N|US|G1| Dumb et Dumber |1995| Peter Farrelly, Bobby Farrelly
+N|US|E1| Dune |1984| David Lynch
+N|GB|C3| Dunkerque |2017| Christopher Nolan
+N|US|C5| Duo à trois |1988| Ron Shelton
+N|US|E1| E.T. l'extra-terrestre |1982| Steven Spielberg
+N|US|A6| Easy Girl |2010| Will Gluck
+N|US|D6| Easy Rider |1968| Dennis Hopper
+N|US|A6| Ecarts de conduite |2000| Penny Marshall
+N|US|E7| Ecrit sur du vent |1956| Douglas Sirk
+N|US|D4| Ed Wood |1994| Tim Burton
+N|US|F3| Edge of Tomorrow |2013| Doug Liman
+N|US|C6| Edward aux mains d'argent |1990| Tim Burton
+N|US|G5| El Dorado |1966| Howard Hawks
+N|US|B4| Elephant |2003| Gus Van Sant
+N|GB|F6| Elephant Man |1980| David Lynch
+N|FR|G3| Elle |2016| Paul Verhoeven
+N|US|G2| Elle |1979| Blake Edwards
+N|US|A6| Elle est trop bien |1999| Robert Iscove
+N|US|G2| Elle et lui |1957| Leo McCarey
+N|US|C3| Empire du soleil |1987| Steven Spielberg
+N|US|A6| Empire records |1995| Allan Moyle
+N|US|G2| En cloque, mode d'emploi |2007| Judd Apatow
+N|US|G6| En quatrième vitesse |1955| Robert Aldrich
+N|US|F1| Endiablé |2000| Harold Ramis
+N|US|D1| Ennemi d'Etat |1999| Tony Scott
+N|FR|F5| Enter the Void |2009| Gaspar Noe
+N|JP|H6| Entre le ciel et l'enfer |1963| Akira Kurosawa
+N|DK|F3| Epidemic |1987| Lars von Trier
+N|US|E5| Eraserhead |1976| David Lynch
+N|US|C5| Erin Brockovich, seule contre tous |1999| Steven Soderbergh
+N|US|D5| Esther |2008| Jaume Collet-Serra
+N|IT|H4| Et pour quelques dollars de plus |1965| Sergio Leone
+N|US|G3| Et tout le monde riait |1981| Peter Bogdanovich
+N|MX|B4| Et... ta mère aussi ! |2001| Alfonso Cuaron
+N|US|G3| Eternal Sunshine of the Spotless Mind |2004| Michel Gondry
+N|FR|B3| Être et avoir |2002| Nicolas Philibert
+N|US|F1| Etroite surveillance |1987| John Badham
+N|US|D4| Eve |1951| Joseph L. Mankiewicz
+N|US|A6| Everybody Wants Some |2016| Richard Linklater
+N|US|E5| Evil Dead |1982| Sam Raimi
+N|US|E6| Evil Dead 2 |1987| Sam Raimi
+N|US|G2| Ex Machina |2015| Alex Garland
+N|GB|E7| Excalibur |1980| John Boorman
+N|CA|D1| eXistenZ |1999| David Cronenberg
+N|CA|I5| Exotica |1994| Atom Egoyan
+N|US|E3| Expendables : unité spéciale |2010| Sylvester Stallone
+N|US|G4| Eyes Wide Shut |1999| Stanley Kubrick
+N|US|D7| Faces |1968| John Cassavetes
+N|US|A3| Fahrenheit 9/11 |2003| Michael Moore
+N|US|H5| Family business |1989| Sidney Lumet
+N|US|B5| Fanboys |2008| Kyle Newman
+N|SE|D6| Fanny et Alexandre |1982| Ingmar Bergman
+N|US|H2| Fantasia |1940| Hamilton Luske, Ben Sharpsteen, James Algar, Bill Roberts, Samuel Armstrong, Jim Handley, T. Hee, Paul Satterfield, Ford Beebe, Norman Ferguson, Norm Ferguson, Wilfred Jackson
+N|US|H3| Fantastic Mister Fox |2009| Wes Anderson
+N|US|F6| Fantômes contre fantômes |1996| Peter Jackson
+N|US|H5| Fargo |1996| Joel Coen, Ethan Coen
+N|US|E2| Fast & furious |2001| Rob Cohen
+N|US|F2| Fast & Furious 5 |2011| Justin Lin
+N|US|E2| Fast & Furious 6 |2013| Justin Lin
+N|US|F2| Faster, Pussycat! Kill! Kill! |1965| Russ Meyer
+N|US|A4| Fatal Games |1989| Michael Lehmann
+N|CA|E4| Faux-Semblants |1988| David Cronenberg
+N|FR|G4| Femme Fatale |2002| Brian De Palma
+N|ES|H2| Femmes au bord de la crise de nerfs |1988| Pedro Almodovar
+N|US|D5| Fenêtre secrète |2003| David Koepp
+N|US|E5| Fenêtre sur cour |1954| Alfred Hitchcock
+N|CN|A2| Fengming Chronique d'une femme chinoise |2007| Wang Bing
+N|DK|D7| Festen |1998| Thomas Vinterberg
+N|US|H6| Feux croisés |1947| Edward Dmytryk
+N|US|E4| Fight Club |1999| David Fincher
+N|US|B5| Fighter |2010| David O. Russell
+N|US|E4| Final Cut |2003| Omar Naim
+N|GB|B5| Fish Tank |2009| Andrea Arnold
+N|DE|D6| Fitzcarraldo |1982| Werner Herzog
+N|US|H3| Flashdance |1983| Adrian Lyne
+N|JP|I6| Fleur pâle |1964| Masahiro Shinoda
+N|US|D7| Flight |2012| Robert Zemeckis
+N|US|D5| Flight Plan |2004| Robert Schwentke
+N|US|F5| Fog |1979| John Carpenter
+N|GB|I5| Following - Le suiveur |1999| Christopher Nolan
+N|US|B7| Forrest Gump |1994| Robert Zemeckis
+N|US|G2| Fous d'Irène |2000| Peter Farrelly, Bobby Farrelly
+N|US|B5| Foxcatcher |2014| Bennett Miller
+N|US|I4| Foxy Brown |1974| Jack Hill
+N|US|C5| Frances Ha |2012| Noah Baumbach
+N|US|H1| Frangins malgré eux |2008| Adam McKay
+N|US|F6| Frankenstein |1931| James Whale
+N|US|H1| Frankenstein Junior |1974| Mel Brooks
+N|US|F6| Freaks - La monstrueuse parade |1932| Tod Browning
+N|US|A6| Freaky Friday, dans la peau de ma mère |2003| Mark Waters
+N|US|E2| French Connection |1972| William Friedkin
+N|US|E4| Fréquence Interdite |2000| Gregory Hoblit
+N|MX|C5| Frida |2002| Julie Taymor
+N|US|I4| Friday |1995| F. Gary Gray
+N|US|B5| Friday Night Lights |2004| Peter Berg
+N|US|B4| Fruitvale Station |2013| Ryan Coogler
+N|SE|B4| Fucking Åmål |1999| Lukas Moodysson
+N|US|C3| Full Metal Jacket |1987| Stanley Kubrick
+N|DE|H7| Funny Games |1997| Michael Haneke
+N|US|F3| Funny People |2008| Judd Apatow
+N|US|E7| Furie |1978| Brian De Palma
+N|US|F5| Fury |1936| Fritz Lang
+N|US|H2| Galaxy Quest |2000| Dean Parisot
+N|GB|D5| Gandhi |1983| Richard Attenborough
+N|US|D4| Gangs of New York |2002| Martin Scorsese
+N|IN|G7| Gangs of Wasseypur |2012| Anurag Kashyap
+N|FR|H7| Garde à vue |1981| Claude Miller
+N|US|G3| Garden State |2004| Zach Braff
+N|US|B6| Génération rebelle |1993| Richard Linklater
+N|US|I7| Gerry |2002| Gus Van Sant
+N|US|F5| Get Out |2017| Jordan Peele
+N|US|D7| Ghost |1990| Jerry Zucker
+N|US|H7| Ghost Dog, La Voie Du Samourai |1999| Jim Jarmusch
+N|JP|E2| Ghost in the Shell |1995| Mamoru Oshii
+N|US|C6| Ghost World |2001| Terry Zwigoff
+N|US|I5| Gilda |1946| Charles Vidor
+N|US|A3| Gimme Shelter |1970| Charlotte Zwerin, David Maysles, Albert Maysles
+N|US|G2| Girl Next Door |2003| Luke Greenfield
+N|GB|D3| Gladiator |2000| Ridley Scott
+N|US|H3| Go Go Tales |2007| Abel Ferrara
+N|JP|E6| Godzilla |1954| Ishirō Honda
+N|GB|C2| GoldenEye |1995| Martin Campbell
+N|GB|C1| Goldfinger |1964| Guy Hamilton
+N|IT|G7| Gomorra |2008| Matteo Garrone
+N|US|E5| Gone Girl |2014| David Fincher
+N|DE|B4| Good Bye, Lenin! |2002| Wolfgang Becker
+N|GB|I2| Good Morning England |2009| Richard Curtis
+N|US|C4| Good morning Vietnam |1987| Barry Levinson
+N|GB|C5| Gosford Park |2001| Robert Altman
+N|US|E2| Gran Torino |2008| Clint Eastwood
+N|US|E1| Gravity |2013| Alfonso Cuaron
+N|US|I3| Grease |1978| Randal Kleiser
+N|US|F6| Gremlins |1984| Joe Dante
+N|US|F6| Gremlins 2, la nouvelle génération |1990| Joe Dante
+N|US|A2| Grey Gardens |1975| Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles
+N|US|B2| Grizzly Man |2005| Werner Herzog
+N|US|A4| Gummo |1997| Harmony Korine
+N|IT|E3| Habemus Papam |2011| Nanni Moretti
+N|US|I2| Hair |1979| Milos Forman
+N|US|E5| Halloween : La Nuit des masques |1978| John Carpenter
+N|JP|H5| Hana-bi |1997| Takeshi Kitano
+N|US|G6| Hancock |2008| Peter Berg
+N|US|D7| Hannah et ses soeurs |1986| Woody Allen
+N|US|I7| Happiness |1997| Todd Solondz
+N|US|D7| Happiness Therapy |2012| David O. Russell
+N|JP|H7| Harakiri |1962| Masaki Kobayashi
+N|US|G3| Harcèlement |1994| Barry Levinson
+N|US|A2| Harlan County |1977| Barbara Kopple
+N|US|G2| Harold et Maude |1971| Hal Ashby
+N|GB|B7| Harry Potter à l'école des sorciers |2001| Chris Columbus
+N|GB|A7| Harry Potter et l'Ordre du Phénix |2007| David Yates
+N|GB|B7| Harry Potter et la chambre des secrets |2002| Chris Columbus
+N|GB|A7| Harry Potter et la Coupe de Feu |2005| Mike Newell
+N|GB|A7| Harry Potter et le Prince de sang mêlé |2009| David Yates
+N|GB|A7| Harry Potter et le prisonnier d'Azkaban |2004| Alfonso Cuaron
+N|GB|A6| Harry Potter et les reliques de la mort - partie 1 |2010| David Yates
+N|US|A6| Harry Potter et les reliques de la mort - partie 2 |2011| David Yates
+N|US|D5| Harvey Milk |2008| Gus Van Sant
+N|FR|C7| Haut les coeurs ! |1999| Sólveig Anspach
+N|US|I5| Haute pègre |1932| Ernst Lubitsch
+N|GB|H3| Haute Voltige |1999| Jon Amiel
+N|US|C5| He Got Game |1998| Spike Lee
+N|US|H5| Heat |1995| Michael Mann
+N|US|H2| Hedwig and the Angry Inch |2001| John Cameron Mitchell
+N|US|F7| Hellboy |2003| Guillermo del Toro
+N|US|F7| Hellboy II les légions d'or maudites |2008| Guillermo del Toro
+N|US|F2| Her |2013| Spike Jonze
+N|US|H3| High Fidelity |2000| Stephen Frears
+N|US|E7| Highlander |1986| Russell Mulcahy
+N|FR|C4| Hiroshima mon amour |1959| Alain Resnais
+N|FR|A3| Histoire(s) du cinéma |1998| Jean-Luc Godard
+N|US|G2| Hitch, expert en séduction |2005| Andy Tennant
+N|US|F6| Hollow Man, l'homme sans ombre |2000| Paul Verhoeven
+N|FR|E4| Holy Motors |2012| Leos Carax
+N|US|H3| Honkytonk Man |1982| Clint Eastwood
+N|US|D6| Hook ou la revanche du Capitaine Crochet |1991| Steven Spielberg
+N|US|A2| Hoop Dreams |1994| Steve James
+N|US|F5| Hostel |2005| Eli Roth
+N|GB|F1| Hot Fuzz |2007| Edgar Wright
+N|US|H1| Hot Shots! |1991| Jim Abrahams
+N|US|B4| Hotel Rwanda |2004| Terry George
+N|US|E3| Hugo Cabret |2011| Martin Scorsese
+N|IT|E4| Huit et demi |1963| Federico Fellini
+N|US|G7| Hulk |2003| Ang Lee
+N|GB|F5| Hunger |2008| Steve McQueen
+N|US|E3| Hunger Games |2012| Gary Ross
+N|US|C5| Husbands |1971| John Cassavetes
+N|US|I4| Hustle & Flow |2005| Craig Brewer
+N|US|E3| Hyper tension |2005| Mark Neveldine, Brian Taylor
+N|US|E3| Hyper tension 2 |2009| Mark Neveldine, Brian Taylor
+N|US|A2| I Am Not Your Negro |2016| Raoul Peck
+N|US|G2| I Love You Phillip Morris |2009| Glenn Ficarra, John Requa
+N|US|C5| I'm Not There |2007| Todd Haynes
+N|US|E1| I, Robot |2004| Alex Proyas
+N|JP|H7| Ichi the killer |2001| Takashi Miike
+N|US|H1| Idiocracy |2006| Mike Judge
+N|GB|F3| Il était temps |2012| Richard Curtis
+N|IT|H5| Il était une fois dans l'Ouest |1969| Sergio Leone
+N|US|G6| Il était une fois en Amérique |1984| Sergio Leone
+N|CN|D2| Il était une fois en Chine |1991| Tsui Hark
+N|IT|D4| Il était une fois la révolution |1972| Sergio Leone
+N|US|C3| Il faut sauver le soldat Ryan |1998| Steven Spielberg
+N|US|G4| Impitoyable |1992| Clint Eastwood
+N|US|G3| In Her Shoes |2005| Curtis Hanson
+N|US|H3| In the Cut |2003| Jane Campion
+N|US|H1| In the loop |2008| Armando Iannucci
+N|CN|E7| In the Mood for Love |2000| Wong Kar-Wai
+N|US|E7| Incassable |2000| M. Night Shyamalan
+N|CA|E5| Incendies |2010| Denis Villeneuve
+N|US|E3| Inception |2010| Christopher Nolan
+N|US|F1| Independence Day |1996| Roland Emmerich
+N|US|D6| Indiana Jones et la Dernière Croisade |1989| Steven Spielberg
+N|US|D6| Indiana Jones et le Temple maudit |1984| Steven Spielberg
+N|US|D6| Indiana Jones et les aventuriers de l'Arche perdue |1981| Steven Spielberg
+N|US|F1| Indiscrétion assurée |1993| John Badham
+N|US|G2| Indiscrétions |1940| George Cukor
+N|CN|G6| Infernal affairs |2002| Alan Mak, Andrew Lau
+N|US|C3| Inglourious Basterds |2008| Quentin Tarantino
+N|US|H6| Inherent vice |2014| Paul Thomas Anderson
+N|US|E5| Inland Empire |2006| David Lynch
+N|FR|G3| Innocents |2002| Bernardo Bertolucci
+N|US|I4| Insaisissables |2013| Louis Leterrier
+N|US|B2| Inside Job |2010| Charles Ferguson
+N|US|H2| Inside Llewyn Davis |2012| Joel Coen, Ethan Coen
+N|US|I4| Inside Man - l'homme de l'intérieur |2006| Spike Lee
+N|US|F4| Insomnia |2002| Christopher Nolan
+N|US|E4| Interstellar |2014| Christopher Nolan
+N|US|D6| Into the Wild |2008| Sean Penn
+N|FR|H2| Intouchables |2011| Eric Toledano, Olivier Nakache
+N|US|F3| Invasion Los Angeles |1988| John Carpenter
+N|US|G7| Iron Man |2008| Jon Favreau
+N|US|G7| Iron Man 3 |2013| Shane Black
+N|FR|H7| Irréversible |2002| Gaspar Noe
+N|US|E5| It Follows |2014| David Robert Mitchell
+N|US|C5| J. Edgar |2012| Clint Eastwood
+N|US|E3| Jack Reacher |2012| Christopher McQuarrie
+N|US|I4| Jackie Brown |1997| Quentin Tarantino
+N|CN|D2| Jackie Chan dans le Bronx |1995| Stanley Tong
+N|GB|C1| James Bond 007 contre Dr. No |1962| Terence Young
+N|US|D3| Jarhead |2005| Sam Mendes
+N|US|E2| Je suis une légende |2007| Francis Lawrence
+N|FR|F4| Je t'aime, je t'aime |1968| Alain Resnais
+N|US|A6| Jem et les Hologrammes |2015| Jon M. Chu
+N|US|G3| Jerry Maguire |1996| Cameron Crowe
+N|US|H1| Jeux dangereux |1942| Ernst Lubitsch
+N|US|C4| JFK |1991| Oliver Stone
+N|US|A3| Jodorowsky’s Dune |2013| Franck Pavich
+N|US|E7| John Carter |2012| Andrew Stanton
+N|US|D3| John Rambo |2008| Sylvester Stallone
+N|US|E3| John Wick |2014| David Leitch, Chad Stahelski
+N|US|G4| Johnny Guitare |1953| Nicholas Ray
+N|US|C3| Johnny s'en va-t-en guerre |1971| Dalton Trumbo
+N|US|G4| Josey Wales, hors-la-loi |1976| Clint Eastwood
+N|GB|B5| Joue-la comme Beckham |2002| Gurinder Chadha
+N|FR|H1| Jour de fête |1949| Jacques Tati
+N|US|F2| Jours de tonnerre |1990| Tony Scott
+N|US|B5| Joy |2015| David O. Russell
+N|US|F1| Judge Dredd |1995| Danny Cannon
+N|US|C4| Jugement à Nuremberg |1961| Stanley Kramer
+N|US|I4| Juice |1992| Ernest Dickerson
+N|FR|D7| Jules et Jim |1961| Francois Truffaut
+N|US|C6| Jumanji |1996| Joe Johnston
+N|US|D7| Jungle Fever |1991| Spike Lee
+N|US|B4| Juno |2007| Jason Reitman
+N|US|E1| Jupiter : Le Destin de l'Univers |2013| Lilly Wachowski, Lana Wachowski
+N|US|F2| Jurassic Park |1993| Steven Spielberg
+N|US|F1| Jurassic World |2015| Colin Trevorrow
+N|US|F5| Jusqu'en enfer |2009| Sam Raimi
+N|US|G3| Kaboom |2010| Gregg Araki
+N|JP|H7| Kagemusha, l'ombre du guerrier |1980| Akira Kurosawa
+N|JP|C7| Kaïro |2001| Kiyoshi Kurosawa
+N|US|B5| Karate Kid |1984| John G. Avildsen
+N|US|F3| Kate & Leopold |2002| James Mangold
+N|US|G3| Ken Park |2002| Larry Clark, Edward Lachman
+N|GB|C6| Kes |1969| Ken Loach
+N|US|G6| Kick-Ass |2010| Matthew Vaughn
+N|US|G7| Kick-Ass 2 |2013| Jeff Wadlow
+N|US|A4| Kids |1995| Larry Clark
+N|US|E2| Kill Bill: Volume I |2003| Quentin Tarantino
+N|US|E2| Kill Bill: Volume II |2003| Quentin Tarantino
+N|US|F4| Killer Joe |2011| William Friedkin
+N|US|D7| Killer of Sheep |1977| Charles Burnett
+N|US|E6| King Kong |1933| Merian C. Cooper, Ernest B. Schoedsack
+N|US|E6| King Kong |2005| Peter Jackson
+N|GB|D4| Kingdom of Heaven |2005| Ridley Scott
+N|US|H2| Kingpin |1996| Peter Farrelly, Bobby Farrelly
+N|US|D1| Kingsman : Services Secrets |2014| Matthew Vaughn
+N|US|H2| Kiss Kiss Bang Bang |2005| Shane Black
+N|US|I5| Klute |1971| Alan J. Pakula
+N|🇭U|F1| Kontroll |2003| Nimrod Antal
+N|US|B2| Koyaanisqatsi |1982| Godfrey Reggio
+N|US|C6| Kramer contre Kramer |1978| Robert Benton
+N|IN|I2| Kuch Kuch Hota Hai |1998| Karan Johar
+N|US|D1| L'Affaire Cicéron |1952| Joseph L. Mankiewicz
+N|US|H3| L'Affaire Thomas Crown |1968| Norman Jewison
+N|US|E1| L'Age de Cristal |1976| Michael Anderson
+N|FR|G3| L'Amant |1992| Jean-Jacques Annaud
+N|DE|G6| L'Ami américain |1977| Wim Wenders
+N|US|D7| L'Amour extra large |2002| Peter Farrelly, Bobby Farrelly
+N|MX|E4| L'Ange exterminateur |1962| Luis Bunuel
+N|FR|E4| L'Année dernière à Marienbad |1961| Alain Resnais
+N|US|I5| L'Année du Dragon |1985| Michael Cimino
+N|US|E4| L'antre de la folie |1995| John Carpenter
+N|RU|F3| L'Arche russe |2003| Alexandr Sokurov
+N|GB|D7| L'Arme à l'œil |1981| Richard Marquand
+N|US|F1| L'Arme fatale |1987| Richard Donner
+N|US|F1| L'Arme fatale 2 |1989| Richard Donner
+N|US|F4| L'Armée des 12 singes |1995| Terry Gilliam
+N|FR|B4| L'Armée des Ombres |1969| Jean-Pierre Melville
+N|US|H5| L'Arnaque |1973| George Roy Hill
+N|US|C5| L'Arnaqueur |1961| Robert Rossen
+N|FR|E4| L'Arrivée d'un train en gare de La Ciotat |1896| Louis Lumiere, Auguste Lumiere
+N|US|A5| L'Arriviste |1999| Alexander Payne
+N|US|G4| L'Assassinat de Jesse James par le lâche Robert Ford |2007| Andrew Dominik
+N|IN|I3| L'Assoiffé |1957| Guru Dutt
+N|FR|D6| L'Atalante |1934| Jean Vigo
+N|US|D7| L'Aurore |1927| Friedrich Wilhelm Murnau
+N|US|F6| L'Aventure de Mme Muir |1947| Joseph L. Mankiewicz
+N|US|E1| L'Aventure intérieure |1987| Joe Dante
+N|IT|E6| L'Avventura |1960| Michelangelo Antonioni
+N|US|F5| L'Échelle de Jacob |1991| Adrian Lyne
+N|US|D5| L'Effet papillon |2003| Eric Bress, J. Mackye Gruber
+N|JP|G3| L'Empire des Sens |1976| Nagisa Oshima
+N|US|F6| L'Emprise |1981| Sidney J. Furie
+N|RU|B4| L'Enfance d'Ivan |1962| Andrei Tarkovski
+N|CA|F6| L'Enfant du diable |1980| Peter Medak
+N|US|B5| L'Enfer du dimanche |1999| Oliver Stone
+N|US|C6| L'Épouvantail |1973| Jerry Schatzberg
+N|US|E3| L'Epreuve de force |1977| Clint Eastwood
+N|ES|F6| L'esprit de la ruche |1973| Victor Erice
+N|JP|C6| L'Eté de Kikujiro |1999| Takeshi Kitano
+N|US|D1| L'Etoffe des héros |1983| Philip Kaufman
+N|US|B6| L'Etrange histoire de Benjamin Button |2008| David Fincher
+N|US|I2| L'Étrange Noël de Monsieur Jack |1994| Henry Selick
+N|US|F5| L'Evadé d'Alcatraz |1979| Don Siegel
+N|IT|E3| L'Évangile selon St Matthieu |1964| Pier Paolo Pasolini
+N|US|F5| L'Exorciste |1974| William Friedkin
+N|US|D4| L'Extravagant M. Deeds |1936| Frank Capra
 N||B3| L'Heure des brasiers |1968| Octavio Getino, Fernando Solanas
-N|🇺🇸|E7| L'Histoire sans fin |1984| Wolfgang Petersen
-N|🇷🇺|A3| L'Homme à la caméra |1929| Dziga Vertov
-N|🇫🇷|D6| L'Homme de Rio |1963| Philippe De Broca
-N|🇺🇸|G4| L'Homme des hautes plaines |1973| Clint Eastwood
-N|🇺🇸|G4| L'Homme des vallées perdues |1953| George Stevens
-N|🇺🇸|F6| L'Homme invisible |1933| James Whale
-N|🇩🇪|H6| L'homme perdu |1951| Peter Lorre
-N|🇺🇸|G6| L'Homme qui en savait trop |1956| Alfred Hitchcock
-N|🇺🇸|G6| L'Homme qui en savait trop |1934| Alfred Hitchcock
-N|🇺🇸|E1| L'Homme qui rétrécit |1957| Jack Arnold
-N|🇺🇸|G4| L'Homme qui tua Liberty Valance |1962| John Ford
-N|🇬🇧|E1| L'Homme qui venait d'ailleurs |1976| Nicolas Roeg
-N|🇬🇧|E6| L'Homme qui voulut être roi |1975| John Huston
-N|🇺🇸|E6| L'Homme tranquille |1952| John Ford
-N|🇫🇷|I5| L'Humanité |1999| Bruno Dumont
-N|🇺🇸|D5| L'Idéaliste |1997| Francis Ford Coppola
-N|🇧🇷|A2| L'île aux fleurs |1989| Jorge Furtado
-N|🇺🇸|F6| L'Ile des morts |1945| Mark Robson
-N|🇫🇷|B3| L'Image manquante |2013| Rithy Panh
-N|🇺🇸|F5| L'Impasse |1993| Brian De Palma
-N|🇺🇸|I6| L'Implacable |1941| Robert Parrish
-N|🇺🇸|G2| L'Impossible Monsieur Bébé |1938| Howard Hawks
-N|🇮🇹|C6| L'Incompris |1967| Luigi Comencini
-N|🇺🇸|H5| L'Inconnu de Las Vegas |1960| Lewis Milestone
-N|🇺🇸|E3| L'Inspecteur Harry |1971| Don Siegel
-N|🇺🇸|E2| L'Inspecteur ne renonce jamais |1976| James Fargo
-N|🇺🇸|F5| L'Invasion des profanateurs |1978| Philip Kaufman
-N|🇺🇸|F5| L'Invasion des profanateurs de sépultures |1956| Don Siegel
-N|🇹🇼|D6| L'Odyssée de Pi |2012| Ang Lee
-N|🇺🇸|H6| L'Ombre d'un doute |1943| Alfred Hitchcock
-N|🇺🇸|F3| L'Opérateur |1928| Edward Sedgwick, Buster Keaton
-N|🇬🇧|I4| L'Or se barre |1969| Peter Collinson
-N|🇪🇸|F6| L'Orphelinat |2007| Juan Antonio Bayona
-N|🇺🇸|H5| L'Ultime Razzia |1956| Stanley Kubrick
-N|🇺🇸|G6| L.A. Confidential |1997| Curtis Hanson
-N|🇺🇸|F5| La 25e heure |2002| Spike Lee
-N|🇨🇳|D2| La 36ème chambre de Shaolin |1978| Chia-Liang Liu
-N|🇮🇹|E5| La Baie Sanglante |1973| Mario Bava
-N|🇺🇸|H3| La Balade sauvage |1974| Terrence Malick
-N|🇮🇹|C4| La Bataille d'Alger |1966| Gillo Pontecorvo
-N|🇫🇷|E6| La Belle et la Bête |1946| Jean Cocteau
-N|🇺🇸|H3| La Blonde du Far-West |1953| David Butler
-N|🇬🇧|B3| La Bombe |1965| Peter Watkins
-N|🇺🇸|E5| La Cabane dans les bois |2010| Drew Goddard
-N|🇫🇷|D7| La Captive |2000| Chantal Akerman
-N|🇺🇸|G4| La Captive aux yeux clairs |1952| Howard Hawks
-N|🇺🇸|D4| La Chair et le sang |1985| Paul Verhoeven
-N|🇮🇹|C6| La Chambre du fils |2001| Nanni Moretti
-N|🇺🇸|G4| La Charge Héroïque |1949| John Ford
-N|🇺🇸|G4| La Chevauchée fantastique |1939| John Ford
-N|🇺🇸|C3| La Chute du faucon noir |2001| Ridley Scott
-N|🇧🇷|G6| La Cité de Dieu |2002| Fernando Meirelles, Katia Lund
-N|🇺🇸|F6| La Colline a des yeux |2006| Alexandre Aja
-N|🇺🇸|F5| La Colline a des yeux |1977| Wes Craven
-N|🇬🇧|C3| La Colline des hommes perdus |1965| Sidney Lumet
-N|🇮🇳|C6| La Complainte du sentier |1955| Satyajit Ray
-N|🇺🇸|G3| La Comtesse aux pieds nus |1954| Joseph L. Mankiewicz
-N|🇺🇸|H6| La Corde |1948| Alfred Hitchcock
-N|🇺🇸|C5| La Couleur de l'argent |1986| Martin Scorsese
-N|🇺🇸|C4| La Couleur pourpre |1985| Steven Spielberg
-N|🇺🇸|I6| La Dame de Shanghai |1948| Orson Welles
-N|🇺🇸|G3| La Dame du vendredi |1940| Howard Hawks
-N|🇫🇷|A2| La Danse, le ballet de l'Opéra de Paris |2009| Frederick Wiseman
-N|🇺🇸|E2| La Dernière cible |1988| Buddy Van Horn
-N|🇮🇹|G4| La Dernière Femme |1971| Marco Ferreri
-N|🇺🇸|G5| La Dernière Piste |2010| Kelly Reichardt
-N|🇺🇸|D7| La Dernière séance |1971| Peter Bogdanovich
-N|🇦🇺|D5| La Dernière Vague |1977| Peter Weir
-N|🇮🇹|E6| La Dolce Vita |1960| Federico Fellini
-N|🇺🇸|F6| La Falaise mystérieuse |1944| Lewis Allen
-N|🇺🇸|F1| La Famille Addams |1991| Barry Sonnenfeld
-N|🇮🇳|I2| La Famille indienne |2001| Karan Johar
-N|🇺🇸|C6| La Famille Tenenbaum |2001| Wes Anderson
-N|🇺🇸|F6| La Féline |1942| Jacques Tourneur
-N|🇺🇸|I6| La Femme au portrait |1944| Fritz Lang
-N|🇫🇷|E7| La Femme d'à côté |1981| Francois Truffaut
-N|🇯🇵|I7| La Femme des sables |1964| Hiroshi Teshigahara
-N|🇺🇸|F2| La Fiancée de Frankenstein |1935| James Whale
-N|🇺🇸|I2| La Fièvre du samedi soir |1977| John Badham
-N|🇬🇧|D5| La Fille de Ryan |1970| David Lean
-N|🇺🇸|G7| La Firme |1993| Sydney Pollack
-N|🇺🇸|F1| La Folle Histoire de l'espace |1987| Mel Brooks
-N|🇺🇸|A5| La Folle journée de Ferris Bueller |1986| John Hughes
-N|🇨🇳|D2| La Fureur De Vaincre |1971| Lo Wei
-N|🇺🇸|B5| La Fureur de vivre |1955| Nicholas Ray
-N|🇺🇸|G2| La Garçonnière |1960| Billy Wilder
-N|🇺🇸|I1| La Grande Aventure Lego |2014| Phil Lord, Chris Miller
-N|🇺🇸|F5| La Grande évasion |1963| John Sturges
-N|🇫🇷|G5| La Grande illusion |1937| Jean Renoir
-N|🇮🇳|B5| La Grande Ville |1963| Satyajit Ray
-N|🇺🇸|H6| La Griffe du passé |1947| Jacques Tourneur
-N|🇺🇸|E1| La Guerre des Mondes |2005| Steven Spielberg
-N|🇫🇷|I5| La Haine |1995| Mathieu Kassovitz
-N|🇺🇸|G5| La Horde sauvage |1969| Sam Peckinpah
-N|🇫🇷|E4| La Jetée |1962| Chris Marker
-N|🇺🇸|E7| La Jeune fille de l'eau |2006| M. Night Shyamalan
-N|🇺🇸|H3| La La Land |2016| Damien Chazelle
-N|🇳🇿|H3| La Leçon de piano |1993| Jane Campion
-N|🇯🇵|H7| La Légende de Zatōichi : Vol. 27 - Zatōichi |2003| Takeshi Kitano
-N|🇺🇸|C3| La Ligne Rouge |1998| Terrence Malick
-N|🇺🇸|F5| La Ligne Verte |1999| Frank Darabont
-N|🇺🇸|C3| La Liste de Schindler |1993| Steven Spielberg
-N|🇬🇧|H6| La Loi du milieu |1971| Mike Hodges
-N|🇺🇸|F3| La Machine à explorer le temps |1960| George Pal
-N|🇺🇸|I5| La Main au collet |1955| Alfred Hitchcock
-N|🇫🇷|A2| La Maison de la radio |2012| Nicolas Philibert
-N|🇺🇸|H6| La Maison des étrangers |1949| Joseph L. Mankiewicz
-N|🇺🇸|F5| La Maison du diable |1963| Robert Wise
-N|🇺🇸|E5| La Maison du Docteur Edwardes |1945| Alfred Hitchcock
-N|🇫🇷|E6| La Maman et la Putain |1973| Jean Eustache
-N|🇯🇵|H6| La Marque du Tueur |1967| Seijun Suzuki
-N|🇺🇸|I3| La Mélodie du bonheur |1965| Robert Wise
-N|🇺🇸|D2| La Mémoire dans la peau |2002| Doug Liman
-N|🇫🇷|C4| La Môme |2007| Olivier Dahan
-N|🇺🇸|E2| La Mort aux trousses |1959| Alfred Hitchcock
-N|🇺🇸|D1| La Mort dans la peau |2004| Paul Greengrass
-N|🇮🇹|H5| La Mort était au rendez-vous |1968| Giulio Petroni
-N|🇺🇸|F1| La Mort vous va si bien |1992| Robert Zemeckis
-N|🇺🇸|F6| La Mouche |1986| David Cronenberg
-N|🇸🇳|C7| La Noire de... |1966| Ousmane Sembène
-N|🇮🇹|E6| La Nuit |1961| Michelangelo Antonioni
-N|🇫🇷|E3| La Nuit américaine |1973| Francois Truffaut
-N|🇺🇸|G1| La Nuit au musée |2006| Shawn Levy
-N|🇺🇸|E3| La Nuit des fous vivants |1973| George A. Romero
-N|🇺🇸|F5| La Nuit des morts-vivants |1968| George A. Romero
-N|🇺🇸|H6| La Nuit du chasseur |1955| Charles Laughton
-N|🇺🇸|G6| La Nuit nous appartient |2007| James Gray
-N|🇺🇸|H2| La Panthère rose |1963| Blake Edwards
-N|🇬🇧|H2| La Part des Anges |2011| Ken Loach
-N|🇫🇷|D5| La Passion de Jeanne d'Arc |1928| Carl Theodor Dreyer
-N|🇫🇷|I5| La Peau douce |1964| Francois Truffaut
-N|🇺🇸|I3| La Petite Boutique des horreurs |1987| Frank Oz
-N|🇺🇸|E7| La Petite Sirène |1989| John Musker, Ron Clements
-N|🇦🇹|D7| La Pianiste |2000| Michael Haneke
-N|🇪🇸|D5| La piel que habito |2011| Pedro Almodovar
-N|🇫🇷|I6| La Piscine |1968| Jacques Deray
-N|🇺🇸|E2| La Planète des singes |1968| Franklin J. Schaffner
-N|🇫🇷|E1| La Planète sauvage |1973| Rene Laloux
-N|🇬🇧|B5| La Plus belle victoire |2003| Richard Loncraine
-N|🇺🇸|C5| La Porte du Paradis |1980| Michael Cimino
-N|🇺🇸|I5| La Poursuite impitoyable |1965| Arthur Penn
-N|🇺🇸|G4| La Poursuite infernale |1946| John Ford
-N|🇺🇸|F4| La Prisonnière du désert |1956| John Ford
-N|🇫🇷|C5| La Règle du jeu |1939| Jean Renoir
-N|🇺🇸|B6| La Reine des Neiges |2013| Chris Buck, Jennifer Lee
-N|🇺🇸|G5| La Rivière rouge |1948| Howard Hawks, Arthur Rosson
-N|🇫🇷|D4| La Ronde |1950| Max Ophuls
-N|🇺🇸|E7| La Rose pourpre du Caire |1985| Woody Allen
-N|🇺🇸|F2| La Route |2009| John Hillcoat
-N|🇺🇸|H3| La Ruée vers l'or |1925| Charlie Chaplin
-N|🇺🇸|G3| La Secrétaire |2002| Steven Shainberg
-N|🇫🇷|I6| La Sirène du Mississipi |1969| Francois Truffaut
-N|🇺🇸|H6| La Soif du Mal |1958| Orson Welles
-N|🇺🇸|H1| La Soupe au canard |1934| Leo McCarey
-N|🇺🇸|D5| La Splendeur des Amberson |1942| Orson Welles
-N|🇮🇹|F6| La Strada |1954| Federico Fellini
-N|🇬🇧|D1| La Taupe |2011| Tomas Alfredson
-N|🇫🇷|B4| La Traversée de Paris |1956| Claude Autant-Lara
-N|🇩🇪|B4| La Vague |2009| Dennis Gansel
-N|🇺🇸|F3| La Valse des pantins |1982| Martin Scorsese
-N|🇺🇸|G5| La vengeance aux deux visages |1961| Marlon Brando
-N|🇺🇸|D2| La vengeance dans la peau |2007| Paul Greengrass
-N|🇫🇷|D5| La Vérité |1960| Henri-Georges Clouzot
-N|🇺🇸|A5| La Vie à l'envers |1987| Howard Deutch
-N|🇺🇸|D6| La Vie aquatique |2003| Wes Anderson
-N|🇫🇷|D7| La Vie d'Adèle |2012| Abdellatif Kechiche
-N|🇩🇪|C5| La Vie des autres |2006| Florian Henckel von Donnersmarck
-N|🇺🇸|C7| La Vie est belle |1946| Frank Capra
-N|🇮🇹|C3| La Vie est belle |1998| Roberto Benigni
-N|🇫🇷|A2| La Vie moderne |2008| Raymond Depardon
-N|🇺🇸|B6| La Vie rêvée de Walter Mitty |2013| Ben Stiller
-N|🇮🇱|H1| La Visite de la fanfare |2007| Eran Kolirin
-N|🇺🇸|C6| Là-haut |2009| Pete Docter, Bob Peterson
-N|🇪🇸|C4| Land and Freedom |1994| Ken Loach
-N|🇺🇸|B5| Larry Flynt |1996| Milos Forman
-N|🇺🇸|I7| Las Vegas parano |1998| Terry Gilliam
-N|🇺🇸|F2| Last Action Hero |1993| John McTiernan
-N|🇺🇸|C5| Last Days |2005| Gus Van Sant
-N|🇺🇸|H6| Laura |1944| Otto Preminger
-N|🇺🇸|H3| Laurel et Hardy au Far West |1936| James W. Horne
-N|🇨🇦|E6| Laurence Anyways |2012| Xavier Dolan
-N|🇬🇧|D5| Lawrence d'Arabie |1962| David Lean
-N|🇺🇸|D3| Le 13e Guerrier |1999| John McTiernan
-N|🇺🇸|I6| Le Baiser du tueur |1955| Stanley Kubrick
-N|🇫🇷|E3| Le Bébé de Mâcon |1993| Peter Greenaway
-N|🇮🇹|H5| Le Bon, la Brute et le Truand |1966| Sergio Leone
-N|🇫🇷|B2| Le Bouton de Nacre |2015| Patricio Guzman
-N|🇮🇹|H1| Le Caïman |2006| Nanni Moretti
-N|🇬🇧|F6| Le Cauchemar de Dracula |1958| Terence Fisher
-N|🇺🇸|C6| Le Cercle des poètes disparus |1989| Peter Weir
-N|🇫🇷|H5| Le Cercle rouge |1970| Jean-Pierre Melville
-N|🇫🇷|H2| Le Charme discret de la bourgeoisie |1972| Luis Bunuel
-N|🇯🇵|E7| Le Château ambulant |2004| Hayao Miyazaki
-N|🇯🇵|E7| Le Château dans le ciel |1986| Hayao Miyazaki
-N|🇺🇸|C3| Le Choix de Sophie |1983| Alan J. Pakula
-N|🇺🇸|G3| Le Ciel peut attendre |1943| Ernst Lubitsch
-N|🇫🇷|F2| Le Cinquième élément |1997| Luc Besson
-N|🇫🇷|H5| Le Clan des Siciliens |1969| Henri Verneuil
-N|🇺🇸|H3| Le Come-back |2006| Marc Lawrence
-N|🇮🇱|E4| Le Congrès |2013| Ari Folman
-N|🇯🇵|E7| Le Conte de la princesse Kaguya |2012| Isao Takahata
-N|🇺🇸|E6| Le Convoi de la peur |1978| William Friedkin
-N|🇵🇱|D6| Le Couteau dans l'eau |1962| Roman Polanski
-N|🇺🇸|I5| Le Crime était presque parfait |1954| Alfred Hitchcock
-N|🇷🇺|C4| Le Cuirassé Potemkine |1925| Sergei M. Eisenstein
-N|🇺🇸|I6| Le Dahlia bleu |1946| George Marshall
-N|🇺🇸|I6| Le Dahlia noir |2006| Brian De Palma
-N|🇺🇸|I3| Le Danseur du dessus |1935| Mark Sandrich
-N|🇨🇦|H2| Le Déclin de l'empire américain |1987| Denys Arcand
-N|🇺🇸|G5| Le Démon des armes |1949| Joseph H. Lewis
-N|🇺🇸|D4| Le Dernier des Mohicans |1991| Michael Mann
-N|🇨🇳|D4| Le Dernier empereur |1987| Bernardo Bertolucci
-N|🇮🇹|H4| Le Dernier jour de la colère |1968| Tonino Valerii
-N|🇬🇧|F2| Le Dernier pub avant la fin du monde |2013| Edgar Wright
-N|🇬🇧|D5| Le Dernier roi d'Ecosse |2006| Kevin MacDonald
-N|🇫🇷|G3| Le Dernier tango à Paris |1972| Bernardo Bertolucci
-N|🇫🇷|I4| Le Deuxième souffle |1966| Jean-Pierre Melville
-N|🇺🇸|B6| Le Diable s'habille en Prada |2006| David Frankel
-N|🇺🇸|H1| Le Dictateur |1940| Charlie Chaplin
-N|🇬🇧|D5| Le Discours d'un roi |2010| Tom Hooper
-N|🇩🇪|E4| Le Docteur Mabuse |1922| Fritz Lang
-N|🇺🇸|B2| Le Dossier Adams |1988| Errol Morris
-N|🇫🇷|B6| Le Fabuleux destin d'Amélie Poulain |2001| Jean-Pierre Jeunet
-N|🇺🇸|I5| Le Facteur sonne toujours deux fois |1946| Tay Garnett
-N|🇮🇹|H1| Le Fanfaron |1962| Dino Risi
-N|🇺🇸|H6| Le Faucon maltais |1941| John Huston
-N|🇨🇦|E4| Le Festin nu |1991| David Cronenberg
-N|🇫🇷|C7| Le Feu follet |1963| Louis Malle
-N|🇭🇺|C3| Le Fils de Saul |2015| Laszlo Nemes
-N|🇺🇸|F1| Le Flic de Beverly Hills |1984| Martin Brest
-N|🇺🇸|F1| Le Flic de Beverly Hills 2 |1987| Tony Scott
-N|🇺🇸|F1| Le Flic de Beverly Hills 3 |1993| John Landis
-N|🇫🇷|A2| Le Fossé |2010| Wang Bing
-N|🇺🇸|E2| Le Fugitif |1993| Andrew Davis
-N|🇬🇧|A2| Le Funambule |2008| James Marsh
-N|🇺🇸|C5| Le Géant de fer |1999| Brad Bird
-N|🇺🇸|H7| Le Gouffre aux chimères |1951| Billy Wilder
-N|🇯🇵|D6| Le Goût du saké |1963| Yasujiro Ozu
-N|🇫🇷|B5| Le Grand bleu |1988| Luc Besson
-N|🇺🇸|H6| Le Grand Chantage |1957| Alexander Mackendrick
-N|🇺🇸|G7| Le Grand saut |1994| Joel Coen, Ethan Coen
-N|🇮🇹|H5| Le Grand Silence |1968| Sergio Corbucci
-N|🇺🇸|H6| Le Grand sommeil |1946| Howard Hawks
-N|🇮🇹|D6| Le Guépard |1963| Luchino Visconti
-N|🇬🇧|D3| Le Guerrier silencieux |2009| Nicolas Winding Refn
-N|🇺🇸|E6| Le Hobbit : La Bataille des 5 Armées |2014| Peter Jackson
-N|🇺🇸|E6| Le Hobbit : la désolation de Smaug |2013| Peter Jackson
-N|🇳🇿|E6| Le Hobbit : Un voyage inattendu |2011| Peter Jackson
-N|🇺🇸|E2| Le Jeu de la mort |1978| Robert Clouse, Bruce Lee
-N|🇫🇷|A2| Le Joli Mai |1963| Chris Marker, Pierre Lhomme
-N|🇪🇸|F6| Le Jour de la bête |1995| Alex de la Iglesia
-N|🇺🇸|C3| Le Jour le plus long |1962| Ken Annakin, Andrew Marton, Bernhard Wicki, Gerd Oswald, Darryl F. Zanuck
-N|🇺🇸|E1| Le Jour où la Terre s'arrêta |1951| Robert Wise
-N|🇫🇷|H6| Le Jour se lève |1939| Marcel Carne
-N|🇬🇧|G3| Le Journal de Bridget Jones |2001| Sharon Maguire
-N|🇺🇸|C7| Le Kid |1921| Charlie Chaplin
-N|🇪🇸|F6| Le Labyrinthe de Pan |2006| Guillermo del Toro
-N|🇺🇸|H3| Le Lauréat |1968| Mike Nichols
-N|🇬🇧|D5| Le Limier |1972| Joseph L. Mankiewicz
-N|🇺🇸|D6| Le Livre de la jungle |1967| Wolfgang Reitherman
-N|🇫🇷|E4| Le Locataire |1976| Roman Polanski
-N|🇺🇸|G7| Le Loup de Wall Street |2013| Martin Scorsese
-N|🇺🇸|C6| Le Magicien d'Oz |1939| Victor Fleming
-N|🇩🇪|C4| Le Mariage de Maria Braun |1979| Rainer Werner Fassbinder
-N|🇺🇸|G2| Le Mariage de mon meilleur ami |1997| P.J. Hogan
-N|🇺🇸|H2| Le Mécano de la Générale |1927| Clyde Bruckman, Buster Keaton
-N|🇫🇷|E6| Le Mépris |1963| Jean-Luc Godard
-N|🇮🇹|H5| Le Mercenaire |1968| Sergio Corbucci
-N|🇷🇺|E7| Le Miroir |1974| Andrei Tarkovski
-N|🇺🇸|C7| Le Monde de Charlie |2012| Stephen Chbosky
-N|🇺🇸|D6| Le Monde de Nemo |2003| Andrew Stanton, Lee Unkrich
-N|🇺🇸|F2| Le Monde Perdu : Jurassic Park |1997| Steven Spielberg
-N|🇩🇪|E6| Le Nom de la Rose |1986| Jean-Jacques Annaud
-N|🇺🇸|D4| Le Nouveau Monde |2005| Terrence Malick
-N|🇺🇸|F6| Le Parrain |1972| Francis Ford Coppola
-N|🇺🇸|G6| Le Parrain, 2e partie |1975| Francis Ford Coppola
-N|🇺🇸|G5| Le Parrain, 3e partie |1990| Francis Ford Coppola
-N|🇬🇧|D6| Le Patient anglais |1996| Anthony Minghella
-N|🇵🇱|C3| Le Pianiste |2002| Roman Polanski
-N|🇺🇸|I7| Le Plongeon |1968| Frank Perry
-N|🇺🇸|H2| Le Plus escroc des deux |1988| Franck Oz
-N|🇺🇸|I5| Le Point de non-retour |1967| John Boorman
-N|🇺🇸|H6| Le Poison |1945| Billy Wilder
-N|🇬🇧|C4| Le Pont de la riviere Kwai |1957| David Lean
-N|🇺🇸|C1| Le Pont des espions |2015| Steven Spielberg
-N|🇺🇸|H6| Le Port de l'angoisse |1944| Howard Hawks
-N|🇺🇸|H6| Le Port de la drogue |1953| Samuel Fuller
-N|🇺🇸|E7| Le Prestige |2006| Christopher Nolan
-N|🇺🇸|I5| Le Privé |1973| Robert Altman
-N|🇫🇷|E5| Le Procès |1962| Orson Welles
-N|🇮🇱|D5| Le procès de Viviane Amsalem |2014| Shlomi Elkabetz, Ronit Elkabetz
-N|🇺🇸|D4| Le Procès Paradine |1947| Alfred Hitchcock
-N|🇺🇸|E6| Le Projet Blair witch |1999| Daniel Myrick, Eduardo Sanchez
-N|🇬🇧|D1| Le Quatrième protocole |1987| John Mackenzie
-N|🇺🇸|E2| Le Retour de l'inspecteur Harry |1983| Clint Eastwood
-N|🇮🇹|H5| Le Retour de Ringo |1966| Duccio Tessari
-N|🇫🇷|B6| Le Roi et l'oiseau |1980| Paul Grimault
-N|🇺🇸|B6| Le Roi Lion |1994| Roger Allers, Rob Minkoff
-N|🇺🇸|H6| Le Roman de Mildred Pierce |1945| Michael Curtiz
-N|🇩🇪|I7| Le Ruban blanc |2009| Michael Haneke
-N|🇫🇷|E6| Le Salaire de la peur |1953| Henri-Georges Clouzot
-N|🇫🇷|H6| Le Samouraï |1967| Jean-Pierre Melville
-N|🇺🇸|D6| Le Secret de Brokeback Mountain |2006| Ang Lee
-N|🇳🇿|E6| Le Seigneur des anneaux : La communauté de l'anneau |2001| Peter Jackson
-N|🇺🇸|E6| Le Seigneur des anneaux : Le retour du roi |2003| Peter Jackson
-N|🇺🇸|E6| Le Seigneur des anneaux : Les deux tours |2002| Peter Jackson
-N|🇦🇹|I7| Le Septième continent |1988| Michael Haneke
-N|🇸🇪|F4| Le Septième Sceau |1957| Ingmar Bergman
-N|🇺🇸|H3| Le Shérif est en prison |1974| Mel Brooks
-N|🇺🇸|F4| Le Silence des agneaux |1991| Jonathan Demme
-N|🇺🇸|F5| Le Sixième Sens |1986| Michael Mann
-N|🇺🇸|H5| Le Solitaire |1981| Michael Mann
-N|🇪🇸|A1| Le Songe de la lumiere |1992| Victor Erice
-N|🇺🇸|B5| Le Stratège |2011| Bennett Miller
-N|🇨🇳|H5| Le Syndicat du crime |1986| John Woo
-N|🇺🇸|C4| Le Temps d'aimer et le temps de mourir |1958| Douglas Sirk
-N|🇺🇸|C5| Le Temps de l'innocence |1993| Martin Scorsese
-N|🇩🇪|E4| Le Testament du Dr Mabuse |1932| Fritz Lang
-N|🇯🇵|C3| Le Tombeau des lucioles |1988| Isao Takahata
-N|🇺🇸|G5| Le Train sifflera trois fois |1952| Fred Zinnemann
-N|🇫🇷|E3| Le Transporteur |2002| Corey Yuen, Louis Leterrier
-N|🇺🇸|H3| Le Trésor de la Sierra Madre |1947| John Huston
-N|🇬🇧|E5| Le Troisième homme |1949| Carol Reed
-N|🇫🇷|F5| Le Trou |1960| Jacques Becker
-N|🇮🇪|C4| Le Vent se lève |2005| Ken Loach
-N|🇯🇵|B4| Le vent se lève |2013| Hayao Miyazaki
-N|🇺🇸|D4| Le Verdict |1982| Sidney Lumet
-N|🇺🇸|D5| Le Village |2004| M. Night Shyamalan
-N|🇺🇸|H4| Le vol du grand rapide |1903| Edwin S. Porter
-N|🇮🇹|C7| Le Voleur de bicyclette |1948| Vittorio De Sica
-N|🇺🇸|G4| Le Voyage d'Arlo |2015| Peter Sohn, Bob Peterson
-N|🇫🇷|E1| Le Voyage dans la Lune |1902| Georges Melies
-N|🇯🇵|B6| Le Voyage de Chihiro |2001| Hayao Miyazaki
-N|🇺🇸|D1| Le Voyage fantastique |1966| Richard Fleischer
-N|🇬🇧|F4| Le Voyeur |1960| Michael Powell
-N|🇺🇸|D7| Leaving Las Vegas |1995| Mike Figgis
-N|🇩🇪|B2| Leçons de ténèbres |1992| Werner Herzog
-N|🇺🇸|H5| Légitime Violence |1977| John Flynn
-N|🇺🇸|G6| Léon |1994| Luc Besson
-N|🇬🇧|D1| Les 39 marches |1935| Alfred Hitchcock
-N|🇺🇸|G6| Les Affranchis |1990| Martin Scorsese
-N|🇺🇸|E3| Les Ailes de l'enfer |1997| Simon West
-N|🇩🇪|I5| Les Ailes du désir |1987| Wim Wenders
-N|🇫🇷|C7| Les Amants du Pont-Neuf |1991| Leos Carax
-N|🇺🇸|I2| Les Aristochats |1971| Wolfgang Reitherman
-N|🇺🇸|E5| Les Autres |2001| Alejandro Amenabar
-N|🇺🇸|E6| Les Aventures de Jack Burton dans les griffes du mandarin |1986| John Carpenter
-N|🇺🇸|D6| Les Aventures de Tintin : Le Secret de la Licorne |2011| Steven Spielberg
-N|🇬🇧|E7| Les Aventures du baron de Münchausen |1988| Terry Gilliam
-N|🇺🇸|F1| Les Banlieusards |1989| Joe Dante
-N|🇫🇷|A5| Les Beaux gosses |2009| Riad Sattouf
-N|🇺🇸|B6| Les Bêtes du sud sauvage |2011| Benh Zeitlin
-N|🇺🇸|C5| Les Blancs ne savent pas sauter |1992| Ron Shelton
-N|🇧🇷|I5| Les Bruits de Recife |2012| Kleber Mendonça Filho
-N|🇬🇧|B5| Les Chariots de feu |1981| Hugh Hudson
-N|🇬🇧|D4| Les Chaussons rouges |1948| Michael Powell, Emeric Pressburger
-N|🇺🇸|G4| Les Cheyennes |1964| John Ford
-N|🇬🇧|H7| Les Chiens de paille |1971| Sam Peckinpah
-N|🇫🇷|E7| Les Choses de la vie |1970| Claude Sautet
-N|🇺🇸|H2| Les Compagnons de la Nouba |1933| William A. Seiter
-N|🇯🇵|E7| Les Contes de la lune vague après la pluie |1953| Kenji Mizoguchi
-N|🇫🇷|H3| Les Demoiselles de Rochefort |1967| Jacques Demy
-N|🇺🇸|E6| Les Dents de la Mer |1975| Steven Spielberg
-N|🇺🇸|H3| Les Derniers Jours du disco |1998| Whit Stillman
-N|🇺🇸|G4| Les Désaxés |1960| John Huston
-N|🇫🇷|D5| Les Diaboliques |1955| Henri-Georges Clouzot
-N|🇧🇼|H2| Les Dieux sont tombés sur la tête |1981| Jamie Uys
-N|🇬🇧|C3| Les Douze salopards |1967| Robert Aldrich
-N|🇺🇸|H6| Les Enchaînés |1946| Alfred Hitchcock
-N|🇫🇷|C5| Les Enfants du paradis |1945| Marcel Carne
-N|🇯🇵|B6| Les Enfants Loups, Ame & Yuki |2012| Mamoru Hosoda
-N|🇺🇸|E3| Les Ensorcelés |1952| Vincente Minnelli
-N|🇺🇸|F5| Les Évadés |1994| Frank Darabont
-N|🇺🇸|D4| Les Feux de la rampe |1952| Charlie Chaplin
-N|🇬🇧|E2| Les Fils de l'homme |2006| Alfonso Cuaron
-N|🇸🇪|E7| Les Fraises sauvages |1957| Ingmar Bergman
-N|🇮🇹|F5| Les Frissons de l'angoisse |1975| Dario Argento
-N|🇺🇸|E7| Les Gardiens de la Galaxie |2013| James Gunn
-N|🇺🇸|B5| Les Glandeurs |1995| Kevin Smith
-N|🇫🇷|A2| Les Glaneurs et la Glaneuse |1999| Agnes Varda
-N|🇺🇸|B5| Les Goonies |1985| Richard Donner
-N|🇺🇸|E5| Les Griffes de la nuit |1984| Wes Craven
-N|🇺🇸|I4| Les Guerriers de la nuit |1979| Walter Hill
-N|🇭🇺|E7| Les Harmonies Werckmeister |2000| Bela Tarr
-N|🇺🇸|B4| Les Hommes du Président |1976| Alan J. Pakula
-N|🇺🇸|I2| Les Hommes préfèrent les blondes |1953| Howard Hawks
-N|🇺🇸|G5| Les Huit salopards |2015| Quentin Tarantino
-N|🇺🇸|G6| Les Incorruptibles |1987| Brian De Palma
-N|🇺🇸|F7| Les Indestructibles |2004| Brad Bird
-N|🇺🇸|G6| Les Infiltrés |2006| Martin Scorsese
-N|🇬🇧|F6| Les Innocents |1961| Jack Clayton
-N|🇺🇸|G3| Les Liaisons dangereuses |1988| Stephen Frears
-N|🇺🇸|E6| Les Lumières de la ville |1931| Charlie Chaplin
-N|🇺🇸|C5| Les Moissons du ciel |1979| Terrence Malick
-N|🇺🇸|I2| Les Muppets, le film |1979| James Frawley
-N|🇺🇸|F5| Les Nerfs à vif |1961| J. Lee Thompson
-N|🇺🇸|F5| Les Nerfs à vif |1991| Martin Scorsese
-N|🇺🇸|F6| Les Noces funèbres |2005| Tim Burton, Mike Johnson
-N|🇺🇸|D7| Les Noces rebelles |2008| Sam Mendes
-N|🇺🇸|F2| Les Nouveaux Héros |2014| Don Hall, Chris Williams
-N|🇺🇸|F6| Les Oiseaux |1963| Alfred Hitchcock
-N|🇫🇷|H3| Les Parapluies de Cherbourg |1964| Jacques Demy
-N|🇬🇧|F6| Les Prédateurs |1983| Tony Scott
-N|🇺🇸|F3| Les Producteurs |1968| Mel Brooks
-N|🇺🇸|G4| Les Proies |1971| Don Siegel
-N|🇫🇷|C6| Les Quatre Cents Coups |1959| Francois Truffaut
-N|🇺🇸|C7| Les Raisins de la colère |1940| John Ford
-N|🇺🇸|G5| Les Rapaces |1924| Erich Von Stroheim
-N|🇺🇸|D3| Les Rois du désert |1999| David O. Russell
-N|🇺🇸|G1| Les Rois du Patin |2007| Josh Gordon, Will Speck
-N|🇺🇸|H2| Les Séducteurs |1964| Ralph Levy
-N|🇺🇸|C3| Les Sentiers de la gloire |1957| Stanley Kubrick
-N|🇺🇸|G6| Les Sentiers de la perdition |2002| Sam Mendes
-N|🇺🇸|G4| Les Sept mercenaires |1960| John Sturges
-N|🇯🇵|H7| Les Sept Samouraïs |1954| Akira Kurosawa
-N|🇺🇸|G1| Les Simpson, le film |2007| David Silverman
-N|🇺🇸|H1| Les Temps modernes |1936| Charlie Chaplin
-N|🇺🇸|D1| Les Trois jours du Condor |1975| Sydney Pollack
-N|🇫🇷|H1| Les Vacances de Monsieur Hulot |1953| Jacques Tati
-N|🇫🇷|F3| Les Valseuses |1974| Bertrand Blier
-N|🇬🇧|H2| Les Virtuoses |1997| Mark Herman
-N|🇫🇷|F4| Les Visiteurs |1993| Jean-Marie Poire
-N|🇫🇷|E5| Les Yeux sans Visage |1959| Georges Franju
-N|🇺🇸|E7| Lettre d'une inconnue |1948| Max Ophuls
-N|🇯🇵|C3| Lettres d'Iwo Jima |2007| Clint Eastwood
-N|🇺🇸|B2| Leviathan |2012| Lucien Castaing-Taylor, Verena Paravel
-N|🇺🇸|G3| Liaison fatale |1988| Adrian Lyne
-N|🇺🇸|A3| Life Itself |2014| Steve James
-N|🇺🇸|D6| Lifeboat |1943| Alfred Hitchcock
-N|🇺🇸|C4| Lincoln |2012| Steven Spielberg
-N|🇬🇧|A2| Listen to Britain |1942| Humphrey Jennings, Stewart McAllister
-N|🇺🇸|G5| Little Big Man |1970| Arthur Penn
-N|🇺🇸|B6| Little Miss Sunshine |2005| Jonathan Dayton, Valerie Faris
-N|🇺🇸|F6| Little Odessa |1994| James Gray
-N|🇰🇷|I6| Locataires |2004| Kim Ki-duk
-N|🇺🇸|G7| Logan |2017| James Mangold
-N|🇺🇸|C5| Loin du paradis |2002| Todd Haynes
-N|🇺🇸|G3| Lolita |1962| Stanley Kubrick
-N|🇺🇸|A6| Lolita malgré moi |2003| Mark Waters
-N|🇺🇸|F3| Looper |2012| Rian Johnson
-N|🇺🇸|D3| Lord of War |2005| Andrew Niccol
-N|🇺🇸|D7| Lorenzo |1992| George Miller
-N|🇺🇸|F3| Los Angeles 2013 |1996| John Carpenter
-N|🇺🇸|E4| Lost Highway |1997| David Lynch
-N|🇺🇸|A3| Lost in La Mancha |2001| Louis Pepe, Keith Fulton
-N|🇺🇸|D7| Lost in Translation |2003| Sofia Coppola
-N|🇬🇧|G3| Love Actually |2003| Richard Curtis
-N|🇯🇵|E3| Love Exposure |2008| Sion Sono
-N|🇺🇸|C7| Love Story |1970| Arthur Hiller
-N|🇮🇹|C5| Ludwig |1972| Luchino Visconti
-N|🇺🇸|G5| Luke la main froide |1967| Stuart Rosenberg
-N|🇹🇼|G3| Lust, Caution |2007| Ang Lee
-N|🇩🇪|F5| M le Maudit |1931| Fritz Lang
-N|🇬🇧|D1| M.15 demande protection |1966| Sidney Lumet
-N|🇺🇸|D3| M.A.S.H. |1970| Robert Altman
-N|🇫🇷|E6| Ma nuit chez Maud |1969| Eric Rohmer
-N|🇺🇸|C5| Ma Vie avec Liberace |2012| Steven Soderbergh
-N|🇺🇸|D7| Macadam Cowboy |1969| John Schlesinger
-N|🇦🇺|E2| Mad Max |1979| George Miller
-N|🇦🇺|E2| Mad Max 2 : le défi |1981| George Miller
-N|🇦🇺|E2| Mad Max au-delà du Dôme du Tonnerre |1985| George Ogilvie, George Miller
-N|🇦🇺|E2| Mad Max: Fury Road |2015| George Miller
-N|🇫🇷|C5| Madame de... |1953| Max Ophuls
-N|🇺🇸|G1| Madame Doubtfire |1994| Chris Columbus
-N|🇰🇷|H3| Mademoiselle |2016| Park Chan-wook
-N|🇺🇸|H2| Mafia Blues |1999| Harold Ramis
-N|🇺🇸|I3| Magic Mike |2012| Steven Soderbergh
-N|🇺🇸|D7| Magnolia |1999| Paul Thomas Anderson
-N|🇺🇸|E2| Magnum Force |1973| Ted Post
-N|🇺🇸|D5| Malcolm X |1992| Spike Lee
-N|🇺🇸|G1| Maman, j'ai encore raté l'avion |1992| Chris Columbus
-N|🇺🇸|G1| Maman, j'ai raté l'avion |1990| Chris Columbus
-N|🇮🇹|D6| Mamma Roma |1962| Pier Paolo Pasolini
-N|🇺🇸|F7| Man of Steel |2013| Zack Snyder
-N|🇺🇸|E3| Man on Fire |2004| Tony Scott
-N|🇺🇸|B5| Man On the Moon |1999| Milos Forman
-N|🇺🇸|E7| Manhattan |1979| Woody Allen
-N|🇺🇸|G7| Margin Call |2011| J. C. Chandor
-N|🇫🇷|D5| Marie-Antoinette |2005| Sofia Coppola
-N|🇺🇸|F1| Mars Attacks! |1996| Tim Burton
-N|🇺🇸|F6| Martin |1977| George A. Romero
-N|🇺🇸|G2| Mary à tout prix |1998| Peter Farrelly, Bobby Farrelly
-N|🇺🇸|B6| Mary Poppins |1965| Robert Stevenson
-N|🇺🇸|E5| Massacre à la tronçonneuse |1974| Tobe Hooper
-N|🇺🇸|D5| Master and Commander : de l'autre côté du monde |2003| Peter Weir
-N|🇬🇧|I6| Match Point |2005| Woody Allen
-N|🇺🇸|E2| Matrix |1999| Lana Wachowski, Lilly Wachowski
-N|🇺🇸|D2| Matrix Reloaded |2003| Lilly Wachowski, Lana Wachowski
-N|🇺🇸|D2| Matrix Revolutions |2003| Lilly Wachowski, Lana Wachowski
-N|🇺🇸|H3| Maverick |1994| Richard Donner
-N|🇺🇸|F6| Max et les maximonstres |2009| Spike Jonze
-N|🇺🇸|E6| May |2002| Lucky McKee
-N|🇺🇸|G6| Mean Streets |1973| Martin Scorsese
-N|🇩🇰|E1| Melancholia |2011| Lars von Trier
-N|🇺🇸|E5| Memento |2000| Christopher Nolan
-N|🇺🇸|C3| Mémoires de nos pères |2006| Clint Eastwood
-N|🇰🇷|F5| Memories of Murder |2004| Joon-ho Bong
-N|🇺🇸|E1| Men in Black |1997| Barry Sonnenfeld
-N|🇺🇸|I4| Menace II Society |1993| Allen Hughes, Albert Hughes
-N|🇺🇸|G1| Menteur, menteur |1997| Tom Shadyac
-N|🇺🇸|G3| Méprise multiple |1997| Kevin Smith
-N|🇺🇸|B7| Merlin l'enchanteur |1964| Wolfgang Reitherman
-N|🇺🇸|G2| Mes meilleures amies |2011| Paul Feig
-N|🇩🇪|F1| Metropolis |1927| Fritz Lang
-N|🇺🇸|F4| Meurtre d'un bookmaker chinois |1976| John Cassavetes
-N|🇺🇸|I4| Meurtres dans la 110e rue |1972| Barry Shear
-N|🇺🇸|G6| Miami Vice - Deux flics à Miami |2005| Michael Mann
-N|🇺🇸|G2| Micki et Maude |1984| Blake Edwards
-N|🇺🇸|F5| Midnight Express |1978| Alan Parker
-N|🇺🇸|H2| Midnight Run |1988| Martin Brest
-N|🇺🇸|E1| Midnight Special |2016| Jeff Nichols
-N|🇺🇸|F4| Millénium : Les hommes qui n’aimaient pas les femmes |2011| David Fincher
-N|🇯🇵|E4| Millennium Actress |2001| Satoshi Kon
-N|🇹🇼|F5| Millennium Mambo |2001| Hou Hsiao-Hsien
-N|🇺🇸|G6| Miller's Crossing |1990| Joel Coen, Ethan Coen
-N|🇺🇸|C6| Million Dollar Baby |2004| Clint Eastwood
-N|🇺🇸|D1| Minority Report |2002| Steven Spielberg
-N|🇺🇸|E7| Minuit à Paris |2011| Woody Allen
-N|🇺🇸|D7| Mirage de la vie |1959| Douglas Sirk
-N|🇺🇸|F5| Misery |1990| Rob Reiner
-N|🇺🇸|C2| Mission : Impossible |1996| Brian De Palma
-N|🇺🇸|C1| Mission : Impossible - Protocole fantôme |2011| Brad Bird
-N|🇺🇸|E1| Mission to Mars |2000| Brian De Palma
-N|🇺🇸|C1| Mission: Impossible - Rogue Nation |2015| Christopher McQuarrie
-N|🇺🇸|C2| Mission: Impossible 2 |2000| John Woo
-N|🇺🇸|C1| Mission: Impossible 3 |2005| J.J. Abrams
-N|🇮🇳|I2| Mohabbatein |2000| Aditya Chopra
-N|🇫🇷|A2| Moi un noir |1958| Jean Rouch
-N|🇺🇸|G1| Mon beau-père et moi |2000| Jay Roach
-N|🇮🇹|H4| Mon nom est personne |1973| Tonino Valerii
-N|🇫🇷|H1| Mon oncle |1958| Jacques Tati
-N|🇫🇷|I7| Mon Oncle d'Amérique |1980| Alain Resnais
-N|🇯🇵|B6| Mon voisin Totoro |1988| Hayao Miyazaki
-N|🇺🇸|G2| Mondwest |1973| Michael Crichton
-N|🇸🇪|D7| Monika |1953| Ingmar Bergman
-N|🇺🇸|C4| Monsieur Smith au Sénat |1939| Frank Capra
-N|🇺🇸|C5| Monstres & Cie |2001| Pete Docter, David Silverman, Lee Unkrich
-N|🇺🇸|H1| Monte là-dessus |1923| Fred C. Newmeyer, Sam Taylor
-N|🇬🇧|H1| Monty Python, la vie de Brian |1978| Terry Jones
-N|🇬🇧|H1| Monty Python, Le Sens de la vie |1983| Terry Gilliam, Terry Jones
-N|🇬🇧|H1| Monty Python, sacré Graal |1975| Terry Gilliam, Terry Jones
-N|🇬🇧|E4| Moon |2009| Duncan Jones
-N|🇺🇸|D7| Moonlight |2016| Barry Jenkins
-N|🇺🇸|B5| Moonrise Kingdom |2011| Wes Anderson
-N|🇸🇪|F6| Morse |2008| Tomas Alfredson
-N|🇮🇹|C7| Mort à Venise |1971| Luchino Visconti
-N|🇺🇸|G4| Mort ou vif |1994| Sam Raimi
-N|🇰🇷|F4| Mother |2009| Joon-ho Bong
-N|🇮🇳|I3| Mother India |1957| Mehboob Khan
-N|🇦🇺|H2| Moulin Rouge ! |2001| Baz Luhrmann
-N|🇺🇸|D1| Mr. & Mrs. Smith |2005| Doug Liman
-N|🇺🇸|C6| Mud - Sur les rives du Mississippi |2013| Jeff Nichols
-N|🇺🇸|B6| Mulan |1998| Tony Bancroft, Barry Cook
-N|🇺🇸|E4| Mulholland Drive |2001| David Lynch
-N|🇺🇸|D1| Munich |2005| Steven Spielberg
-N|🇺🇸|A2| Murderball |2005| Henry Alex Rubin, Dana Adam Shapiro
-N|🇦🇺|G2| Muriel |1994| P.J. Hogan
-N|🇹🇷|C7| Mustang |2015| Deniz Gamze Erguven
-N|🇬🇧|G1| My Beautiful Laundrette |1985| Stephen Frears
-N|🇺🇸|H3| My Fair Lady |1964| George Cukor
-N|🇺🇸|C6| My Girl |1991| Howard Zieff
-N|🇺🇸|D7| My Own Private Idaho |1991| Gus Van Sant
-N|🇵🇹|D5| Mystères de Lisbonne |2010| Raoul Ruiz
-N|🇺🇸|I7| Mysterious Skin |2004| Gregg Araki
-N|🇺🇸|I7| Mystic River |2003| Clint Eastwood
-N|🇺🇸|C7| N'oublie jamais |2002| Nick Cassavetes
-N|🇺🇸|C5| N.W.A - Straight Outta Compton |2015| F. Gary Gray
-N|🇫🇷|B4| Naissance des pieuvres |2007| Celine Sciamma
-N||C7| Naked |1992| Mike Leigh
-N|🇨🇦|B2| Nanouk l'Esquimau |1922| Robert J. Flaherty
-N|🇺🇸|A5| Napoleon Dynamite |2003| Jared Hess
-N|🇯🇵|B6| Nausicaä de la vallée du vent |1984| Hayao Miyazaki
-N|🇪🇸|G5| Navajo Joe |1966| Sergio Corbucci
-N|🇺🇸|C3| Né un 4 juillet |1989| Oliver Stone
-N|🇺🇸|F3| Network, main basse sur la télévision |1976| Sidney Lumet
-N|🇺🇸|I4| New Jack City |1991| Mario Van Peebles
-N|🇺🇸|E2| New York 1997 |1981| John Carpenter
-N|🇺🇸|I2| New York, New York |1977| Martin Scorsese
-N|🇺🇸|G2| New York-Miami |1934| Frank Capra
-N|🇺🇸|F3| Night Call |2014| Dan Gilroy
-N|🇫🇷|G6| Nikita |1990| Luc Besson
-N|🇺🇸|E4| Nimitz, retour vers l'enfer |1980| Don Taylor
-N|🇨🇱|C4| No |2012| Pablo Larrain
-N|🇺🇸|G5| No Country For Old Men |2007| Joel Coen, Ethan Coen
-N|🇺🇸|A3| No Direction Home: Bob Dylan |2005| Martin Scorsese
-N|🇯🇵|B6| Nobody knows |2003| Hirokazu Kore-Eda
-N|🇺🇸|C7| Nos étoiles contraires |2013| Josh Boone
-N|🇺🇸|G6| Nos funérailles |1996| Abel Ferrara
-N|🇩🇪|F6| Nosferatu |1922| Friedrich Wilhelm Murnau
-N|🇺🇸|B2| Nostalgie de la lumière |2010| Patricio Guzman
-N|🇺🇸|C5| Nous avons gagné ce soir |1949| Robert Wise
-N|🇮🇹|I5| Nous nous sommes tant aimés |1974| Ettore Scola
-N|🇺🇸|F2| Nouveau Départ |2011| Cameron Crowe
-N|🇺🇸|A4| Nowhere |1997| Gregg Araki
-N|🇫🇷|B3| Nuit et brouillard |1955| Alain Resnais
-N|🇺🇸|G2| Nuits blanches à Seattle |1992| Nora Ephron
-N|🇩🇰|G3| Nymphomaniac |2013| Lars von Trier
-N|🇺🇸|G1| O'Brother |2000| Joel Coen, Ethan Coen
-N|🇺🇸|A2| O.J.: Made in America |2016| Ezra Edelman
-N|🇺🇸|F4| Obsession |1976| Brian De Palma
-N|🇺🇸|H5| Ocean's Eleven |2001| Steven Soderbergh
-N|🇺🇸|H5| Ocean's Twelve |2004| Steven Soderbergh
-N|🇰🇷|E5| Old Boy |2003| Park Chan-wook
-N|🇺🇸|C7| On achève bien les chevaux |1969| Sydney Pollack
-N|🇬🇧|D1| On ne vit que deux fois |1967| Lewis Gilbert
-N|🇮🇪|H2| Once |2006| John Carney
-N|🇹🇭|E7| Oncle Boonmee (celui qui se souvient de ses vies antérieures) |2009| Apichatpong Weerasethakul
-N|🇺🇸|D4| Opening Night |1978| John Cassavetes
-N|🇺🇸|D2| Opération dragon |1973| Robert Clouse
-N|🇬🇧|H7| Orange Mécanique |1971| Stanley Kubrick
-N|🇩🇰|E3| Ordet |1955| Carl Theodor Dreyer
-N|🇫🇷|H3| Orfeu negro |1959| Marcel Camus
-N|🇬🇧|C5| Orgueil et préjugés |2005| Joe Wright
-N|🇳🇴|C7| Oslo, 31 août |2011| Joachim Trier
-N|🇺🇸|E6| Out of Africa |1985| Sydney Pollack
-N|🇺🇸|C3| Outrages |1989| Brian De Palma
-N|🇺🇸|H7| Outsiders |1983| Francis Ford Coppola
-N|🇪🇸|E5| Ouvre les yeux |1998| Alejandro Amenabar
-N|🇺🇸|D1| Pacific Rim |2013| Guillermo del Toro
-N|🇺🇸|G4| Pale Rider, le cavalier solitaire |1985| Clint Eastwood
-N|🇺🇸|E5| Panic room |2002| David Fincher
-N|🇺🇸|E3| Panic sur Florida Beach |1992| Joe Dante
-N|🇺🇸|D7| Panique à Needle Park |1971| Jerry Schatzberg
-N|🇺🇸|F5| Papillon |1973| Franklin J. Schaffner
-N|🇯🇵|E5| Paprika |2005| Satoshi Kon
-N|🇺🇸|E6| Paranormal Activity |2009| Oren Peli
-N|🇺🇸|B2| Paris is Burning |1990| Jennie Livingston
-N|🇺🇸|D7| Paris, Texas |1984| Wim Wenders
-N|🇪🇸|C6| Parle avec elle |2002| Pedro Almodovar
-N|🇺🇸|H3| Pas de printemps pour Marnie |1964| Alfred Hitchcock
-N|🇺🇸|G4| Pat Garrett et Billy le Kid |1973| Sam Peckinpah
-N|🇺🇸|C3| Patton |1970| Franklin J. Schaffner
-N|🇺🇸|F1| Paul |2010| Greg Mottola
-N|🇺🇸|C3| Pearl Harbor |2001| Michael Bay
-N|🇺🇸|H1| Pee Wee Big Adventure |1985| Tim Burton
-N|🇺🇸|F3| Peggy Sue s'est mariée |1986| Francis Ford Coppola
-N|🇰🇷|C7| Peppermint Candy |2000| Lee Chang-Dong
-N|🇯🇵|F4| Perfect Blue |1998| Satoshi Kon
-N|🇫🇷|A5| Persepolis |2007| Marjane Satrapi, Vincent Paronnaud
-N|🇸🇪|D7| Persona |1966| Ingmar Bergman
-N|🇺🇸|D6| Peter Pan |1953| Hamilton Luske, Wilfred Jackson, Clyde Geronimi
-N|🇬🇧|H6| Petits meurtres entre amis |1994| Danny Boyle
-N|🇺🇸|E5| Peur primale |1996| Gregory Hoblit
-N|🇺🇸|H3| Phantom of the Paradise |1974| Brian De Palma
-N|🇺🇸|C5| Phantom Thread |2017| Paul Thomas Anderson
-N|🇺🇸|F5| Phénomènes |2008| M. Night Shyamalan
-N|🇺🇸|C6| Philadelphia |1994| Jonathan Demme
-N|🇺🇸|E5| Phone Game |2002| Joel Schumacher
-N|🇺🇸|E4| Pi |1998| Darren Aronofsky
-N|🇫🇷|F6| Pickpocket |1959| Robert Bresson
-N|🇺🇸|E3| Piège à Hong Kong |1998| Tsui Hark
-N|🇺🇸|E2| Piège de cristal |1988| John McTiernan
-N|🇺🇸|D3| Piège en haute mer |1992| Andrew Davis
-N|🇺🇸|E2| Piégée |2011| Steven Soderbergh
-N|🇫🇷|D6| Pierrot le Fou |1965| Jean-Luc Godard
-N|🇬🇧|I2| Pink Floyd : The Wall |1982| Alan Parker
-N|🇺🇸|F2| Pinocchio |1940| Hamilton Luske, Ben Sharpsteen
-N|🇦🇺|F5| Pique-nique à Hanging Rock |1975| Peter Weir
-N|🇺🇸|I1| Plan 9 from Outer Space |1959| Ed Wood
-N|🇺🇸|E1| Planète interdite |1957| Fred McWilcox
-N|🇺🇸|F5| Planète terreur |2007| Robert Rodriguez
-N|🇺🇸|C3| Platoon |1986| Oliver Stone
-N|🇫🇷|H1| Playtime |1967| Jacques Tati
-N|🇫🇷|H6| Plein soleil |1960| Rene Clement
-N|🇺🇸|D3| Point break extrême limite |1991| Kathryn Bigelow
-N|🇺🇸|F2| Point limite zéro |1971| Richard C. Sarafian
-N|🇺🇸|G6| Police Fédérale Los Angeles |1985| William Friedkin
-N|🇺🇸|F6| Poltergeist |1982| Tobe Hooper
-N|🇨🇦|B4| Polytechnique |2009| Denis Villeneuve
-N|🇺🇸|A2| Portrait of jason |1967| Shirley Clarke
-N|🇲🇽|E4| Post Tenebras Lux |2012| Carlos Reygadas
-N|🇺🇸|E3| Postman |1998| Kevin Costner
-N|🇺🇸|G2| Pour le pire et pour le meilleur |1998| James L. Brooks
-N|🇮🇹|H4| Pour une poignée de dollars |1964| Sergio Leone
-N|🇺🇸|D2| Predator |1987| John McTiernan
-N|🇺🇸|H2| Prends l'oseille et tire-toi ! |1969| Woody Allen
-N|🇺🇸|H1| Présentateur vedette : la légende de Ron Burgundy |2004| Adam McKay
-N|🇺🇸|H2| Presque célèbre |2000| Cameron Crowe
-N|🇺🇸|I6| Prête à tout |1995| Gus Van Sant
-N|🇺🇸|G3| Pretty Woman |1990| Garry Marshall
-N|🇺🇸|B3| Primary |1960| D.A. Pennebaker, Robert Drew
-N|🇺🇸|F3| Primer |2004| Shane Carruth
-N|🇯🇵|B6| Princesse Mononoké |1997| Hayao Miyazaki
-N|🇺🇸|F4| Prisoners |2013| Denis Villeneuve
-N|🇮🇹|H7| Profession : Reporter |1975| Michelangelo Antonioni
-N|🇺🇸|B5| Projet X |2011| Nima Nourizadeh
-N|🇬🇧|E1| Prometheus |2012| Ridley Scott
-N|🇺🇸|G3| Proposition indécente |1993| Adrian Lyne
-N|🇺🇸|E4| Psychose |1960| Alfred Hitchcock
-N|🇺🇸|G5| Public Enemies |2009| Michael Mann
-N|🇺🇸|A2| Public Housing |1998| Frederick Wiseman
-N|🇺🇸|G6| Pulp Fiction |1994| Quentin Tarantino
-N|🇺🇸|E5| Pulsions |1980| Brian De Palma
-N|🇺🇸|A6| Pump up the volume |1990| Allan Moyle
-N|🇺🇸|E7| Punch-drunk love - Ivre d'amour |2003| Paul Thomas Anderson
-N|🇺🇸|I5| Punishment Park |1970| Peter Watkins
-N|🇩🇰|H7| Pusher |1996| Nicolas Winding Refn
-N|🇩🇰|G7| Pusher II - Du sang sur les mains |2004| Nicolas Winding Refn
-N|🇩🇰|G7| Pusher III - L'ange de la mort |2005| Nicolas Winding Refn
-N|🇺🇸|C7| Qu'elle était verte ma vallée |1941| John Ford
-N|🇺🇸|F3| Qu'est-il arrivé à Baby Jane ? |1962| Robert Aldrich
-N|🇺🇸|G2| Quand Harry rencontre Sally |1989| Rob Reiner
-N|🇬🇧|D3| Quand les aigles attaquent |1969| Brian G. Hutton
-N|🇷🇺|C4| Quand passent les cigognes |1957| Mikhail Kalatozov
-N|🇬🇧|I2| Quatre garçons dans le vent |1964| Richard Lester
-N|🇬🇧|G2| Quatre mariages et un enterrement |1993| Mike Newell
-N|🇫🇷|H5| Que la bête meure |1969| Claude Chabrol
-N|🇫🇷|H1| Que la fête commence |1975| Bertrand Tavernier
-N|🇺🇸|I3| Que le spectacle commence ! |1979| Bob Fosse
-N|🇺🇸|F1| Qui veut la peau de Roger Rabbit ? |1988| Robert Zemeckis
-N|🇬🇧|H6| Racket |1980| John Mackenzie
-N|🇺🇸|C5| Raging Bull |1980| Martin Scorsese
-N|🇺🇸|B6| Rain Man |1988| Barry Levinson
-N|🇬🇧|C7| Raining stones |1993| Ken Loach
-N|🇺🇸|D3| Rambo |1982| Ted Kotcheff
-N|🇺🇸|D3| Rambo 2 : La Mission |1985| George Pan Cosmatos
-N|🇺🇸|D3| Rambo III |1988| Peter MacDonald
-N|🇯🇵|H7| Ran |1985| Akira Kurosawa
-N|🇺🇸|G4| Rango |2011| Gore Verbinski
-N|🇯🇵|H6| Rashōmon |1950| Akira Kurosawa
-N|🇺🇸|H2| Rasta Rockett |1994| Jon Turteltaub
-N|🇺🇸|B6| Ratatouille |2007| Brad Bird, Bob Peterson
-N|🇺🇸|C4| Ray |2004| Taylor Hackford
-N|🇺🇸|F5| Re-Animator |1985| Stuart Gordon
-N|🇺🇸|E2| Ready Player One |2018| Steven Spielberg
-N|🇺🇸|F6| Rebecca |1940| Alfred Hitchcock
-N|🇺🇸|A2| Red Army |2014| Gabe Polsky
-N|🇺🇸|C3| Redacted |2007| Brian De Palma
-N|🇺🇸|E1| Rencontres du troisième type |1977| Steven Spielberg
-N|🇺🇸|G2| Rendez-vous |1940| Ernst Lubitsch
-N|🇬🇧|F6| Rendez-vous avec la peur |1958| Jacques Tourneur
-N|🇺🇸|D7| Requiem for a Dream |2000| Darren Aronofsky
-N|🇷🇺|C3| Requiem pour un massacre |1984| Elem Klimov
-N|🇺🇸|H5| Reservoir Dogs |1992| Quentin Tarantino
-N|🇺🇸|F4| Retour vers le futur |1985| Robert Zemeckis
-N|🇺🇸|F4| Retour vers le futur II |1989| Robert Zemeckis
-N|🇺🇸|F4| Retour vers le futur III |1990| Robert Zemeckis
-N|🇺🇸|C5| Révélations |1999| Michael Mann
-N|🇬🇧|C4| Reviens-moi |2007| Joe Wright
-N|🇺🇸|C5| Riches et célèbres |1981| George Cukor
-N|🇺🇸|H1| Ricky Bobby : roi du circuit |2005| Adam McKay
-N|🇯🇵|E6| Ring |1997| Hideo Nakata
-N|🇺🇸|G5| Rio Bravo |1959| Howard Hawks
-N|🇺🇸|G5| Rio Lobo |1970| Howard Hawks
-N|🇺🇸|B5| Risky Business |1983| Paul Brickman
-N|🇺🇸|D4| Robin des Bois, prince des voleurs |1991| Kevin Reynolds
-N|🇺🇸|E2| Robocop |1987| Paul Verhoeven
-N|🇮🇹|E7| Rocco et ses frères |1960| Luchino Visconti
-N|🇺🇸|H2| Rock Academy |2003| Richard Linklater
-N|🇺🇸|C5| Rocky |1976| John G. Avildsen
-N|🇺🇸|C5| Rocky Balboa |2006| Sylvester Stallone
-N|🇺🇸|C5| Rocky II |1979| Sylvester Stallone
-N|🇺🇸|C5| Rocky III |1982| Sylvester Stallone
-N|🇺🇸|A3| Roman Polanski: Wanted and Desired |2008| Marina Zenovich
-N|🇫🇷|G3| Romance |1999| Catherine Breillat
-N|🇮🇹|H6| Romanzo criminale |2005| Michele Placido
-N|🇮🇹|C4| Rome, ville ouverte |1945| Roberto Rossellini
-N|🇺🇸|H2| Romeo + Juliette |1996| Baz Luhrmann
-N|🇺🇸|A3| Room 237 |2012| Rodney Ascher
-N|🇺🇸|A5| Rose bonbon |1986| Howard Deutch
-N|🇺🇸|F6| Rosemary's Baby |1968| Roman Polanski
-N|🇧🇪|C7| Rosetta |1999| Jean-Pierre Dardenne, Luc Dardenne
-N|🇺🇸|C6| Rox et Rouky |1981| Richard Rich, Ted Berman, Art Stevens
-N|🇫🇷|E4| Rubber |2010| Quentin Dupieux
-N|🇺🇸|E2| Runaway train |1985| Andrei Konchalovsky
-N|🇬🇧|B5| Rush |2013| Ron Howard
-N|🇺🇸|F1| Rush Hour |1998| Brett Ratner
-N|🇺🇸|A5| Rushmore |1998| Wes Anderson
-N|🇺🇸|F1| S.O.S Fantômes |1984| Ivan Reitman
-N|🇺🇸|G2| Sabrina |1954| Billy Wilder
-N|🇮🇹|A2| Sacro GRA |2012| Gianfranco Rosi
-N|🇺🇸|I6| Safe |1995| Todd Haynes
-N|🇺🇸|D6| Sailor et Lula |1990| David Lynch
-N|🇺🇸|A3| Salesman |1969| Charlotte Zwerin, David Maysles, Albert Maysles
-N|🇮🇹|C3| Salo ou les 120 journées de Sodome |1975| Pier Paolo Pasolini
-N|🇺🇸|H5| Sang pour sang |1984| Joel Coen, Ethan Coen
-N|🇺🇸|H2| Sans Sarah rien ne va ! |2008| Nicholas Stoller
-N|🇫🇷|B2| Sans Soleil |1982| Chris Marker
-N|🇺🇸|B6| Save the Last Dance |2001| Thomas Carter
-N|🇺🇸|F5| Saw |2004| James Wan
-N|🇨🇦|E7| Scanners |1981| David Cronenberg
-N|🇺🇸|G6| Scarface |1932| Howard Hawks
-N|🇺🇸|G6| Scarface |1983| Brian De Palma
-N|🇺🇸|H1| Scary Movie |2000| Keenen Ivory Wayans
-N|🇺🇸|E4| Schizopolis |1996| Steven Soderbergh
-N|🇺🇸|E5| Scream |1996| Wes Craven
-N|🇬🇧|B5| Scum |1979| Alan Clarke
-N|🇺🇸|A5| Seize bougies pour Sam |1984| John Hughes
-N|🇺🇸|B4| Selma |2014| Ava DuVernay
-N|🇬🇧|A2| Senna |2010| Asif Kapadia
-N|🇺🇸|G2| Sept ans de réflexion |1955| Billy Wilder
-N|🇺🇸|G2| Serial noceurs |2005| David Dobkin
-N|🇫🇷|H7| Série noire |1979| Alain Corneau
-N|🇺🇸|D5| Serpico |1973| Sidney Lumet
-N|🇺🇸|D6| Seul au monde |2000| Robert Zemeckis
-N|🇺🇸|E1| Seul sur Mars |2015| Ridley Scott
-N|🇺🇸|E6| Seuls les anges ont des ailes |1939| Howard Hawks
-N|🇺🇸|E5| Seven |1995| David Fincher
-N|🇺🇸|D5| Sexcrimes |1998| John McNaughton
-N|🇺🇸|G3| Sexe Intentions |1998| Roger Kumble
-N|🇺🇸|G3| Sexe, mensonges et vidéo |1989| Steven Soderbergh
-N|🇺🇸|I3| Sexy Dance 3D |2010| Jon M. Chu
-N|🇺🇸|I2| Shadows |1959| John Cassavetes
-N|🇺🇸|I4| Shaft, les nuits rouges de Harlem |1971| Gordon Parks
-N|🇬🇧|G3| Shame |2011| Steve McQueen
-N|🇺🇸|I1| Sharknado |2013| Anthony C. Ferrante
-N|🇬🇧|F2| Shaun of the Dead |2004| Edgar Wright
-N|🇺🇸|D4| Sherlock Junior |1924| Buster Keaton
-N|🇬🇧|E4| Shining |1980| Stanley Kubrick
-N|🇫🇷|B3| Shoah |1985| Claude Lanzmann
-N|🇺🇸|E4| Shock corridor |1963| Samuel Fuller
-N|🇮🇳|I2| Sholay |1975| Ramesh Sippy
-N|🇺🇸|F2| Short circuit |1986| John Badham
-N|🇺🇸|D7| Short Cuts |1993| Robert Altman
-N|🇺🇸|H3| Shortbus |2006| John Cameron Mitchell
-N|🇺🇸|H4| Shotgun Stories |2007| Jeff Nichols
-N|🇺🇸|I3| Show Boat |1951| George Sidney
-N|🇺🇸|F3| Showgirls |1995| Paul Verhoeven
-N|🇺🇸|E7| Shrek |2001| Andrew Adamson, Vicky Jenson
-N|🇺🇸|E4| Shutter Island |2010| Martin Scorsese
-N|🇺🇸|E2| Signes |2002| M. Night Shyamalan
-N|🇺🇸|G4| Silverado |1985| Lawrence Kasdan
-N|🇺🇸|G2| Simone |2002| Andrew Niccol
-N|🇺🇸|H2| Sister Act |1992| Emile Ardolino
-N|🇺🇸|E5| Sixième Sens |2000| M. Night Shyamalan
-N|🇬🇧|C1| Skyfall |2012| Sam Mendes
-N|🇺🇸|C7| Sleepers |1996| Barry Levinson
-N|🇺🇸|F6| Sleepy Hollow, la légende du cavalier sans tête |1999| Tim Burton
-N|🇮🇳|E6| Slumdog Millionaire |2008| Danny Boyle
-N|🇺🇸|G1| Smiley Face |2007| Gregg Araki
-N|🇺🇸|F4| Snake Eyes |1998| Brian De Palma
-N|🇬🇧|H6| Snatch |2000| Guy Ritchie
-N|🇺🇸|E2| Snowpiercer, Le Transperceneige |2013| Joon-ho Bong
-N|🇺🇸|E4| Soeurs de sang |1973| Brian De Palma
-N|🇷🇺|E4| Solaris |1972| Andrei Tarkovski
-N|🇺🇸|E4| Solaris |2002| Steven Soderbergh
-N|🇺🇸|E1| Soleil Vert |1973| Richard Fleischer
-N|🇸🇪|I7| Sonate d'automne |1978| Ingmar Bergman
-N|🇯🇵|H5| Sonatine, mélodie mortelle |1993| Takeshi Kitano
-N|🇺🇸|I7| Soudain l'été dernier |1960| Joseph L. Mankiewicz
-N|🇺🇸|F4| Source Code |2011| Duncan Jones
-N|🇺🇸|G1| South Park, le film |1998| Trey Parker
-N|🇺🇸|E3| Southland Tales |2006| Richard Kelly
-N|🇨🇺|C4| Soy Cuba |1964| Mikhail Kalatozov
-N|🇺🇸|F3| Soyez sympas, rembobinez |2008| Michel Gondry
-N|🇺🇸|E1| Space Cowboys |2000| Clint Eastwood
-N|🇺🇸|C5| Space Jam |1996| Joe Pytka
-N|🇺🇸|G3| Spanglish |2004| James L. Brooks
-N|🇺🇸|D3| Spartacus |1960| Stanley Kubrick
-N|🇺🇸|E2| Speed |1994| Jan De Bont
-N|🇺🇸|E2| Speed Racer |2008| Lilly Wachowski, Lana Wachowski
-N|🇺🇸|E1| Sphere |1998| Barry Levinson
-N|🇺🇸|F7| Spider-Man |2002| Sam Raimi
-N|🇺🇸|F7| Spider-Man 2 |2003| Sam Raimi
-N|🇺🇸|F7| Spider-Man 3 |2007| Sam Raimi
-N|🇺🇸|H2| Spinal Tap |1984| Rob Reiner
-N|🇺🇸|E7| Splash |1984| Ron Howard
-N|🇺🇸|E7| Split |2016| M. Night Shyamalan
-N|🇺🇸|B4| Spotlight |2015| Thomas McCarthy
-N|🇺🇸|A4| Spring Breakers |2012| Harmony Korine
-N|🇬🇧|C1| Spy game, jeu d'espions |2002| Tony Scott
-N|🇺🇸|C3| Stalingrad |2001| Jean-Jacques Annaud
-N|🇷🇺|E3| Stalker |1979| Andrei Tarkovski
-N|🇺🇸|C6| Stand by Me |1986| Rob Reiner
-N|🇺🇸|D5| Star Trek |2009| J.J. Abrams
-N|🇺🇸|D5| Star Trek : Premier contact |1996| Jonathan Frakes
-N|🇺🇸|E6| Star Trek II : La colère de Khan |1982| Nicholas Meyer
-N|🇺🇸|E6| Star Wars : Episode I - La Menace fantôme |1999| George Lucas
-N|🇺🇸|E6| Star Wars : Episode II - L'Attaque des clones |2002| George Lucas
-N|🇺🇸|E6| Star Wars : Episode III - La Revanche des Sith |2005| George Lucas
-N|🇺🇸|D5| Star Wars : Episode IV - Un nouvel espoir |1977| George Lucas
-N|🇺🇸|D5| Star Wars : Episode V - L'Empire contre-attaque |1980| Irvin Kershner
-N|🇺🇸|D6| Star Wars : Episode VI - Le Retour du Jedi |1983| Richard Marquand
-N|🇺🇸|D5| Star Wars : Episode VII - Le Réveil de la Force |2015| J.J. Abrams
-N|🇺🇸|D3| Starship Troopers |1997| Paul Verhoeven
-N|🇺🇸|C4| Steve Jobs |2015| Danny Boyle
-N|🇯🇵|C6| Still Walking |2008| Hirokazu Kore-Eda
-N|🇺🇸|D7| Stranger Than Paradise |1984| Jim Jarmusch
-N|🇮🇹|D6| Stromboli |1949| Roberto Rossellini
-N|🇺🇸|F4| Sueurs froides |1958| Alfred Hitchcock
-N|🇸🇪|A3| Sugar Man |2012| Malik Bendjelloul
-N|🇯🇵|C7| Suicide Club |2001| Sion Sono
-N|🇺🇸|F5| Summer of Sam |1999| Spike Lee
-N|🇺🇸|G6| Super |2010| James Gunn
-N|🇺🇸|B5| Super 8 |2011| J.J. Abrams
-N|🇺🇸|B5| SuperGrave |2007| Greg Mottola
-N|🇺🇸|F7| Superman |1978| Richard Donner
-N|🇺🇸|F7| Superman II |1980| Richard Lester
-N|🇺🇸|F7| Superman III |1983| Richard Lester
-N|🇺🇸|F7| Superman Returns |2006| Bryan Singer
-N|🇺🇸|E6| Sur la route de Madison |1995| Clint Eastwood
-N|🇧🇪|B4| Sur le chemin des dunes |2011| Bavo Defurne
-N|🇺🇸|I3| Sur les ailes de la danse |1936| George Stevens
-N|🇺🇸|I6| Sur les quais |1954| Elia Kazan
-N|🇮🇹|F5| Suspiria |1976| Dario Argento
-N|🇯🇵|I5| Suzaku |1997| Naomi Kawase
-N|🇬🇧|H2| Sweeney Todd, le diabolique barbier de Fleet Street |2007| Tim Burton
-N|🇬🇧|C7| Sweet Sixteen |2002| Ken Loach
-N|🇺🇸|I4| Sweet Sweetback's Baadasssss Song |1971| Melvin Van Peebles
-N|🇺🇸|E4| Synecdoche, New York |2007| Charlie Kaufman
-N|🇺🇸|E5| Take Shelter |2011| Jeff Nichols
-N|🇺🇸|E2| Taken |2008| Pierre Morel
-N|🇪🇸|I6| Talons Aiguilles |1991| Pedro Almodovar
-N|🇺🇸|F2| Taxi Driver |1976| Martin Scorsese
-N|🇮🇷|A3| Taxi Téhéran |2015| Jafar Panahi
-N|🇺🇸|G1| Team America, police du monde |2004| Trey Parker, Matt Stone
-N|🇺🇸|G1| Ted |2012| Seth MacFarlane
-N|🇺🇸|D5| Témoin à charge |1957| Billy Wilder
-N|🇺🇸|C6| Tendres passions |1983| James L. Brooks
-N|🇺🇸|E3| Terminator |1984| James Cameron
-N|🇺🇸|E3| Terminator 2 : Le jugement dernier |1991| James Cameron
-N|🇺🇸|G3| Terrain d'entente |2005| Peter Farrelly, Bobby Farrelly
-N|🇪🇸|A2| Terre sans pain |1933| Luis Bunuel
-N|🇫🇷|C5| Tess |1979| Roman Polanski
-N|🇺🇸|H7| Tetro |2009| Francis Ford Coppola
-N|🇯🇵|F2| Tetsuo |1988| Shinya Tsukamoto
-N|🇬🇧|B3| The Act of Killing - L'acte de tuer |2012| Joshua Oppenheimer
-N|🇨🇦|I5| The Adjuster |1991| Atom Egoyan
-N|🇫🇷|E3| The Artist |2011| Michel Hazanavicius
-N|🇺🇸|B5| The Bad news bears |1976| Michael Ritchie
-N|🇺🇸|D7| The Barber : l'homme qui n'était pas là |2001| Joel Coen, Ethan Coen
-N|🇺🇸|G1| The Big Lebowski |1998| Joel Coen, Ethan Coen
-N|🇺🇸|G7| The Big Short : le casse du siècle |2015| Adam McKay
-N|🇨🇳|H7| The Blade |1996| Tsui Hark
-N|🇺🇸|I4| The Bling Ring |2012| Sofia Coppola
-N|🇺🇸|H2| The Blues Brothers |1979| John Landis
-N|🇺🇸|E3| The Box |2007| Richard Kelly
-N|🇺🇸|G3| The Canyons |2013| Paul Schrader
-N|🇦🇺|H1| The Castle |1997| Rob Sitch
-N|🇰🇷|I5| The Chaser |2007| Na Hong-Jin
-N|🇺🇸|F7| The Crow |1994| Alex Proyas
-N|🇬🇧|B5| The Damned United |2008| Tom Hooper
-N|🇺🇸|F7| The Dark Knight : Le Chevalier Noir |2008| Christopher Nolan
-N|🇺🇸|F7| The Dark Knight Rises |2012| Christopher Nolan
-N|🇺🇸|E5| The Devil's Rejects |2005| Rob Zombie
-N|🇺🇸|D7| The Doom Generation |1995| Gregg Araki
-N|🇺🇸|A6| The Edge of Seventeen |2016| Kelly Fremon
-N|🇯🇵|B3| The Emperor’s Naked Army Marches On |1987| Kazuo Hara
-N|🇺🇸|B5| The Faculty |1998| Robert Rodriguez
-N|🇺🇸|E3| The Fall |2006| Tarsem Singh
-N|🇺🇸|B3| The Fog of War |2003| Errol Morris
-N|🇺🇸|F4| The Fountain |2006| Darren Aronofsky
-N|🇬🇧|H2| The Full Monty |1997| Peter Cattaneo
-N|🇺🇸|E4| The Game |1997| David Fincher
-N|🇺🇸|C5| The Grand Budapest Hotel |2014| Wes Anderson
-N|🇨🇳|D2| The Grandmaster |2011| Wong Kar-Wai
-N|🇺🇸|G7| The Green Hornet |2011| Michel Gondry
-N|🇬🇧|H6| The Hit |1984| Stephen Frears
-N|🇺🇸|I2| The Hit Girls |2012| Jason Moore
-N|🇺🇸|G2| The Holiday |2006| Nancy Meyers
-N|🇰🇷|F6| The Host |2006| Joon-ho Bong
-N|🇺🇸|F6| The Immigrant |2013| James Gray
-N|🇺🇸|H7| The Indian Runner |1991| Sean Penn
-N|🇺🇸|F1| The Island |2004| Michael Bay
-N|🇺🇸|E4| The Jacket |2005| John Maybury
-N|🇨🇳|G5| The Killer |1989| John Woo
-N|🇺🇸|A2| The King of Kong : a fistful of quarters |2007| Seth Gordon
-N|🇺🇸|H6| The King of New York |1990| Abel Ferrara
-N|🇺🇸|A3| The Last Waltz |1978| Martin Scorsese
-N|🇬🇧|E7| The Lobster |2015| Yorgos Lanthimos
-N|🇩🇰|B3| The Look of silence |2014| Joshua Oppenheimer
-N|🇺🇸|D6| The Lost City of Z |2016| James Gray
-N|🇺🇸|E5| The Machinist |2004| Brad Anderson
-N|🇺🇸|I4| The Mack |1973| Michael Campus
-N|🇺🇸|E5| The Man From Earth |2007| Richard Schenkman
-N|🇺🇸|F1| The Mask |1994| Chuck Russell
-N|🇺🇸|I6| The Master |2012| Paul Thomas Anderson
-N|🇨🇳|H5| The Mission |1999| Johnnie To
-N|🇺🇸|F3| The Party |1968| Blake Edwards
-N|🇺🇸|D4| The Patriot, le chemin de la liberté |2000| Roland Emmerich
-N|🇺🇸|F4| The Philadelphia Experiment |1984| Stewart Raffill
-N|🇺🇸|E4| The Player |1992| Robert Altman
-N|🇺🇸|F4| The Pleasure of Being Robbed |2008| Josh Safdie
-N|🇺🇸|E7| The Princess Bride |1987| Rob Reiner
-N|🇬🇧|D4| The Queen |2006| Stephen Frears
-N|🇮🇩|E2| The Raid |2012| Gareth Evans
-N|🇩🇪|C3| The Reader |2008| Stephen Daldry
-N|🇺🇸|D4| The Revenant |2015| Alejandro Gonzalez Inarritu
-N|🇺🇸|I3| The Rocky Horror Picture Show |1975| Jim Sharman
-N|🇺🇸|I1| The Room |2003| Tommy Wiseau
-N|🇬🇧|I5| The Servant |1963| Joseph Losey
-N|🇺🇸|C4| The Social Network |2010| David Fincher
-N|🇺🇸|F5| The Stepford Wives |1975| Bryan Forbes
-N|🇯🇵|D6| The Taste of tea |2003| Katsuhito Ishii
-N|🇺🇸|G5| The Thing |1982| John Carpenter
-N|🇺🇸|E3| The Tree of Life |2011| Terrence Malick
-N|🇺🇸|E4| The Truman Show |1998| Peter Weir
-N|🇺🇸|E6| The Visit |2015| M. Night Shyamalan
-N|🇺🇸|C5| The Walk : Rêver plus haut |2015| Robert Zemeckis
-N|🇨🇳|I5| The Wild, Wild Rose |1960| Tian-Lin Wang
-N|🇺🇸|C6| The Wrestler |2008| Darren Aronofsky
-N|🇺🇸|G6| The Yards |2000| James Gray
-N|🇺🇸|C6| Thelma & Louise |1991| Ridley Scott
-N|🇮🇹|I6| Théorème |1968| Pier Paolo Pasolini
-N|🇺🇸|D6| There Will Be Blood |2007| Paul Thomas Anderson
-N|🇺🇸|A4| Thirteen |2002| Catherine Hardwicke
-N|🇬🇧|D7| This is England |2006| Shane Meadows
-N|🇺🇸|H3| Thomas Crown |1999| John McTiernan
-N|🇺🇸|G7| Thor |2011| Kenneth Branagh
-N|🇺🇸|E1| THX 1138 |1971| George Lucas
-N|🇨🇳|D2| Tigre et dragon |2000| Ang Lee
-N|🇨🇳|D2| Time and Tide |2000| Tsui Hark
-N|🇺🇸|B5| Tin Cup |1996| Ron Shelton
-N|🇫🇷|I5| Tirez sur le pianiste |1960| Francois Truffaut
-N|🇺🇸|E2| Titan A.E. |2000| Don Bluth, Gary Goldman
-N|🇺🇸|C5| Titanic |1997| James Cameron
-N|🇺🇸|A2| Titicut Follies |1967| Frederick Wiseman
-N|🇯🇵|C6| Tokyo Sonata |2008| Kiyoshi Kurosawa
-N|🇺🇸|G2| Tombe les filles et tais-toi |1972| Herbert Ross
-N|🇺🇸|G4| Tombstone |1993| George Pan Cosmatos
-N|🇩🇪|B6| Toni Erdmann |2016| Maren Ade
-N|🇺🇸|F3| Tonnerre sous les Tropiques |2008| Ben Stiller
-N|🇺🇸|G2| Tootsie |1982| Sydney Pollack
-N|🇺🇸|D3| Top Gun |1986| Tony Scott
-N|🇺🇸|F1| Top secret ! |1984| Jim Abrahams, David Zucker, Jerry Zucker
-N|🇺🇸|E3| Total Recall |1990| Paul Verhoeven
-N|🇺🇸|I3| Tous en scène |1953| Vincente Minnelli
-N|🇩🇪|I5| Tous les autres s'appellent Ali |1974| Rainer Werner Fassbinder
-N|🇺🇸|E5| Tous les garçons aiment Mandy Lane |2006| Jonathan Levine
-N|🇺🇸|C5| Tout ce que le ciel permet |1955| Douglas Sirk
-N|🇺🇸|I2| Tout le monde dit I love you |1996| Woody Allen
-N|🇪🇸|C6| Tout sur ma mère |1998| Pedro Almodovar
-N|🇺🇸|C6| Toy Story |1995| John Lasseter
-N|🇺🇸|D5| Toy Story 2 |2000| John Lasseter, Lee Unkrich, Ash Brannon
-N|🇺🇸|C6| Toy Story 3 |2010| Lee Unkrich
-N|🇺🇸|D7| Traffic |2000| Steven Soderbergh
-N|🇺🇸|I4| Training Day |2001| Antoine Fuqua
-N|🇬🇧|D7| Trainspotting |1996| Danny Boyle
-N|🇺🇸|D2| Transformers |2007| Michael Bay
-N|🇦🇺|F4| Triangle |2009| Christopher Smith
-N|🇬🇧|D3| Troie |2004| Wolfgang Petersen
-N|🇺🇸|G5| Trois heures dix pour Yuma |1957| Delmer Daves
-N|🇮🇹|I1| Troll 2 |1990| Claudio Fragasso
-N|🇺🇸|F1| Tron |1982| Steven Lisberger
-N|🇺🇸|G4| True Grit |2010| Joel Coen, Ethan Coen
-N|🇺🇸|E2| True Lies |1994| James Cameron
-N|🇺🇸|H3| True Romance |1993| Tony Scott
-N|🇺🇸|D4| Truman Capote |2005| Bennett Miller
-N|🇺🇸|D7| Trust me |1991| Hal Hartley
-N|🇺🇸|C3| Tu ne tueras point |2016| Mel Gibson
-N|🇺🇸|G7| Tucker |1988| Francis Ford Coppola
-N|🇺🇸|H7| Tueurs nés |1994| Oliver Stone
-N|🇳🇱|G3| Turkish delices |1973| Paul Verhoeven
-N|🇺🇸|A5| Twilight - Chapitre 1 : fascination |2008| Catherine Hardwicke
-N|🇺🇸|H7| Twin Peaks: Fire Walk With Me |1991| David Lynch
-N|🇺🇸|F6| Twixt |2011| Francis Ford Coppola
-N|🇺🇸|E6| Two Lovers |2008| James Gray
-N|🇺🇸|I2| Un Américain à Paris |1951| Vincente Minnelli
-N|🇺🇸|H6| Un après-midi de chien |1976| Sidney Lumet
-N|🇫🇷|E4| Un Chien andalou |1928| Luis Bunuel
-N|🇫🇷|F5| Un Condamné à mort s'est échappé |1956| Robert Bresson
-N|🇫🇷|D7| Un conte de Noël |2008| Arnaud Desplechin
-N|🇺🇸|D1| Un Crime dans la tête |1962| John Frankenheimer
-N|🇺🇸|D1| Un Crime dans la tête |2004| Jonathan Demme
-N|🇺🇸|H2| Un Fauteuil pour deux |1983| John Landis
-N|🇺🇸|C4| Un Homme d'exception |2001| Ron Howard
-N|🇺🇸|I2| Un Jour à New-York |1949| Stanley Donen, Gene Kelly
-N|🇺🇸|D3| Un jour dans la vie de Billy Lynn |2017| Ang Lee
-N|🇬🇧|B3| Un Jour en septembre |1999| Kevin MacDonald
-N|🇺🇸|F3| Un Jour sans fin |1993| Harold Ramis
-N|🇺🇸|H5| Un justicier dans la ville |1974| Michael Winner
-N|🇺🇸|C6| Un monde parfait |1993| Clint Eastwood
-N|🇮🇹|H5| Un pistolet pour Ringo |1965| Duccio Tessari
-N|🇺🇸|H5| Un Plan simple |1998| Sam Raimi
-N|🇬🇧|G2| Un Poisson nommé Wanda |1988| Charles Crichton
-N|🇬🇧|C3| Un pont trop loin |1977| Richard Attenborough
-N|🇺🇸|H2| Un prince à New York |1988| John Landis
-N|🇫🇷|F5| Un prophète |2008| Jacques Audiard
-N|🇫🇷|D7| Un Singe en hiver |1962| Henri Verneuil
-N|🇺🇸|H2| Un Ticket pour deux |1987| John Hughes
-N|🇺🇸|E7| Un Tramway nommé Désir |1951| Elia Kazan
-N|🇺🇸|G1| Un vrai Schnock ! |1979| Carl Reiner
-N|🇬🇧|E1| Under the skin |2013| Jonathan Glazer
-N|🇫🇷|E7| Underground |1995| Emir Kusturica
-N|🇨🇳|E3| Une Balle dans la tête |1990| John Woo
-N|🇺🇸|G2| Une créature de rêve |1985| John Hughes
-N|🇺🇸|B5| Une Équipe hors du commun |1992| Penny Marshall
-N|🇺🇸|E4| Une Étoile est née |1954| George Cukor
-N|🇺🇸|E4| Une Étoile est née |1937| William Wellman
-N|🇺🇸|D6| Une femme sous influence |1975| John Cassavetes
-N|🇺🇸|G2| Une fiancée pas comme les autres |2007| Craig Gillespie
-N|🇺🇸|B4| Une histoire vraie |1998| David Lynch
-N|🇺🇸|E2| Une journée en enfer |1995| John McTiernan
-N|🇮🇹|C4| Une journée particulière |1977| Ettore Scola
-N|🇺🇸|H1| Une Nuit à l'opéra |1935| Sam Wood
-N|🇺🇸|B2| Une Vérité qui Dérange |2006| Davis Guggenheim
-N|🇺🇸|E2| Unstoppable |2010| Tony Scott
-N|🇺🇸|I6| Upstream Color |2013| Shane Carruth
-N|🇺🇸|D5| Usual Suspects |1994| Bryan Singer
-N|🇺🇸|G2| Vacances Romaines |1953| William Wyler
-N|🇺🇸|B6| Vaiana |2016| John Musker, Ron Clements
-N|🇮🇱|C4| Valse avec Bachir |2008| Ari Folman
-N|🇫🇷|C5| Van Gogh |1991| Maurice Pialat
-N|🇺🇸|E5| Vendredi 13 |1980| Sean S. Cunningham
-N|🇫🇷|A3| Vérités et Mensonges |1974| Orson Welles
-N|🇺🇸|C4| Vers sa destinée |1939| John Ford
-N|🇺🇸|F1| Very Bad Cops |2010| Adam McKay
-N|🇺🇸|G1| Very Bad Trip |2009| Todd Phillips
-N|🇺🇸|C6| Vice-Versa |2015| Pete Docter, Ronnie Del Carmen
-N|🇺🇸|G2| Victor Victoria |1982| Blake Edwards
-N|🇨🇦|E3| Videodrome |1983| David Cronenberg
-N|🇺🇸|C7| Virgin suicides |1999| Sofia Coppola
-N|🇯🇵|C7| Vivre |1952| Akira Kurosawa
-N|🇹🇷|I1| Vivre pour Survivre |1984| Jean-Marie Pallardy et Igor Aptekman
-N|🇺🇸|D7| Vol au-dessus d'un nid de coucou |1975| Milos Forman
-N|🇺🇸|F5| Volte/Face |1997| John Woo
-N|🇺🇸|G2| Vous avez un message |1999| Nora Ephron
-N|🇺🇸|H2| Vous ne l'emporterez pas avec vous |1938| Frank Capra
-N|🇺🇸|G3| Voyage à deux |1967| Stanley Donen
-N|🇯🇵|D6| Voyage à Tokyo |1953| Yasujiro Ozu
-N|🇺🇸|C4| Voyage au bout de l'Enfer |1978| Michael Cimino
-N|🇮🇹|E6| Voyage en Italie |1953| Roberto Rossellini
-N|🇺🇸|C4| Walk the Line |2005| James Mangold
-N|🇺🇸|G7| Wall Street |1987| Oliver Stone
-N|🇺🇸|F2| WALL-E |2008| Andrew Stanton
-N|🇺🇸|B5| WarGames |1983| John Badham
-N|🇨🇦|F2| Warm Bodies - Renaissance |2013| Jonathan Levine
-N|🇺🇸|B6| Wassup Rockers |2004| Larry Clark
-N|🇺🇸|F7| Watchmen - Les Gardiens |2008| Zack Snyder
-N|🇺🇸|E3| Waterworld |1995| Kevin Reynolds
-N|🇺🇸|H5| Way of the Gun |2000| Christopher McQuarrie
-N|🇺🇸|H1| Wayne's World |1992| Penelope Spheeris
-N|🇬🇧|G1| We Are Four Lions |2010| Chris Morris
-N|🇺🇸|I3| West Side Story |1961| Jerome Robbins, Robert Wise
-N|🇺🇸|A2| When We Were Kings |1996| Leon Gast
-N|🇺🇸|H3| Whiplash |2014| Damien Chazelle
-N|🇺🇸|C6| Will Hunting |1997| Gus Van Sant
-N|🇺🇸|E7| Willow |1988| Ron Howard
-N|🇺🇸|G5| Winchester 73 |1950| Anthony Mann
-N|🇬🇧|G1| Withnail et moi |1987| Bruce Robinson
-N|🇺🇸|F7| Wonder Woman |2017| Patty Jenkins
-N|🇺🇸|A3| Woodstock |1970| Michael Wadleigh
-N|🇺🇸|H7| Working Girl |1989| Mike Nichols
-N|🇺🇸|F4| World War Z |2013| Marc Forster
-N|🇺🇸|G7| X-Men |2000| Bryan Singer
-N|🇺🇸|G7| X-Men 2 |2003| Bryan Singer
-N|🇺🇸|G7| X-Men : Days of Future Past |2014| Bryan Singer
-N|🇺🇸|G7| X-Men : Le Commencement |2011| Matthew Vaughn
-N|🇦🇷|B4| XXY |2007| Lucia Puenzo
-N|🇺🇸|G1| Y a-t-il un flic pour sauver Hollywood ? |1994| Peter Segal
-N|🇺🇸|G1| Y a-t-il un flic pour sauver la reine ? |1988| David Zucker
-N|🇺🇸|G1| Y a-t-il un flic pour sauver le président ? |1991| David Zucker
-N|🇺🇸|H1| Y a-t-il un pilote dans l'avion ? |1980| David Zucker, Jim Abrahams, Jerry Zucker
-N|🇹🇼|D7| Yi Yi |1999| Edward Yang
-N|🇯🇵|H7| Yōjinbō - Le Garde du corps |1961| Akira Kurosawa
-N|🇯🇵|F4| Your Name |2016| Makoto Shinkai
-N|🇺🇸|H7| Zabriskie Point |1970| Michelangelo Antonioni
-N|🇺🇸|C3| Zero Dark Thirty |2012| Kathryn Bigelow
-N|🇫🇷|A2| Zidane, un portrait du 21e siècle |2006| Philippe Parreno, Douglas Gordon
-N|🇺🇸|F4| Zodiac |2007| David Fincher
-N|🇺🇸|F4| Zombie |1978| George A. Romero
-N|🇺🇸|H1| Zoolander |2001| Ben Stiller
-N|🇪🇸|E5| [Rec] |2007| Paco Plaza, Jaume Balaguero
+N|US|E7| L'Histoire sans fin |1984| Wolfgang Petersen
+N|RU|A3| L'Homme à la caméra |1929| Dziga Vertov
+N|FR|D6| L'Homme de Rio |1963| Philippe De Broca
+N|US|G4| L'Homme des hautes plaines |1973| Clint Eastwood
+N|US|G4| L'Homme des vallées perdues |1953| George Stevens
+N|US|F6| L'Homme invisible |1933| James Whale
+N|DE|H6| L'homme perdu |1951| Peter Lorre
+N|US|G6| L'Homme qui en savait trop |1956| Alfred Hitchcock
+N|US|G6| L'Homme qui en savait trop |1934| Alfred Hitchcock
+N|US|E1| L'Homme qui rétrécit |1957| Jack Arnold
+N|US|G4| L'Homme qui tua Liberty Valance |1962| John Ford
+N|GB|E1| L'Homme qui venait d'ailleurs |1976| Nicolas Roeg
+N|GB|E6| L'Homme qui voulut être roi |1975| John Huston
+N|US|E6| L'Homme tranquille |1952| John Ford
+N|FR|I5| L'Humanité |1999| Bruno Dumont
+N|US|D5| L'Idéaliste |1997| Francis Ford Coppola
+N|BR|A2| L'île aux fleurs |1989| Jorge Furtado
+N|US|F6| L'Ile des morts |1945| Mark Robson
+N|FR|B3| L'Image manquante |2013| Rithy Panh
+N|US|F5| L'Impasse |1993| Brian De Palma
+N|US|I6| L'Implacable |1941| Robert Parrish
+N|US|G2| L'Impossible Monsieur Bébé |1938| Howard Hawks
+N|IT|C6| L'Incompris |1967| Luigi Comencini
+N|US|H5| L'Inconnu de Las Vegas |1960| Lewis Milestone
+N|US|E3| L'Inspecteur Harry |1971| Don Siegel
+N|US|E2| L'Inspecteur ne renonce jamais |1976| James Fargo
+N|US|F5| L'Invasion des profanateurs |1978| Philip Kaufman
+N|US|F5| L'Invasion des profanateurs de sépultures |1956| Don Siegel
+N|TW|D6| L'Odyssée de Pi |2012| Ang Lee
+N|US|H6| L'Ombre d'un doute |1943| Alfred Hitchcock
+N|US|F3| L'Opérateur |1928| Edward Sedgwick, Buster Keaton
+N|GB|I4| L'Or se barre |1969| Peter Collinson
+N|ES|F6| L'Orphelinat |2007| Juan Antonio Bayona
+N|US|H5| L'Ultime Razzia |1956| Stanley Kubrick
+N|US|G6| L.A. Confidential |1997| Curtis Hanson
+N|US|F5| La 25e heure |2002| Spike Lee
+N|CN|D2| La 36ème chambre de Shaolin |1978| Chia-Liang Liu
+N|IT|E5| La Baie Sanglante |1973| Mario Bava
+N|US|H3| La Balade sauvage |1974| Terrence Malick
+N|IT|C4| La Bataille d'Alger |1966| Gillo Pontecorvo
+N|FR|E6| La Belle et la Bête |1946| Jean Cocteau
+N|US|H3| La Blonde du Far-West |1953| David Butler
+N|GB|B3| La Bombe |1965| Peter Watkins
+N|US|E5| La Cabane dans les bois |2010| Drew Goddard
+N|FR|D7| La Captive |2000| Chantal Akerman
+N|US|G4| La Captive aux yeux clairs |1952| Howard Hawks
+N|US|D4| La Chair et le sang |1985| Paul Verhoeven
+N|IT|C6| La Chambre du fils |2001| Nanni Moretti
+N|US|G4| La Charge Héroïque |1949| John Ford
+N|US|G4| La Chevauchée fantastique |1939| John Ford
+N|US|C3| La Chute du faucon noir |2001| Ridley Scott
+N|BR|G6| La Cité de Dieu |2002| Fernando Meirelles, Katia Lund
+N|US|F6| La Colline a des yeux |2006| Alexandre Aja
+N|US|F5| La Colline a des yeux |1977| Wes Craven
+N|GB|C3| La Colline des hommes perdus |1965| Sidney Lumet
+N|IN|C6| La Complainte du sentier |1955| Satyajit Ray
+N|US|G3| La Comtesse aux pieds nus |1954| Joseph L. Mankiewicz
+N|US|H6| La Corde |1948| Alfred Hitchcock
+N|US|C5| La Couleur de l'argent |1986| Martin Scorsese
+N|US|C4| La Couleur pourpre |1985| Steven Spielberg
+N|US|I6| La Dame de Shanghai |1948| Orson Welles
+N|US|G3| La Dame du vendredi |1940| Howard Hawks
+N|FR|A2| La Danse, le ballet de l'Opéra de Paris |2009| Frederick Wiseman
+N|US|E2| La Dernière cible |1988| Buddy Van Horn
+N|IT|G4| La Dernière Femme |1971| Marco Ferreri
+N|US|G5| La Dernière Piste |2010| Kelly Reichardt
+N|US|D7| La Dernière séance |1971| Peter Bogdanovich
+N|AU|D5| La Dernière Vague |1977| Peter Weir
+N|IT|E6| La Dolce Vita |1960| Federico Fellini
+N|US|F6| La Falaise mystérieuse |1944| Lewis Allen
+N|US|F1| La Famille Addams |1991| Barry Sonnenfeld
+N|IN|I2| La Famille indienne |2001| Karan Johar
+N|US|C6| La Famille Tenenbaum |2001| Wes Anderson
+N|US|F6| La Féline |1942| Jacques Tourneur
+N|US|I6| La Femme au portrait |1944| Fritz Lang
+N|FR|E7| La Femme d'à côté |1981| Francois Truffaut
+N|JP|I7| La Femme des sables |1964| Hiroshi Teshigahara
+N|US|F2| La Fiancée de Frankenstein |1935| James Whale
+N|US|I2| La Fièvre du samedi soir |1977| John Badham
+N|GB|D5| La Fille de Ryan |1970| David Lean
+N|US|G7| La Firme |1993| Sydney Pollack
+N|US|F1| La Folle Histoire de l'espace |1987| Mel Brooks
+N|US|A5| La Folle journée de Ferris Bueller |1986| John Hughes
+N|CN|D2| La Fureur De Vaincre |1971| Lo Wei
+N|US|B5| La Fureur de vivre |1955| Nicholas Ray
+N|US|G2| La Garçonnière |1960| Billy Wilder
+N|US|I1| La Grande Aventure Lego |2014| Phil Lord, Chris Miller
+N|US|F5| La Grande évasion |1963| John Sturges
+N|FR|G5| La Grande illusion |1937| Jean Renoir
+N|IN|B5| La Grande Ville |1963| Satyajit Ray
+N|US|H6| La Griffe du passé |1947| Jacques Tourneur
+N|US|E1| La Guerre des Mondes |2005| Steven Spielberg
+N|FR|I5| La Haine |1995| Mathieu Kassovitz
+N|US|G5| La Horde sauvage |1969| Sam Peckinpah
+N|FR|E4| La Jetée |1962| Chris Marker
+N|US|E7| La Jeune fille de l'eau |2006| M. Night Shyamalan
+N|US|H3| La La Land |2016| Damien Chazelle
+N|NZ|H3| La Leçon de piano |1993| Jane Campion
+N|JP|H7| La Légende de Zatōichi : Vol. 27 - Zatōichi |2003| Takeshi Kitano
+N|US|C3| La Ligne Rouge |1998| Terrence Malick
+N|US|F5| La Ligne Verte |1999| Frank Darabont
+N|US|C3| La Liste de Schindler |1993| Steven Spielberg
+N|GB|H6| La Loi du milieu |1971| Mike Hodges
+N|US|F3| La Machine à explorer le temps |1960| George Pal
+N|US|I5| La Main au collet |1955| Alfred Hitchcock
+N|FR|A2| La Maison de la radio |2012| Nicolas Philibert
+N|US|H6| La Maison des étrangers |1949| Joseph L. Mankiewicz
+N|US|F5| La Maison du diable |1963| Robert Wise
+N|US|E5| La Maison du Docteur Edwardes |1945| Alfred Hitchcock
+N|FR|E6| La Maman et la Putain |1973| Jean Eustache
+N|JP|H6| La Marque du Tueur |1967| Seijun Suzuki
+N|US|I3| La Mélodie du bonheur |1965| Robert Wise
+N|US|D2| La Mémoire dans la peau |2002| Doug Liman
+N|FR|C4| La Môme |2007| Olivier Dahan
+N|US|E2| La Mort aux trousses |1959| Alfred Hitchcock
+N|US|D1| La Mort dans la peau |2004| Paul Greengrass
+N|IT|H5| La Mort était au rendez-vous |1968| Giulio Petroni
+N|US|F1| La Mort vous va si bien |1992| Robert Zemeckis
+N|US|F6| La Mouche |1986| David Cronenberg
+N|SN|C7| La Noire de... |1966| Ousmane Sembène
+N|IT|E6| La Nuit |1961| Michelangelo Antonioni
+N|FR|E3| La Nuit américaine |1973| Francois Truffaut
+N|US|G1| La Nuit au musée |2006| Shawn Levy
+N|US|E3| La Nuit des fous vivants |1973| George A. Romero
+N|US|F5| La Nuit des morts-vivants |1968| George A. Romero
+N|US|H6| La Nuit du chasseur |1955| Charles Laughton
+N|US|G6| La Nuit nous appartient |2007| James Gray
+N|US|H2| La Panthère rose |1963| Blake Edwards
+N|GB|H2| La Part des Anges |2011| Ken Loach
+N|FR|D5| La Passion de Jeanne d'Arc |1928| Carl Theodor Dreyer
+N|FR|I5| La Peau douce |1964| Francois Truffaut
+N|US|I3| La Petite Boutique des horreurs |1987| Frank Oz
+N|US|E7| La Petite Sirène |1989| John Musker, Ron Clements
+N|AT|D7| La Pianiste |2000| Michael Haneke
+N|ES|D5| La piel que habito |2011| Pedro Almodovar
+N|FR|I6| La Piscine |1968| Jacques Deray
+N|US|E2| La Planète des singes |1968| Franklin J. Schaffner
+N|FR|E1| La Planète sauvage |1973| Rene Laloux
+N|GB|B5| La Plus belle victoire |2003| Richard Loncraine
+N|US|C5| La Porte du Paradis |1980| Michael Cimino
+N|US|I5| La Poursuite impitoyable |1965| Arthur Penn
+N|US|G4| La Poursuite infernale |1946| John Ford
+N|US|F4| La Prisonnière du désert |1956| John Ford
+N|FR|C5| La Règle du jeu |1939| Jean Renoir
+N|US|B6| La Reine des Neiges |2013| Chris Buck, Jennifer Lee
+N|US|G5| La Rivière rouge |1948| Howard Hawks, Arthur Rosson
+N|FR|D4| La Ronde |1950| Max Ophuls
+N|US|E7| La Rose pourpre du Caire |1985| Woody Allen
+N|US|F2| La Route |2009| John Hillcoat
+N|US|H3| La Ruée vers l'or |1925| Charlie Chaplin
+N|US|G3| La Secrétaire |2002| Steven Shainberg
+N|FR|I6| La Sirène du Mississipi |1969| Francois Truffaut
+N|US|H6| La Soif du Mal |1958| Orson Welles
+N|US|H1| La Soupe au canard |1934| Leo McCarey
+N|US|D5| La Splendeur des Amberson |1942| Orson Welles
+N|IT|F6| La Strada |1954| Federico Fellini
+N|GB|D1| La Taupe |2011| Tomas Alfredson
+N|FR|B4| La Traversée de Paris |1956| Claude Autant-Lara
+N|DE|B4| La Vague |2009| Dennis Gansel
+N|US|F3| La Valse des pantins |1982| Martin Scorsese
+N|US|G5| La vengeance aux deux visages |1961| Marlon Brando
+N|US|D2| La vengeance dans la peau |2007| Paul Greengrass
+N|FR|D5| La Vérité |1960| Henri-Georges Clouzot
+N|US|A5| La Vie à l'envers |1987| Howard Deutch
+N|US|D6| La Vie aquatique |2003| Wes Anderson
+N|FR|D7| La Vie d'Adèle |2012| Abdellatif Kechiche
+N|DE|C5| La Vie des autres |2006| Florian Henckel von Donnersmarck
+N|US|C7| La Vie est belle |1946| Frank Capra
+N|IT|C3| La Vie est belle |1998| Roberto Benigni
+N|FR|A2| La Vie moderne |2008| Raymond Depardon
+N|US|B6| La Vie rêvée de Walter Mitty |2013| Ben Stiller
+N|IL|H1| La Visite de la fanfare |2007| Eran Kolirin
+N|US|C6| Là-haut |2009| Pete Docter, Bob Peterson
+N|ES|C4| Land and Freedom |1994| Ken Loach
+N|US|B5| Larry Flynt |1996| Milos Forman
+N|US|I7| Las Vegas parano |1998| Terry Gilliam
+N|US|F2| Last Action Hero |1993| John McTiernan
+N|US|C5| Last Days |2005| Gus Van Sant
+N|US|H6| Laura |1944| Otto Preminger
+N|US|H3| Laurel et Hardy au Far West |1936| James W. Horne
+N|CA|E6| Laurence Anyways |2012| Xavier Dolan
+N|GB|D5| Lawrence d'Arabie |1962| David Lean
+N|US|D3| Le 13e Guerrier |1999| John McTiernan
+N|US|I6| Le Baiser du tueur |1955| Stanley Kubrick
+N|FR|E3| Le Bébé de Mâcon |1993| Peter Greenaway
+N|IT|H5| Le Bon, la Brute et le Truand |1966| Sergio Leone
+N|FR|B2| Le Bouton de Nacre |2015| Patricio Guzman
+N|IT|H1| Le Caïman |2006| Nanni Moretti
+N|GB|F6| Le Cauchemar de Dracula |1958| Terence Fisher
+N|US|C6| Le Cercle des poètes disparus |1989| Peter Weir
+N|FR|H5| Le Cercle rouge |1970| Jean-Pierre Melville
+N|FR|H2| Le Charme discret de la bourgeoisie |1972| Luis Bunuel
+N|JP|E7| Le Château ambulant |2004| Hayao Miyazaki
+N|JP|E7| Le Château dans le ciel |1986| Hayao Miyazaki
+N|US|C3| Le Choix de Sophie |1983| Alan J. Pakula
+N|US|G3| Le Ciel peut attendre |1943| Ernst Lubitsch
+N|FR|F2| Le Cinquième élément |1997| Luc Besson
+N|FR|H5| Le Clan des Siciliens |1969| Henri Verneuil
+N|US|H3| Le Come-back |2006| Marc Lawrence
+N|IL|E4| Le Congrès |2013| Ari Folman
+N|JP|E7| Le Conte de la princesse Kaguya |2012| Isao Takahata
+N|US|E6| Le Convoi de la peur |1978| William Friedkin
+N|PL|D6| Le Couteau dans l'eau |1962| Roman Polanski
+N|US|I5| Le Crime était presque parfait |1954| Alfred Hitchcock
+N|RU|C4| Le Cuirassé Potemkine |1925| Sergei M. Eisenstein
+N|US|I6| Le Dahlia bleu |1946| George Marshall
+N|US|I6| Le Dahlia noir |2006| Brian De Palma
+N|US|I3| Le Danseur du dessus |1935| Mark Sandrich
+N|CA|H2| Le Déclin de l'empire américain |1987| Denys Arcand
+N|US|G5| Le Démon des armes |1949| Joseph H. Lewis
+N|US|D4| Le Dernier des Mohicans |1991| Michael Mann
+N|CN|D4| Le Dernier empereur |1987| Bernardo Bertolucci
+N|IT|H4| Le Dernier jour de la colère |1968| Tonino Valerii
+N|GB|F2| Le Dernier pub avant la fin du monde |2013| Edgar Wright
+N|GB|D5| Le Dernier roi d'Ecosse |2006| Kevin MacDonald
+N|FR|G3| Le Dernier tango à Paris |1972| Bernardo Bertolucci
+N|FR|I4| Le Deuxième souffle |1966| Jean-Pierre Melville
+N|US|B6| Le Diable s'habille en Prada |2006| David Frankel
+N|US|H1| Le Dictateur |1940| Charlie Chaplin
+N|GB|D5| Le Discours d'un roi |2010| Tom Hooper
+N|DE|E4| Le Docteur Mabuse |1922| Fritz Lang
+N|US|B2| Le Dossier Adams |1988| Errol Morris
+N|FR|B6| Le Fabuleux destin d'Amélie Poulain |2001| Jean-Pierre Jeunet
+N|US|I5| Le Facteur sonne toujours deux fois |1946| Tay Garnett
+N|IT|H1| Le Fanfaron |1962| Dino Risi
+N|US|H6| Le Faucon maltais |1941| John Huston
+N|CA|E4| Le Festin nu |1991| David Cronenberg
+N|FR|C7| Le Feu follet |1963| Louis Malle
+N|🇭U|C3| Le Fils de Saul |2015| Laszlo Nemes
+N|US|F1| Le Flic de Beverly Hills |1984| Martin Brest
+N|US|F1| Le Flic de Beverly Hills 2 |1987| Tony Scott
+N|US|F1| Le Flic de Beverly Hills 3 |1993| John Landis
+N|FR|A2| Le Fossé |2010| Wang Bing
+N|US|E2| Le Fugitif |1993| Andrew Davis
+N|GB|A2| Le Funambule |2008| James Marsh
+N|US|C5| Le Géant de fer |1999| Brad Bird
+N|US|H7| Le Gouffre aux chimères |1951| Billy Wilder
+N|JP|D6| Le Goût du saké |1963| Yasujiro Ozu
+N|FR|B5| Le Grand bleu |1988| Luc Besson
+N|US|H6| Le Grand Chantage |1957| Alexander Mackendrick
+N|US|G7| Le Grand saut |1994| Joel Coen, Ethan Coen
+N|IT|H5| Le Grand Silence |1968| Sergio Corbucci
+N|US|H6| Le Grand sommeil |1946| Howard Hawks
+N|IT|D6| Le Guépard |1963| Luchino Visconti
+N|GB|D3| Le Guerrier silencieux |2009| Nicolas Winding Refn
+N|US|E6| Le Hobbit : La Bataille des 5 Armées |2014| Peter Jackson
+N|US|E6| Le Hobbit : la désolation de Smaug |2013| Peter Jackson
+N|NZ|E6| Le Hobbit : Un voyage inattendu |2011| Peter Jackson
+N|US|E2| Le Jeu de la mort |1978| Robert Clouse, Bruce Lee
+N|FR|A2| Le Joli Mai |1963| Chris Marker, Pierre Lhomme
+N|ES|F6| Le Jour de la bête |1995| Alex de la Iglesia
+N|US|C3| Le Jour le plus long |1962| Ken Annakin, Andrew Marton, Bernhard Wicki, Gerd Oswald, Darryl F. Zanuck
+N|US|E1| Le Jour où la Terre s'arrêta |1951| Robert Wise
+N|FR|H6| Le Jour se lève |1939| Marcel Carne
+N|GB|G3| Le Journal de Bridget Jones |2001| Sharon Maguire
+N|US|C7| Le Kid |1921| Charlie Chaplin
+N|ES|F6| Le Labyrinthe de Pan |2006| Guillermo del Toro
+N|US|H3| Le Lauréat |1968| Mike Nichols
+N|GB|D5| Le Limier |1972| Joseph L. Mankiewicz
+N|US|D6| Le Livre de la jungle |1967| Wolfgang Reitherman
+N|FR|E4| Le Locataire |1976| Roman Polanski
+N|US|G7| Le Loup de Wall Street |2013| Martin Scorsese
+N|US|C6| Le Magicien d'Oz |1939| Victor Fleming
+N|DE|C4| Le Mariage de Maria Braun |1979| Rainer Werner Fassbinder
+N|US|G2| Le Mariage de mon meilleur ami |1997| P.J. Hogan
+N|US|H2| Le Mécano de la Générale |1927| Clyde Bruckman, Buster Keaton
+N|FR|E6| Le Mépris |1963| Jean-Luc Godard
+N|IT|H5| Le Mercenaire |1968| Sergio Corbucci
+N|RU|E7| Le Miroir |1974| Andrei Tarkovski
+N|US|C7| Le Monde de Charlie |2012| Stephen Chbosky
+N|US|D6| Le Monde de Nemo |2003| Andrew Stanton, Lee Unkrich
+N|US|F2| Le Monde Perdu : Jurassic Park |1997| Steven Spielberg
+N|DE|E6| Le Nom de la Rose |1986| Jean-Jacques Annaud
+N|US|D4| Le Nouveau Monde |2005| Terrence Malick
+N|US|F6| Le Parrain |1972| Francis Ford Coppola
+N|US|G6| Le Parrain, 2e partie |1975| Francis Ford Coppola
+N|US|G5| Le Parrain, 3e partie |1990| Francis Ford Coppola
+N|GB|D6| Le Patient anglais |1996| Anthony Minghella
+N|PL|C3| Le Pianiste |2002| Roman Polanski
+N|US|I7| Le Plongeon |1968| Frank Perry
+N|US|H2| Le Plus escroc des deux |1988| Franck Oz
+N|US|I5| Le Point de non-retour |1967| John Boorman
+N|US|H6| Le Poison |1945| Billy Wilder
+N|GB|C4| Le Pont de la riviere Kwai |1957| David Lean
+N|US|C1| Le Pont des espions |2015| Steven Spielberg
+N|US|H6| Le Port de l'angoisse |1944| Howard Hawks
+N|US|H6| Le Port de la drogue |1953| Samuel Fuller
+N|US|E7| Le Prestige |2006| Christopher Nolan
+N|US|I5| Le Privé |1973| Robert Altman
+N|FR|E5| Le Procès |1962| Orson Welles
+N|IL|D5| Le procès de Viviane Amsalem |2014| Shlomi Elkabetz, Ronit Elkabetz
+N|US|D4| Le Procès Paradine |1947| Alfred Hitchcock
+N|US|E6| Le Projet Blair witch |1999| Daniel Myrick, Eduardo Sanchez
+N|GB|D1| Le Quatrième protocole |1987| John Mackenzie
+N|US|E2| Le Retour de l'inspecteur Harry |1983| Clint Eastwood
+N|IT|H5| Le Retour de Ringo |1966| Duccio Tessari
+N|FR|B6| Le Roi et l'oiseau |1980| Paul Grimault
+N|US|B6| Le Roi Lion |1994| Roger Allers, Rob Minkoff
+N|US|H6| Le Roman de Mildred Pierce |1945| Michael Curtiz
+N|DE|I7| Le Ruban blanc |2009| Michael Haneke
+N|FR|E6| Le Salaire de la peur |1953| Henri-Georges Clouzot
+N|FR|H6| Le Samouraï |1967| Jean-Pierre Melville
+N|US|D6| Le Secret de Brokeback Mountain |2006| Ang Lee
+N|NZ|E6| Le Seigneur des anneaux : La communauté de l'anneau |2001| Peter Jackson
+N|US|E6| Le Seigneur des anneaux : Le retour du roi |2003| Peter Jackson
+N|US|E6| Le Seigneur des anneaux : Les deux tours |2002| Peter Jackson
+N|AT|I7| Le Septième continent |1988| Michael Haneke
+N|SE|F4| Le Septième Sceau |1957| Ingmar Bergman
+N|US|H3| Le Shérif est en prison |1974| Mel Brooks
+N|US|F4| Le Silence des agneaux |1991| Jonathan Demme
+N|US|F5| Le Sixième Sens |1986| Michael Mann
+N|US|H5| Le Solitaire |1981| Michael Mann
+N|ES|A1| Le Songe de la lumiere |1992| Victor Erice
+N|US|B5| Le Stratège |2011| Bennett Miller
+N|CN|H5| Le Syndicat du crime |1986| John Woo
+N|US|C4| Le Temps d'aimer et le temps de mourir |1958| Douglas Sirk
+N|US|C5| Le Temps de l'innocence |1993| Martin Scorsese
+N|DE|E4| Le Testament du Dr Mabuse |1932| Fritz Lang
+N|JP|C3| Le Tombeau des lucioles |1988| Isao Takahata
+N|US|G5| Le Train sifflera trois fois |1952| Fred Zinnemann
+N|FR|E3| Le Transporteur |2002| Corey Yuen, Louis Leterrier
+N|US|H3| Le Trésor de la Sierra Madre |1947| John Huston
+N|GB|E5| Le Troisième homme |1949| Carol Reed
+N|FR|F5| Le Trou |1960| Jacques Becker
+N|IE|C4| Le Vent se lève |2005| Ken Loach
+N|JP|B4| Le vent se lève |2013| Hayao Miyazaki
+N|US|D4| Le Verdict |1982| Sidney Lumet
+N|US|D5| Le Village |2004| M. Night Shyamalan
+N|US|H4| Le vol du grand rapide |1903| Edwin S. Porter
+N|IT|C7| Le Voleur de bicyclette |1948| Vittorio De Sica
+N|US|G4| Le Voyage d'Arlo |2015| Peter Sohn, Bob Peterson
+N|FR|E1| Le Voyage dans la Lune |1902| Georges Melies
+N|JP|B6| Le Voyage de Chihiro |2001| Hayao Miyazaki
+N|US|D1| Le Voyage fantastique |1966| Richard Fleischer
+N|GB|F4| Le Voyeur |1960| Michael Powell
+N|US|D7| Leaving Las Vegas |1995| Mike Figgis
+N|DE|B2| Leçons de ténèbres |1992| Werner Herzog
+N|US|H5| Légitime Violence |1977| John Flynn
+N|US|G6| Léon |1994| Luc Besson
+N|GB|D1| Les 39 marches |1935| Alfred Hitchcock
+N|US|G6| Les Affranchis |1990| Martin Scorsese
+N|US|E3| Les Ailes de l'enfer |1997| Simon West
+N|DE|I5| Les Ailes du désir |1987| Wim Wenders
+N|FR|C7| Les Amants du Pont-Neuf |1991| Leos Carax
+N|US|I2| Les Aristochats |1971| Wolfgang Reitherman
+N|US|E5| Les Autres |2001| Alejandro Amenabar
+N|US|E6| Les Aventures de Jack Burton dans les griffes du mandarin |1986| John Carpenter
+N|US|D6| Les Aventures de Tintin : Le Secret de la Licorne |2011| Steven Spielberg
+N|GB|E7| Les Aventures du baron de Münchausen |1988| Terry Gilliam
+N|US|F1| Les Banlieusards |1989| Joe Dante
+N|FR|A5| Les Beaux gosses |2009| Riad Sattouf
+N|US|B6| Les Bêtes du sud sauvage |2011| Benh Zeitlin
+N|US|C5| Les Blancs ne savent pas sauter |1992| Ron Shelton
+N|BR|I5| Les Bruits de Recife |2012| Kleber Mendonça Filho
+N|GB|B5| Les Chariots de feu |1981| Hugh Hudson
+N|GB|D4| Les Chaussons rouges |1948| Michael Powell, Emeric Pressburger
+N|US|G4| Les Cheyennes |1964| John Ford
+N|GB|H7| Les Chiens de paille |1971| Sam Peckinpah
+N|FR|E7| Les Choses de la vie |1970| Claude Sautet
+N|US|H2| Les Compagnons de la Nouba |1933| William A. Seiter
+N|JP|E7| Les Contes de la lune vague après la pluie |1953| Kenji Mizoguchi
+N|FR|H3| Les Demoiselles de Rochefort |1967| Jacques Demy
+N|US|E6| Les Dents de la Mer |1975| Steven Spielberg
+N|US|H3| Les Derniers Jours du disco |1998| Whit Stillman
+N|US|G4| Les Désaxés |1960| John Huston
+N|FR|D5| Les Diaboliques |1955| Henri-Georges Clouzot
+N|BW|H2| Les Dieux sont tombés sur la tête |1981| Jamie Uys
+N|GB|C3| Les Douze salopards |1967| Robert Aldrich
+N|US|H6| Les Enchaînés |1946| Alfred Hitchcock
+N|FR|C5| Les Enfants du paradis |1945| Marcel Carne
+N|JP|B6| Les Enfants Loups, Ame & Yuki |2012| Mamoru Hosoda
+N|US|E3| Les Ensorcelés |1952| Vincente Minnelli
+N|US|F5| Les Évadés |1994| Frank Darabont
+N|US|D4| Les Feux de la rampe |1952| Charlie Chaplin
+N|GB|E2| Les Fils de l'homme |2006| Alfonso Cuaron
+N|SE|E7| Les Fraises sauvages |1957| Ingmar Bergman
+N|IT|F5| Les Frissons de l'angoisse |1975| Dario Argento
+N|US|E7| Les Gardiens de la Galaxie |2013| James Gunn
+N|US|B5| Les Glandeurs |1995| Kevin Smith
+N|FR|A2| Les Glaneurs et la Glaneuse |1999| Agnes Varda
+N|US|B5| Les Goonies |1985| Richard Donner
+N|US|E5| Les Griffes de la nuit |1984| Wes Craven
+N|US|I4| Les Guerriers de la nuit |1979| Walter Hill
+N|🇭U|E7| Les Harmonies Werckmeister |2000| Bela Tarr
+N|US|B4| Les Hommes du Président |1976| Alan J. Pakula
+N|US|I2| Les Hommes préfèrent les blondes |1953| Howard Hawks
+N|US|G5| Les Huit salopards |2015| Quentin Tarantino
+N|US|G6| Les Incorruptibles |1987| Brian De Palma
+N|US|F7| Les Indestructibles |2004| Brad Bird
+N|US|G6| Les Infiltrés |2006| Martin Scorsese
+N|GB|F6| Les Innocents |1961| Jack Clayton
+N|US|G3| Les Liaisons dangereuses |1988| Stephen Frears
+N|US|E6| Les Lumières de la ville |1931| Charlie Chaplin
+N|US|C5| Les Moissons du ciel |1979| Terrence Malick
+N|US|I2| Les Muppets, le film |1979| James Frawley
+N|US|F5| Les Nerfs à vif |1961| J. Lee Thompson
+N|US|F5| Les Nerfs à vif |1991| Martin Scorsese
+N|US|F6| Les Noces funèbres |2005| Tim Burton, Mike Johnson
+N|US|D7| Les Noces rebelles |2008| Sam Mendes
+N|US|F2| Les Nouveaux Héros |2014| Don Hall, Chris Williams
+N|US|F6| Les Oiseaux |1963| Alfred Hitchcock
+N|FR|H3| Les Parapluies de Cherbourg |1964| Jacques Demy
+N|GB|F6| Les Prédateurs |1983| Tony Scott
+N|US|F3| Les Producteurs |1968| Mel Brooks
+N|US|G4| Les Proies |1971| Don Siegel
+N|FR|C6| Les Quatre Cents Coups |1959| Francois Truffaut
+N|US|C7| Les Raisins de la colère |1940| John Ford
+N|US|G5| Les Rapaces |1924| Erich Von Stroheim
+N|US|D3| Les Rois du désert |1999| David O. Russell
+N|US|G1| Les Rois du Patin |2007| Josh Gordon, Will Speck
+N|US|H2| Les Séducteurs |1964| Ralph Levy
+N|US|C3| Les Sentiers de la gloire |1957| Stanley Kubrick
+N|US|G6| Les Sentiers de la perdition |2002| Sam Mendes
+N|US|G4| Les Sept mercenaires |1960| John Sturges
+N|JP|H7| Les Sept Samouraïs |1954| Akira Kurosawa
+N|US|G1| Les Simpson, le film |2007| David Silverman
+N|US|H1| Les Temps modernes |1936| Charlie Chaplin
+N|US|D1| Les Trois jours du Condor |1975| Sydney Pollack
+N|FR|H1| Les Vacances de Monsieur Hulot |1953| Jacques Tati
+N|FR|F3| Les Valseuses |1974| Bertrand Blier
+N|GB|H2| Les Virtuoses |1997| Mark Herman
+N|FR|F4| Les Visiteurs |1993| Jean-Marie Poire
+N|FR|E5| Les Yeux sans Visage |1959| Georges Franju
+N|US|E7| Lettre d'une inconnue |1948| Max Ophuls
+N|JP|C3| Lettres d'Iwo Jima |2007| Clint Eastwood
+N|US|B2| Leviathan |2012| Lucien Castaing-Taylor, Verena Paravel
+N|US|G3| Liaison fatale |1988| Adrian Lyne
+N|US|A3| Life Itself |2014| Steve James
+N|US|D6| Lifeboat |1943| Alfred Hitchcock
+N|US|C4| Lincoln |2012| Steven Spielberg
+N|GB|A2| Listen to Britain |1942| Humphrey Jennings, Stewart McAllister
+N|US|G5| Little Big Man |1970| Arthur Penn
+N|US|B6| Little Miss Sunshine |2005| Jonathan Dayton, Valerie Faris
+N|US|F6| Little Odessa |1994| James Gray
+N|KR|I6| Locataires |2004| Kim Ki-duk
+N|US|G7| Logan |2017| James Mangold
+N|US|C5| Loin du paradis |2002| Todd Haynes
+N|US|G3| Lolita |1962| Stanley Kubrick
+N|US|A6| Lolita malgré moi |2003| Mark Waters
+N|US|F3| Looper |2012| Rian Johnson
+N|US|D3| Lord of War |2005| Andrew Niccol
+N|US|D7| Lorenzo |1992| George Miller
+N|US|F3| Los Angeles 2013 |1996| John Carpenter
+N|US|E4| Lost Highway |1997| David Lynch
+N|US|A3| Lost in La Mancha |2001| Louis Pepe, Keith Fulton
+N|US|D7| Lost in Translation |2003| Sofia Coppola
+N|GB|G3| Love Actually |2003| Richard Curtis
+N|JP|E3| Love Exposure |2008| Sion Sono
+N|US|C7| Love Story |1970| Arthur Hiller
+N|IT|C5| Ludwig |1972| Luchino Visconti
+N|US|G5| Luke la main froide |1967| Stuart Rosenberg
+N|TW|G3| Lust, Caution |2007| Ang Lee
+N|DE|F5| M le Maudit |1931| Fritz Lang
+N|GB|D1| M.15 demande protection |1966| Sidney Lumet
+N|US|D3| M.A.S.H. |1970| Robert Altman
+N|FR|E6| Ma nuit chez Maud |1969| Eric Rohmer
+N|US|C5| Ma Vie avec Liberace |2012| Steven Soderbergh
+N|US|D7| Macadam Cowboy |1969| John Schlesinger
+N|AU|E2| Mad Max |1979| George Miller
+N|AU|E2| Mad Max 2 : le défi |1981| George Miller
+N|AU|E2| Mad Max au-delà du Dôme du Tonnerre |1985| George Ogilvie, George Miller
+N|AU|E2| Mad Max: Fury Road |2015| George Miller
+N|FR|C5| Madame de... |1953| Max Ophuls
+N|US|G1| Madame Doubtfire |1994| Chris Columbus
+N|KR|H3| Mademoiselle |2016| Park Chan-wook
+N|US|H2| Mafia Blues |1999| Harold Ramis
+N|US|I3| Magic Mike |2012| Steven Soderbergh
+N|US|D7| Magnolia |1999| Paul Thomas Anderson
+N|US|E2| Magnum Force |1973| Ted Post
+N|US|D5| Malcolm X |1992| Spike Lee
+N|US|G1| Maman, j'ai encore raté l'avion |1992| Chris Columbus
+N|US|G1| Maman, j'ai raté l'avion |1990| Chris Columbus
+N|IT|D6| Mamma Roma |1962| Pier Paolo Pasolini
+N|US|F7| Man of Steel |2013| Zack Snyder
+N|US|E3| Man on Fire |2004| Tony Scott
+N|US|B5| Man On the Moon |1999| Milos Forman
+N|US|E7| Manhattan |1979| Woody Allen
+N|US|G7| Margin Call |2011| J. C. Chandor
+N|FR|D5| Marie-Antoinette |2005| Sofia Coppola
+N|US|F1| Mars Attacks! |1996| Tim Burton
+N|US|F6| Martin |1977| George A. Romero
+N|US|G2| Mary à tout prix |1998| Peter Farrelly, Bobby Farrelly
+N|US|B6| Mary Poppins |1965| Robert Stevenson
+N|US|E5| Massacre à la tronçonneuse |1974| Tobe Hooper
+N|US|D5| Master and Commander : de l'autre côté du monde |2003| Peter Weir
+N|GB|I6| Match Point |2005| Woody Allen
+N|US|E2| Matrix |1999| Lana Wachowski, Lilly Wachowski
+N|US|D2| Matrix Reloaded |2003| Lilly Wachowski, Lana Wachowski
+N|US|D2| Matrix Revolutions |2003| Lilly Wachowski, Lana Wachowski
+N|US|H3| Maverick |1994| Richard Donner
+N|US|F6| Max et les maximonstres |2009| Spike Jonze
+N|US|E6| May |2002| Lucky McKee
+N|US|G6| Mean Streets |1973| Martin Scorsese
+N|DK|E1| Melancholia |2011| Lars von Trier
+N|US|E5| Memento |2000| Christopher Nolan
+N|US|C3| Mémoires de nos pères |2006| Clint Eastwood
+N|KR|F5| Memories of Murder |2004| Joon-ho Bong
+N|US|E1| Men in Black |1997| Barry Sonnenfeld
+N|US|I4| Menace II Society |1993| Allen Hughes, Albert Hughes
+N|US|G1| Menteur, menteur |1997| Tom Shadyac
+N|US|G3| Méprise multiple |1997| Kevin Smith
+N|US|B7| Merlin l'enchanteur |1964| Wolfgang Reitherman
+N|US|G2| Mes meilleures amies |2011| Paul Feig
+N|DE|F1| Metropolis |1927| Fritz Lang
+N|US|F4| Meurtre d'un bookmaker chinois |1976| John Cassavetes
+N|US|I4| Meurtres dans la 110e rue |1972| Barry Shear
+N|US|G6| Miami Vice - Deux flics à Miami |2005| Michael Mann
+N|US|G2| Micki et Maude |1984| Blake Edwards
+N|US|F5| Midnight Express |1978| Alan Parker
+N|US|H2| Midnight Run |1988| Martin Brest
+N|US|E1| Midnight Special |2016| Jeff Nichols
+N|US|F4| Millénium : Les hommes qui n’aimaient pas les femmes |2011| David Fincher
+N|JP|E4| Millennium Actress |2001| Satoshi Kon
+N|TW|F5| Millennium Mambo |2001| Hou Hsiao-Hsien
+N|US|G6| Miller's Crossing |1990| Joel Coen, Ethan Coen
+N|US|C6| Million Dollar Baby |2004| Clint Eastwood
+N|US|D1| Minority Report |2002| Steven Spielberg
+N|US|E7| Minuit à Paris |2011| Woody Allen
+N|US|D7| Mirage de la vie |1959| Douglas Sirk
+N|US|F5| Misery |1990| Rob Reiner
+N|US|C2| Mission : Impossible |1996| Brian De Palma
+N|US|C1| Mission : Impossible - Protocole fantôme |2011| Brad Bird
+N|US|E1| Mission to Mars |2000| Brian De Palma
+N|US|C1| Mission: Impossible - Rogue Nation |2015| Christopher McQuarrie
+N|US|C2| Mission: Impossible 2 |2000| John Woo
+N|US|C1| Mission: Impossible 3 |2005| J.J. Abrams
+N|IN|I2| Mohabbatein |2000| Aditya Chopra
+N|FR|A2| Moi un noir |1958| Jean Rouch
+N|US|G1| Mon beau-père et moi |2000| Jay Roach
+N|IT|H4| Mon nom est personne |1973| Tonino Valerii
+N|FR|H1| Mon oncle |1958| Jacques Tati
+N|FR|I7| Mon Oncle d'Amérique |1980| Alain Resnais
+N|JP|B6| Mon voisin Totoro |1988| Hayao Miyazaki
+N|US|G2| Mondwest |1973| Michael Crichton
+N|SE|D7| Monika |1953| Ingmar Bergman
+N|US|C4| Monsieur Smith au Sénat |1939| Frank Capra
+N|US|C5| Monstres & Cie |2001| Pete Docter, David Silverman, Lee Unkrich
+N|US|H1| Monte là-dessus |1923| Fred C. Newmeyer, Sam Taylor
+N|GB|H1| Monty Python, la vie de Brian |1978| Terry Jones
+N|GB|H1| Monty Python, Le Sens de la vie |1983| Terry Gilliam, Terry Jones
+N|GB|H1| Monty Python, sacré Graal |1975| Terry Gilliam, Terry Jones
+N|GB|E4| Moon |2009| Duncan Jones
+N|US|D7| Moonlight |2016| Barry Jenkins
+N|US|B5| Moonrise Kingdom |2011| Wes Anderson
+N|SE|F6| Morse |2008| Tomas Alfredson
+N|IT|C7| Mort à Venise |1971| Luchino Visconti
+N|US|G4| Mort ou vif |1994| Sam Raimi
+N|KR|F4| Mother |2009| Joon-ho Bong
+N|IN|I3| Mother India |1957| Mehboob Khan
+N|AU|H2| Moulin Rouge ! |2001| Baz Luhrmann
+N|US|D1| Mr. & Mrs. Smith |2005| Doug Liman
+N|US|C6| Mud - Sur les rives du Mississippi |2013| Jeff Nichols
+N|US|B6| Mulan |1998| Tony Bancroft, Barry Cook
+N|US|E4| Mulholland Drive |2001| David Lynch
+N|US|D1| Munich |2005| Steven Spielberg
+N|US|A2| Murderball |2005| Henry Alex Rubin, Dana Adam Shapiro
+N|AU|G2| Muriel |1994| P.J. Hogan
+N|TR|C7| Mustang |2015| Deniz Gamze Erguven
+N|GB|G1| My Beautiful Laundrette |1985| Stephen Frears
+N|US|H3| My Fair Lady |1964| George Cukor
+N|US|C6| My Girl |1991| Howard Zieff
+N|US|D7| My Own Private Idaho |1991| Gus Van Sant
+N|PT|D5| Mystères de Lisbonne |2010| Raoul Ruiz
+N|US|I7| Mysterious Skin |2004| Gregg Araki
+N|US|I7| Mystic River |2003| Clint Eastwood
+N|US|C7| N'oublie jamais |2002| Nick Cassavetes
+N|US|C5| N.W.A - Straight Outta Compton |2015| F. Gary Gray
+N|FR|B4| Naissance des pieuvres |2007| Celine Sciamma
+N|GB|C7| Naked |1992| Mike Leigh
+N|CA|B2| Nanouk l'Esquimau |1922| Robert J. Flaherty
+N|US|A5| Napoleon Dynamite |2003| Jared Hess
+N|JP|B6| Nausicaä de la vallée du vent |1984| Hayao Miyazaki
+N|ES|G5| Navajo Joe |1966| Sergio Corbucci
+N|US|C3| Né un 4 juillet |1989| Oliver Stone
+N|US|F3| Network, main basse sur la télévision |1976| Sidney Lumet
+N|US|I4| New Jack City |1991| Mario Van Peebles
+N|US|E2| New York 1997 |1981| John Carpenter
+N|US|I2| New York, New York |1977| Martin Scorsese
+N|US|G2| New York-Miami |1934| Frank Capra
+N|US|F3| Night Call |2014| Dan Gilroy
+N|FR|G6| Nikita |1990| Luc Besson
+N|US|E4| Nimitz, retour vers l'enfer |1980| Don Taylor
+N|CL|C4| No |2012| Pablo Larrain
+N|US|G5| No Country For Old Men |2007| Joel Coen, Ethan Coen
+N|US|A3| No Direction Home: Bob Dylan |2005| Martin Scorsese
+N|JP|B6| Nobody knows |2003| Hirokazu Kore-Eda
+N|US|C7| Nos étoiles contraires |2013| Josh Boone
+N|US|G6| Nos funérailles |1996| Abel Ferrara
+N|DE|F6| Nosferatu |1922| Friedrich Wilhelm Murnau
+N|US|B2| Nostalgie de la lumière |2010| Patricio Guzman
+N|US|C5| Nous avons gagné ce soir |1949| Robert Wise
+N|IT|I5| Nous nous sommes tant aimés |1974| Ettore Scola
+N|US|F2| Nouveau Départ |2011| Cameron Crowe
+N|US|A4| Nowhere |1997| Gregg Araki
+N|FR|B3| Nuit et brouillard |1955| Alain Resnais
+N|US|G2| Nuits blanches à Seattle |1992| Nora Ephron
+N|DK|G3| Nymphomaniac |2013| Lars von Trier
+N|US|G1| O'Brother |2000| Joel Coen, Ethan Coen
+N|US|A2| O.J.: Made in America |2016| Ezra Edelman
+N|US|F4| Obsession |1976| Brian De Palma
+N|US|H5| Ocean's Eleven |2001| Steven Soderbergh
+N|US|H5| Ocean's Twelve |2004| Steven Soderbergh
+N|KR|E5| Old Boy |2003| Park Chan-wook
+N|US|C7| On achève bien les chevaux |1969| Sydney Pollack
+N|GB|D1| On ne vit que deux fois |1967| Lewis Gilbert
+N|IE|H2| Once |2006| John Carney
+N|T🇭|E7| Oncle Boonmee (celui qui se souvient de ses vies antérieures) |2009| Apichatpong Weerasethakul
+N|US|D4| Opening Night |1978| John Cassavetes
+N|US|D2| Opération dragon |1973| Robert Clouse
+N|GB|H7| Orange Mécanique |1971| Stanley Kubrick
+N|DK|E3| Ordet |1955| Carl Theodor Dreyer
+N|FR|H3| Orfeu negro |1959| Marcel Camus
+N|GB|C5| Orgueil et préjugés |2005| Joe Wright
+N|NO|C7| Oslo, 31 août |2011| Joachim Trier
+N|US|E6| Out of Africa |1985| Sydney Pollack
+N|US|C3| Outrages |1989| Brian De Palma
+N|US|H7| Outsiders |1983| Francis Ford Coppola
+N|ES|E5| Ouvre les yeux |1998| Alejandro Amenabar
+N|US|D1| Pacific Rim |2013| Guillermo del Toro
+N|US|G4| Pale Rider, le cavalier solitaire |1985| Clint Eastwood
+N|US|E5| Panic room |2002| David Fincher
+N|US|E3| Panic sur Florida Beach |1992| Joe Dante
+N|US|D7| Panique à Needle Park |1971| Jerry Schatzberg
+N|US|F5| Papillon |1973| Franklin J. Schaffner
+N|JP|E5| Paprika |2005| Satoshi Kon
+N|US|E6| Paranormal Activity |2009| Oren Peli
+N|US|B2| Paris is Burning |1990| Jennie Livingston
+N|US|D7| Paris, Texas |1984| Wim Wenders
+N|ES|C6| Parle avec elle |2002| Pedro Almodovar
+N|US|H3| Pas de printemps pour Marnie |1964| Alfred Hitchcock
+N|US|G4| Pat Garrett et Billy le Kid |1973| Sam Peckinpah
+N|US|C3| Patton |1970| Franklin J. Schaffner
+N|US|F1| Paul |2010| Greg Mottola
+N|US|C3| Pearl Harbor |2001| Michael Bay
+N|US|H1| Pee Wee Big Adventure |1985| Tim Burton
+N|US|F3| Peggy Sue s'est mariée |1986| Francis Ford Coppola
+N|KR|C7| Peppermint Candy |2000| Lee Chang-Dong
+N|JP|F4| Perfect Blue |1998| Satoshi Kon
+N|FR|A5| Persepolis |2007| Marjane Satrapi, Vincent Paronnaud
+N|SE|D7| Persona |1966| Ingmar Bergman
+N|US|D6| Peter Pan |1953| Hamilton Luske, Wilfred Jackson, Clyde Geronimi
+N|GB|H6| Petits meurtres entre amis |1994| Danny Boyle
+N|US|E5| Peur primale |1996| Gregory Hoblit
+N|US|H3| Phantom of the Paradise |1974| Brian De Palma
+N|US|C5| Phantom Thread |2017| Paul Thomas Anderson
+N|US|F5| Phénomènes |2008| M. Night Shyamalan
+N|US|C6| Philadelphia |1994| Jonathan Demme
+N|US|E5| Phone Game |2002| Joel Schumacher
+N|US|E4| Pi |1998| Darren Aronofsky
+N|FR|F6| Pickpocket |1959| Robert Bresson
+N|US|E3| Piège à Hong Kong |1998| Tsui Hark
+N|US|E2| Piège de cristal |1988| John McTiernan
+N|US|D3| Piège en haute mer |1992| Andrew Davis
+N|US|E2| Piégée |2011| Steven Soderbergh
+N|FR|D6| Pierrot le Fou |1965| Jean-Luc Godard
+N|GB|I2| Pink Floyd : The Wall |1982| Alan Parker
+N|US|F2| Pinocchio |1940| Hamilton Luske, Ben Sharpsteen
+N|AU|F5| Pique-nique à Hanging Rock |1975| Peter Weir
+N|US|I1| Plan 9 from Outer Space |1959| Ed Wood
+N|US|E1| Planète interdite |1957| Fred McWilcox
+N|US|F5| Planète terreur |2007| Robert Rodriguez
+N|US|C3| Platoon |1986| Oliver Stone
+N|FR|H1| Playtime |1967| Jacques Tati
+N|FR|H6| Plein soleil |1960| Rene Clement
+N|US|D3| Point break extrême limite |1991| Kathryn Bigelow
+N|US|F2| Point limite zéro |1971| Richard C. Sarafian
+N|US|G6| Police Fédérale Los Angeles |1985| William Friedkin
+N|US|F6| Poltergeist |1982| Tobe Hooper
+N|CA|B4| Polytechnique |2009| Denis Villeneuve
+N|US|A2| Portrait of jason |1967| Shirley Clarke
+N|MX|E4| Post Tenebras Lux |2012| Carlos Reygadas
+N|US|E3| Postman |1998| Kevin Costner
+N|US|G2| Pour le pire et pour le meilleur |1998| James L. Brooks
+N|IT|H4| Pour une poignée de dollars |1964| Sergio Leone
+N|US|D2| Predator |1987| John McTiernan
+N|US|H2| Prends l'oseille et tire-toi ! |1969| Woody Allen
+N|US|H1| Présentateur vedette : la légende de Ron Burgundy |2004| Adam McKay
+N|US|H2| Presque célèbre |2000| Cameron Crowe
+N|US|I6| Prête à tout |1995| Gus Van Sant
+N|US|G3| Pretty Woman |1990| Garry Marshall
+N|US|B3| Primary |1960| D.A. Pennebaker, Robert Drew
+N|US|F3| Primer |2004| Shane Carruth
+N|JP|B6| Princesse Mononoké |1997| Hayao Miyazaki
+N|US|F4| Prisoners |2013| Denis Villeneuve
+N|IT|H7| Profession : Reporter |1975| Michelangelo Antonioni
+N|US|B5| Projet X |2011| Nima Nourizadeh
+N|GB|E1| Prometheus |2012| Ridley Scott
+N|US|G3| Proposition indécente |1993| Adrian Lyne
+N|US|E4| Psychose |1960| Alfred Hitchcock
+N|US|G5| Public Enemies |2009| Michael Mann
+N|US|A2| Public Housing |1998| Frederick Wiseman
+N|US|G6| Pulp Fiction |1994| Quentin Tarantino
+N|US|E5| Pulsions |1980| Brian De Palma
+N|US|A6| Pump up the volume |1990| Allan Moyle
+N|US|E7| Punch-drunk love - Ivre d'amour |2003| Paul Thomas Anderson
+N|US|I5| Punishment Park |1970| Peter Watkins
+N|DK|H7| Pusher |1996| Nicolas Winding Refn
+N|DK|G7| Pusher II - Du sang sur les mains |2004| Nicolas Winding Refn
+N|DK|G7| Pusher III - L'ange de la mort |2005| Nicolas Winding Refn
+N|US|C7| Qu'elle était verte ma vallée |1941| John Ford
+N|US|F3| Qu'est-il arrivé à Baby Jane ? |1962| Robert Aldrich
+N|US|G2| Quand Harry rencontre Sally |1989| Rob Reiner
+N|GB|D3| Quand les aigles attaquent |1969| Brian G. Hutton
+N|RU|C4| Quand passent les cigognes |1957| Mikhail Kalatozov
+N|GB|I2| Quatre garçons dans le vent |1964| Richard Lester
+N|GB|G2| Quatre mariages et un enterrement |1993| Mike Newell
+N|FR|H5| Que la bête meure |1969| Claude Chabrol
+N|FR|H1| Que la fête commence |1975| Bertrand Tavernier
+N|US|I3| Que le spectacle commence ! |1979| Bob Fosse
+N|US|F1| Qui veut la peau de Roger Rabbit ? |1988| Robert Zemeckis
+N|GB|H6| Racket |1980| John Mackenzie
+N|US|C5| Raging Bull |1980| Martin Scorsese
+N|US|B6| Rain Man |1988| Barry Levinson
+N|GB|C7| Raining stones |1993| Ken Loach
+N|US|D3| Rambo |1982| Ted Kotcheff
+N|US|D3| Rambo 2 : La Mission |1985| George Pan Cosmatos
+N|US|D3| Rambo III |1988| Peter MacDonald
+N|JP|H7| Ran |1985| Akira Kurosawa
+N|US|G4| Rango |2011| Gore Verbinski
+N|JP|H6| Rashōmon |1950| Akira Kurosawa
+N|US|H2| Rasta Rockett |1994| Jon Turteltaub
+N|US|B6| Ratatouille |2007| Brad Bird, Bob Peterson
+N|US|C4| Ray |2004| Taylor Hackford
+N|US|F5| Re-Animator |1985| Stuart Gordon
+N|US|E2| Ready Player One |2018| Steven Spielberg
+N|US|F6| Rebecca |1940| Alfred Hitchcock
+N|US|A2| Red Army |2014| Gabe Polsky
+N|US|C3| Redacted |2007| Brian De Palma
+N|US|E1| Rencontres du troisième type |1977| Steven Spielberg
+N|US|G2| Rendez-vous |1940| Ernst Lubitsch
+N|GB|F6| Rendez-vous avec la peur |1958| Jacques Tourneur
+N|US|D7| Requiem for a Dream |2000| Darren Aronofsky
+N|RU|C3| Requiem pour un massacre |1984| Elem Klimov
+N|US|H5| Reservoir Dogs |1992| Quentin Tarantino
+N|US|F4| Retour vers le futur |1985| Robert Zemeckis
+N|US|F4| Retour vers le futur II |1989| Robert Zemeckis
+N|US|F4| Retour vers le futur III |1990| Robert Zemeckis
+N|US|C5| Révélations |1999| Michael Mann
+N|GB|C4| Reviens-moi |2007| Joe Wright
+N|US|C5| Riches et célèbres |1981| George Cukor
+N|US|H1| Ricky Bobby : roi du circuit |2005| Adam McKay
+N|JP|E6| Ring |1997| Hideo Nakata
+N|US|G5| Rio Bravo |1959| Howard Hawks
+N|US|G5| Rio Lobo |1970| Howard Hawks
+N|US|B5| Risky Business |1983| Paul Brickman
+N|US|D4| Robin des Bois, prince des voleurs |1991| Kevin Reynolds
+N|US|E2| Robocop |1987| Paul Verhoeven
+N|IT|E7| Rocco et ses frères |1960| Luchino Visconti
+N|US|H2| Rock Academy |2003| Richard Linklater
+N|US|C5| Rocky |1976| John G. Avildsen
+N|US|C5| Rocky Balboa |2006| Sylvester Stallone
+N|US|C5| Rocky II |1979| Sylvester Stallone
+N|US|C5| Rocky III |1982| Sylvester Stallone
+N|US|A3| Roman Polanski: Wanted and Desired |2008| Marina Zenovich
+N|FR|G3| Romance |1999| Catherine Breillat
+N|IT|H6| Romanzo criminale |2005| Michele Placido
+N|IT|C4| Rome, ville ouverte |1945| Roberto Rossellini
+N|US|H2| Romeo + Juliette |1996| Baz Luhrmann
+N|US|A3| Room 237 |2012| Rodney Ascher
+N|US|A5| Rose bonbon |1986| Howard Deutch
+N|US|F6| Rosemary's Baby |1968| Roman Polanski
+N|BE|C7| Rosetta |1999| Jean-Pierre Dardenne, Luc Dardenne
+N|US|C6| Rox et Rouky |1981| Richard Rich, Ted Berman, Art Stevens
+N|FR|E4| Rubber |2010| Quentin Dupieux
+N|US|E2| Runaway train |1985| Andrei Konchalovsky
+N|GB|B5| Rush |2013| Ron Howard
+N|US|F1| Rush Hour |1998| Brett Ratner
+N|US|A5| Rushmore |1998| Wes Anderson
+N|US|F1| S.O.S Fantômes |1984| Ivan Reitman
+N|US|G2| Sabrina |1954| Billy Wilder
+N|IT|A2| Sacro GRA |2012| Gianfranco Rosi
+N|US|I6| Safe |1995| Todd Haynes
+N|US|D6| Sailor et Lula |1990| David Lynch
+N|US|A3| Salesman |1969| Charlotte Zwerin, David Maysles, Albert Maysles
+N|IT|C3| Salo ou les 120 journées de Sodome |1975| Pier Paolo Pasolini
+N|US|H5| Sang pour sang |1984| Joel Coen, Ethan Coen
+N|US|H2| Sans Sarah rien ne va ! |2008| Nicholas Stoller
+N|FR|B2| Sans Soleil |1982| Chris Marker
+N|US|B6| Save the Last Dance |2001| Thomas Carter
+N|US|F5| Saw |2004| James Wan
+N|CA|E7| Scanners |1981| David Cronenberg
+N|US|G6| Scarface |1932| Howard Hawks
+N|US|G6| Scarface |1983| Brian De Palma
+N|US|H1| Scary Movie |2000| Keenen Ivory Wayans
+N|US|E4| Schizopolis |1996| Steven Soderbergh
+N|US|E5| Scream |1996| Wes Craven
+N|GB|B5| Scum |1979| Alan Clarke
+N|US|A5| Seize bougies pour Sam |1984| John Hughes
+N|US|B4| Selma |2014| Ava DuVernay
+N|GB|A2| Senna |2010| Asif Kapadia
+N|US|G2| Sept ans de réflexion |1955| Billy Wilder
+N|US|G2| Serial noceurs |2005| David Dobkin
+N|FR|H7| Série noire |1979| Alain Corneau
+N|US|D5| Serpico |1973| Sidney Lumet
+N|US|D6| Seul au monde |2000| Robert Zemeckis
+N|US|E1| Seul sur Mars |2015| Ridley Scott
+N|US|E6| Seuls les anges ont des ailes |1939| Howard Hawks
+N|US|E5| Seven |1995| David Fincher
+N|US|D5| Sexcrimes |1998| John McNaughton
+N|US|G3| Sexe Intentions |1998| Roger Kumble
+N|US|G3| Sexe, mensonges et vidéo |1989| Steven Soderbergh
+N|US|I3| Sexy Dance 3D |2010| Jon M. Chu
+N|US|I2| Shadows |1959| John Cassavetes
+N|US|I4| Shaft, les nuits rouges de Harlem |1971| Gordon Parks
+N|GB|G3| Shame |2011| Steve McQueen
+N|US|I1| Sharknado |2013| Anthony C. Ferrante
+N|GB|F2| Shaun of the Dead |2004| Edgar Wright
+N|US|D4| Sherlock Junior |1924| Buster Keaton
+N|GB|E4| Shining |1980| Stanley Kubrick
+N|FR|B3| Shoah |1985| Claude Lanzmann
+N|US|E4| Shock corridor |1963| Samuel Fuller
+N|IN|I2| Sholay |1975| Ramesh Sippy
+N|US|F2| Short circuit |1986| John Badham
+N|US|D7| Short Cuts |1993| Robert Altman
+N|US|H3| Shortbus |2006| John Cameron Mitchell
+N|US|H4| Shotgun Stories |2007| Jeff Nichols
+N|US|I3| Show Boat |1951| George Sidney
+N|US|F3| Showgirls |1995| Paul Verhoeven
+N|US|E7| Shrek |2001| Andrew Adamson, Vicky Jenson
+N|US|E4| Shutter Island |2010| Martin Scorsese
+N|US|E2| Signes |2002| M. Night Shyamalan
+N|US|G4| Silverado |1985| Lawrence Kasdan
+N|US|G2| Simone |2002| Andrew Niccol
+N|US|H2| Sister Act |1992| Emile Ardolino
+N|US|E5| Sixième Sens |2000| M. Night Shyamalan
+N|GB|C1| Skyfall |2012| Sam Mendes
+N|US|C7| Sleepers |1996| Barry Levinson
+N|US|F6| Sleepy Hollow, la légende du cavalier sans tête |1999| Tim Burton
+N|IN|E6| Slumdog Millionaire |2008| Danny Boyle
+N|US|G1| Smiley Face |2007| Gregg Araki
+N|US|F4| Snake Eyes |1998| Brian De Palma
+N|GB|H6| Snatch |2000| Guy Ritchie
+N|US|E2| Snowpiercer, Le Transperceneige |2013| Joon-ho Bong
+N|US|E4| Soeurs de sang |1973| Brian De Palma
+N|RU|E4| Solaris |1972| Andrei Tarkovski
+N|US|E4| Solaris |2002| Steven Soderbergh
+N|US|E1| Soleil Vert |1973| Richard Fleischer
+N|SE|I7| Sonate d'automne |1978| Ingmar Bergman
+N|JP|H5| Sonatine, mélodie mortelle |1993| Takeshi Kitano
+N|US|I7| Soudain l'été dernier |1960| Joseph L. Mankiewicz
+N|US|F4| Source Code |2011| Duncan Jones
+N|US|G1| South Park, le film |1998| Trey Parker
+N|US|E3| Southland Tales |2006| Richard Kelly
+N|CU|C4| Soy Cuba |1964| Mikhail Kalatozov
+N|US|F3| Soyez sympas, rembobinez |2008| Michel Gondry
+N|US|E1| Space Cowboys |2000| Clint Eastwood
+N|US|C5| Space Jam |1996| Joe Pytka
+N|US|G3| Spanglish |2004| James L. Brooks
+N|US|D3| Spartacus |1960| Stanley Kubrick
+N|US|E2| Speed |1994| Jan De Bont
+N|US|E2| Speed Racer |2008| Lilly Wachowski, Lana Wachowski
+N|US|E1| Sphere |1998| Barry Levinson
+N|US|F7| Spider-Man |2002| Sam Raimi
+N|US|F7| Spider-Man 2 |2003| Sam Raimi
+N|US|F7| Spider-Man 3 |2007| Sam Raimi
+N|US|H2| Spinal Tap |1984| Rob Reiner
+N|US|E7| Splash |1984| Ron Howard
+N|US|E7| Split |2016| M. Night Shyamalan
+N|US|B4| Spotlight |2015| Thomas McCarthy
+N|US|A4| Spring Breakers |2012| Harmony Korine
+N|GB|C1| Spy game, jeu d'espions |2002| Tony Scott
+N|US|C3| Stalingrad |2001| Jean-Jacques Annaud
+N|RU|E3| Stalker |1979| Andrei Tarkovski
+N|US|C6| Stand by Me |1986| Rob Reiner
+N|US|D5| Star Trek |2009| J.J. Abrams
+N|US|D5| Star Trek : Premier contact |1996| Jonathan Frakes
+N|US|E6| Star Trek II : La colère de Khan |1982| Nicholas Meyer
+N|US|E6| Star Wars : Episode I - La Menace fantôme |1999| George Lucas
+N|US|E6| Star Wars : Episode II - L'Attaque des clones |2002| George Lucas
+N|US|E6| Star Wars : Episode III - La Revanche des Sith |2005| George Lucas
+N|US|D5| Star Wars : Episode IV - Un nouvel espoir |1977| George Lucas
+N|US|D5| Star Wars : Episode V - L'Empire contre-attaque |1980| Irvin Kershner
+N|US|D6| Star Wars : Episode VI - Le Retour du Jedi |1983| Richard Marquand
+N|US|D5| Star Wars : Episode VII - Le Réveil de la Force |2015| J.J. Abrams
+N|US|D3| Starship Troopers |1997| Paul Verhoeven
+N|US|C4| Steve Jobs |2015| Danny Boyle
+N|JP|C6| Still Walking |2008| Hirokazu Kore-Eda
+N|US|D7| Stranger Than Paradise |1984| Jim Jarmusch
+N|IT|D6| Stromboli |1949| Roberto Rossellini
+N|US|F4| Sueurs froides |1958| Alfred Hitchcock
+N|SE|A3| Sugar Man |2012| Malik Bendjelloul
+N|JP|C7| Suicide Club |2001| Sion Sono
+N|US|F5| Summer of Sam |1999| Spike Lee
+N|US|G6| Super |2010| James Gunn
+N|US|B5| Super 8 |2011| J.J. Abrams
+N|US|B5| SuperGrave |2007| Greg Mottola
+N|US|F7| Superman |1978| Richard Donner
+N|US|F7| Superman II |1980| Richard Lester
+N|US|F7| Superman III |1983| Richard Lester
+N|US|F7| Superman Returns |2006| Bryan Singer
+N|US|E6| Sur la route de Madison |1995| Clint Eastwood
+N|BE|B4| Sur le chemin des dunes |2011| Bavo Defurne
+N|US|I3| Sur les ailes de la danse |1936| George Stevens
+N|US|I6| Sur les quais |1954| Elia Kazan
+N|IT|F5| Suspiria |1976| Dario Argento
+N|JP|I5| Suzaku |1997| Naomi Kawase
+N|GB|H2| Sweeney Todd, le diabolique barbier de Fleet Street |2007| Tim Burton
+N|GB|C7| Sweet Sixteen |2002| Ken Loach
+N|US|I4| Sweet Sweetback's Baadasssss Song |1971| Melvin Van Peebles
+N|US|E4| Synecdoche, New York |2007| Charlie Kaufman
+N|US|E5| Take Shelter |2011| Jeff Nichols
+N|US|E2| Taken |2008| Pierre Morel
+N|ES|I6| Talons Aiguilles |1991| Pedro Almodovar
+N|US|F2| Taxi Driver |1976| Martin Scorsese
+N|IR|A3| Taxi Téhéran |2015| Jafar Panahi
+N|US|G1| Team America, police du monde |2004| Trey Parker, Matt Stone
+N|US|G1| Ted |2012| Seth MacFarlane
+N|US|D5| Témoin à charge |1957| Billy Wilder
+N|US|C6| Tendres passions |1983| James L. Brooks
+N|US|E3| Terminator |1984| James Cameron
+N|US|E3| Terminator 2 : Le jugement dernier |1991| James Cameron
+N|US|G3| Terrain d'entente |2005| Peter Farrelly, Bobby Farrelly
+N|ES|A2| Terre sans pain |1933| Luis Bunuel
+N|FR|C5| Tess |1979| Roman Polanski
+N|US|H7| Tetro |2009| Francis Ford Coppola
+N|JP|F2| Tetsuo |1988| Shinya Tsukamoto
+N|GB|B3| The Act of Killing - L'acte de tuer |2012| Joshua Oppenheimer
+N|CA|I5| The Adjuster |1991| Atom Egoyan
+N|FR|E3| The Artist |2011| Michel Hazanavicius
+N|US|B5| The Bad news bears |1976| Michael Ritchie
+N|US|D7| The Barber : l'homme qui n'était pas là |2001| Joel Coen, Ethan Coen
+N|US|G1| The Big Lebowski |1998| Joel Coen, Ethan Coen
+N|US|G7| The Big Short : le casse du siècle |2015| Adam McKay
+N|CN|H7| The Blade |1996| Tsui Hark
+N|US|I4| The Bling Ring |2012| Sofia Coppola
+N|US|H2| The Blues Brothers |1979| John Landis
+N|US|E3| The Box |2007| Richard Kelly
+N|US|G3| The Canyons |2013| Paul Schrader
+N|AU|H1| The Castle |1997| Rob Sitch
+N|KR|I5| The Chaser |2007| Na Hong-Jin
+N|US|F7| The Crow |1994| Alex Proyas
+N|GB|B5| The Damned United |2008| Tom Hooper
+N|US|F7| The Dark Knight : Le Chevalier Noir |2008| Christopher Nolan
+N|US|F7| The Dark Knight Rises |2012| Christopher Nolan
+N|US|E5| The Devil's Rejects |2005| Rob Zombie
+N|US|D7| The Doom Generation |1995| Gregg Araki
+N|US|A6| The Edge of Seventeen |2016| Kelly Fremon
+N|JP|B3| The Emperor’s Naked Army Marches On |1987| Kazuo Hara
+N|US|B5| The Faculty |1998| Robert Rodriguez
+N|US|E3| The Fall |2006| Tarsem Singh
+N|US|B3| The Fog of War |2003| Errol Morris
+N|US|F4| The Fountain |2006| Darren Aronofsky
+N|GB|H2| The Full Monty |1997| Peter Cattaneo
+N|US|E4| The Game |1997| David Fincher
+N|US|C5| The Grand Budapest Hotel |2014| Wes Anderson
+N|CN|D2| The Grandmaster |2011| Wong Kar-Wai
+N|US|G7| The Green Hornet |2011| Michel Gondry
+N|GB|H6| The Hit |1984| Stephen Frears
+N|US|I2| The Hit Girls |2012| Jason Moore
+N|US|G2| The Holiday |2006| Nancy Meyers
+N|KR|F6| The Host |2006| Joon-ho Bong
+N|US|F6| The Immigrant |2013| James Gray
+N|US|H7| The Indian Runner |1991| Sean Penn
+N|US|F1| The Island |2004| Michael Bay
+N|US|E4| The Jacket |2005| John Maybury
+N|CN|G5| The Killer |1989| John Woo
+N|US|A2| The King of Kong : a fistful of quarters |2007| Seth Gordon
+N|US|H6| The King of New York |1990| Abel Ferrara
+N|US|A3| The Last Waltz |1978| Martin Scorsese
+N|GB|E7| The Lobster |2015| Yorgos Lanthimos
+N|DK|B3| The Look of silence |2014| Joshua Oppenheimer
+N|US|D6| The Lost City of Z |2016| James Gray
+N|US|E5| The Machinist |2004| Brad Anderson
+N|US|I4| The Mack |1973| Michael Campus
+N|US|E5| The Man From Earth |2007| Richard Schenkman
+N|US|F1| The Mask |1994| Chuck Russell
+N|US|I6| The Master |2012| Paul Thomas Anderson
+N|CN|H5| The Mission |1999| Johnnie To
+N|US|F3| The Party |1968| Blake Edwards
+N|US|D4| The Patriot, le chemin de la liberté |2000| Roland Emmerich
+N|US|F4| The Philadelphia Experiment |1984| Stewart Raffill
+N|US|E4| The Player |1992| Robert Altman
+N|US|F4| The Pleasure of Being Robbed |2008| Josh Safdie
+N|US|E7| The Princess Bride |1987| Rob Reiner
+N|GB|D4| The Queen |2006| Stephen Frears
+N|ID|E2| The Raid |2012| Gareth Evans
+N|DE|C3| The Reader |2008| Stephen Daldry
+N|US|D4| The Revenant |2015| Alejandro Gonzalez Inarritu
+N|US|I3| The Rocky Horror Picture Show |1975| Jim Sharman
+N|US|I1| The Room |2003| Tommy Wiseau
+N|GB|I5| The Servant |1963| Joseph Losey
+N|US|C4| The Social Network |2010| David Fincher
+N|US|F5| The Stepford Wives |1975| Bryan Forbes
+N|JP|D6| The Taste of tea |2003| Katsuhito Ishii
+N|US|G5| The Thing |1982| John Carpenter
+N|US|E3| The Tree of Life |2011| Terrence Malick
+N|US|E4| The Truman Show |1998| Peter Weir
+N|US|E6| The Visit |2015| M. Night Shyamalan
+N|US|C5| The Walk : Rêver plus haut |2015| Robert Zemeckis
+N|CN|I5| The Wild, Wild Rose |1960| Tian-Lin Wang
+N|US|C6| The Wrestler |2008| Darren Aronofsky
+N|US|G6| The Yards |2000| James Gray
+N|US|C6| Thelma & Louise |1991| Ridley Scott
+N|IT|I6| Théorème |1968| Pier Paolo Pasolini
+N|US|D6| There Will Be Blood |2007| Paul Thomas Anderson
+N|US|A4| Thirteen |2002| Catherine Hardwicke
+N|GB|D7| This is England |2006| Shane Meadows
+N|US|H3| Thomas Crown |1999| John McTiernan
+N|US|G7| Thor |2011| Kenneth Branagh
+N|US|E1| THX 1138 |1971| George Lucas
+N|CN|D2| Tigre et dragon |2000| Ang Lee
+N|CN|D2| Time and Tide |2000| Tsui Hark
+N|US|B5| Tin Cup |1996| Ron Shelton
+N|FR|I5| Tirez sur le pianiste |1960| Francois Truffaut
+N|US|E2| Titan A.E. |2000| Don Bluth, Gary Goldman
+N|US|C5| Titanic |1997| James Cameron
+N|US|A2| Titicut Follies |1967| Frederick Wiseman
+N|JP|C6| Tokyo Sonata |2008| Kiyoshi Kurosawa
+N|US|G2| Tombe les filles et tais-toi |1972| Herbert Ross
+N|US|G4| Tombstone |1993| George Pan Cosmatos
+N|DE|B6| Toni Erdmann |2016| Maren Ade
+N|US|F3| Tonnerre sous les Tropiques |2008| Ben Stiller
+N|US|G2| Tootsie |1982| Sydney Pollack
+N|US|D3| Top Gun |1986| Tony Scott
+N|US|F1| Top secret ! |1984| Jim Abrahams, David Zucker, Jerry Zucker
+N|US|E3| Total Recall |1990| Paul Verhoeven
+N|US|I3| Tous en scène |1953| Vincente Minnelli
+N|DE|I5| Tous les autres s'appellent Ali |1974| Rainer Werner Fassbinder
+N|US|E5| Tous les garçons aiment Mandy Lane |2006| Jonathan Levine
+N|US|C5| Tout ce que le ciel permet |1955| Douglas Sirk
+N|US|I2| Tout le monde dit I love you |1996| Woody Allen
+N|ES|C6| Tout sur ma mère |1998| Pedro Almodovar
+N|US|C6| Toy Story |1995| John Lasseter
+N|US|D5| Toy Story 2 |2000| John Lasseter, Lee Unkrich, Ash Brannon
+N|US|C6| Toy Story 3 |2010| Lee Unkrich
+N|US|D7| Traffic |2000| Steven Soderbergh
+N|US|I4| Training Day |2001| Antoine Fuqua
+N|GB|D7| Trainspotting |1996| Danny Boyle
+N|US|D2| Transformers |2007| Michael Bay
+N|AU|F4| Triangle |2009| Christopher Smith
+N|GB|D3| Troie |2004| Wolfgang Petersen
+N|US|G5| Trois heures dix pour Yuma |1957| Delmer Daves
+N|IT|I1| Troll 2 |1990| Claudio Fragasso
+N|US|F1| Tron |1982| Steven Lisberger
+N|US|G4| True Grit |2010| Joel Coen, Ethan Coen
+N|US|E2| True Lies |1994| James Cameron
+N|US|H3| True Romance |1993| Tony Scott
+N|US|D4| Truman Capote |2005| Bennett Miller
+N|US|D7| Trust me |1991| Hal Hartley
+N|US|C3| Tu ne tueras point |2016| Mel Gibson
+N|US|G7| Tucker |1988| Francis Ford Coppola
+N|US|H7| Tueurs nés |1994| Oliver Stone
+N|NL|G3| Turkish delices |1973| Paul Verhoeven
+N|US|A5| Twilight - Chapitre 1 : fascination |2008| Catherine Hardwicke
+N|US|H7| Twin Peaks: Fire Walk With Me |1991| David Lynch
+N|US|F6| Twixt |2011| Francis Ford Coppola
+N|US|E6| Two Lovers |2008| James Gray
+N|US|I2| Un Américain à Paris |1951| Vincente Minnelli
+N|US|H6| Un après-midi de chien |1976| Sidney Lumet
+N|FR|E4| Un Chien andalou |1928| Luis Bunuel
+N|FR|F5| Un Condamné à mort s'est échappé |1956| Robert Bresson
+N|FR|D7| Un conte de Noël |2008| Arnaud Desplechin
+N|US|D1| Un Crime dans la tête |1962| John Frankenheimer
+N|US|D1| Un Crime dans la tête |2004| Jonathan Demme
+N|US|H2| Un Fauteuil pour deux |1983| John Landis
+N|US|C4| Un Homme d'exception |2001| Ron Howard
+N|US|I2| Un Jour à New-York |1949| Stanley Donen, Gene Kelly
+N|US|D3| Un jour dans la vie de Billy Lynn |2017| Ang Lee
+N|GB|B3| Un Jour en septembre |1999| Kevin MacDonald
+N|US|F3| Un Jour sans fin |1993| Harold Ramis
+N|US|H5| Un justicier dans la ville |1974| Michael Winner
+N|US|C6| Un monde parfait |1993| Clint Eastwood
+N|IT|H5| Un pistolet pour Ringo |1965| Duccio Tessari
+N|US|H5| Un Plan simple |1998| Sam Raimi
+N|GB|G2| Un Poisson nommé Wanda |1988| Charles Crichton
+N|GB|C3| Un pont trop loin |1977| Richard Attenborough
+N|US|H2| Un prince à New York |1988| John Landis
+N|FR|F5| Un prophète |2008| Jacques Audiard
+N|FR|D7| Un Singe en hiver |1962| Henri Verneuil
+N|US|H2| Un Ticket pour deux |1987| John Hughes
+N|US|E7| Un Tramway nommé Désir |1951| Elia Kazan
+N|US|G1| Un vrai Schnock ! |1979| Carl Reiner
+N|GB|E1| Under the skin |2013| Jonathan Glazer
+N|FR|E7| Underground |1995| Emir Kusturica
+N|CN|E3| Une Balle dans la tête |1990| John Woo
+N|US|G2| Une créature de rêve |1985| John Hughes
+N|US|B5| Une Équipe hors du commun |1992| Penny Marshall
+N|US|E4| Une Étoile est née |1954| George Cukor
+N|US|E4| Une Étoile est née |1937| William Wellman
+N|US|D6| Une femme sous influence |1975| John Cassavetes
+N|US|G2| Une fiancée pas comme les autres |2007| Craig Gillespie
+N|US|B4| Une histoire vraie |1998| David Lynch
+N|US|E2| Une journée en enfer |1995| John McTiernan
+N|IT|C4| Une journée particulière |1977| Ettore Scola
+N|US|H1| Une Nuit à l'opéra |1935| Sam Wood
+N|US|B2| Une Vérité qui Dérange |2006| Davis Guggenheim
+N|US|E2| Unstoppable |2010| Tony Scott
+N|US|I6| Upstream Color |2013| Shane Carruth
+N|US|D5| Usual Suspects |1994| Bryan Singer
+N|US|G2| Vacances Romaines |1953| William Wyler
+N|US|B6| Vaiana |2016| John Musker, Ron Clements
+N|IL|C4| Valse avec Bachir |2008| Ari Folman
+N|FR|C5| Van Gogh |1991| Maurice Pialat
+N|US|E5| Vendredi 13 |1980| Sean S. Cunningham
+N|FR|A3| Vérités et Mensonges |1974| Orson Welles
+N|US|C4| Vers sa destinée |1939| John Ford
+N|US|F1| Very Bad Cops |2010| Adam McKay
+N|US|G1| Very Bad Trip |2009| Todd Phillips
+N|US|C6| Vice-Versa |2015| Pete Docter, Ronnie Del Carmen
+N|US|G2| Victor Victoria |1982| Blake Edwards
+N|CA|E3| Videodrome |1983| David Cronenberg
+N|US|C7| Virgin suicides |1999| Sofia Coppola
+N|JP|C7| Vivre |1952| Akira Kurosawa
+N|TR|I1| Vivre pour Survivre |1984| Jean-Marie Pallardy et Igor Aptekman
+N|US|D7| Vol au-dessus d'un nid de coucou |1975| Milos Forman
+N|US|F5| Volte/Face |1997| John Woo
+N|US|G2| Vous avez un message |1999| Nora Ephron
+N|US|H2| Vous ne l'emporterez pas avec vous |1938| Frank Capra
+N|US|G3| Voyage à deux |1967| Stanley Donen
+N|JP|D6| Voyage à Tokyo |1953| Yasujiro Ozu
+N|US|C4| Voyage au bout de l'Enfer |1978| Michael Cimino
+N|IT|E6| Voyage en Italie |1953| Roberto Rossellini
+N|US|C4| Walk the Line |2005| James Mangold
+N|US|G7| Wall Street |1987| Oliver Stone
+N|US|F2| WALL-E |2008| Andrew Stanton
+N|US|B5| WarGames |1983| John Badham
+N|CA|F2| Warm Bodies - Renaissance |2013| Jonathan Levine
+N|US|B6| Wassup Rockers |2004| Larry Clark
+N|US|F7| Watchmen - Les Gardiens |2008| Zack Snyder
+N|US|E3| Waterworld |1995| Kevin Reynolds
+N|US|H5| Way of the Gun |2000| Christopher McQuarrie
+N|US|H1| Wayne's World |1992| Penelope Spheeris
+N|GB|G1| We Are Four Lions |2010| Chris Morris
+N|US|I3| West Side Story |1961| Jerome Robbins, Robert Wise
+N|US|A2| When We Were Kings |1996| Leon Gast
+N|US|H3| Whiplash |2014| Damien Chazelle
+N|US|C6| Will Hunting |1997| Gus Van Sant
+N|US|E7| Willow |1988| Ron Howard
+N|US|G5| Winchester 73 |1950| Anthony Mann
+N|GB|G1| Withnail et moi |1987| Bruce Robinson
+N|US|F7| Wonder Woman |2017| Patty Jenkins
+N|US|A3| Woodstock |1970| Michael Wadleigh
+N|US|H7| Working Girl |1989| Mike Nichols
+N|US|F4| World War Z |2013| Marc Forster
+N|US|G7| X-Men |2000| Bryan Singer
+N|US|G7| X-Men 2 |2003| Bryan Singer
+N|US|G7| X-Men : Days of Future Past |2014| Bryan Singer
+N|US|G7| X-Men : Le Commencement |2011| Matthew Vaughn
+N|AR|B4| XXY |2007| Lucia Puenzo
+N|US|G1| Y a-t-il un flic pour sauver Hollywood ? |1994| Peter Segal
+N|US|G1| Y a-t-il un flic pour sauver la reine ? |1988| David Zucker
+N|US|G1| Y a-t-il un flic pour sauver le président ? |1991| David Zucker
+N|US|H1| Y a-t-il un pilote dans l'avion ? |1980| David Zucker, Jim Abrahams, Jerry Zucker
+N|TW|D7| Yi Yi |1999| Edward Yang
+N|JP|H7| Yōjinbō - Le Garde du corps |1961| Akira Kurosawa
+N|JP|F4| Your Name |2016| Makoto Shinkai
+N|US|H7| Zabriskie Point |1970| Michelangelo Antonioni
+N|US|C3| Zero Dark Thirty |2012| Kathryn Bigelow
+N|FR|A2| Zidane, un portrait du 21e siècle |2006| Philippe Parreno, Douglas Gordon
+N|US|F4| Zodiac |2007| David Fincher
+N|US|F4| Zombie |1978| George A. Romero
+N|US|H1| Zoolander |2001| Ben Stiller
+N|ES|E5| [Rec] |2007| Paco Plaza, Jaume Balaguero

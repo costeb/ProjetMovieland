@@ -11,7 +11,7 @@ public class Main {
         Film[] films = Parser.parserFichier("Movieland.txt");
         String[] sFilms = Parser.parserFichierString("Movieland.txt");
 
-        Fenetre fenetre = new Fenetre(sFilms);
+        Fenetre fenetre = new Fenetre(films, sFilms);
 
         for (Film film : films) {
             System.out.println(film.getTitre());
