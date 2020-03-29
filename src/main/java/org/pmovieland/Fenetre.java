@@ -59,7 +59,7 @@ public class Fenetre extends JFrame implements ActionListener {
         });
 
 
-        panel.add(liste, BorderLayout.CENTER);
+        panel.add(new JScrollPane(liste), BorderLayout.CENTER);
         panel.add(panelGauche, BorderLayout.WEST);
 
         this.setLocationRelativeTo(null);
