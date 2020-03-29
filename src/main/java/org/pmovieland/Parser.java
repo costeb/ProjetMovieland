@@ -71,7 +71,9 @@ public class Parser {
         String line;
         int i=0;
         while ((line = br.readLine()) != null) {
-            films[i] = new Fenetre.CheckListItem(line);
+            String[] filmData = line.split("\\|");
+            String label = filmData[3] + ", " + filmData[5] + ", " + filmData[4];
+            films[i] = new Fenetre.CheckListItem(label);
             i++;
         }
         br.close();
