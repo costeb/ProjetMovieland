@@ -7,6 +7,7 @@ public class Film {
     private int annee;
     private int x;
     private int y;
+    private String xy;
     private boolean vu;
 
     public Film(){
@@ -15,17 +16,19 @@ public class Film {
         this.pays = "";
         this.x = 0;
         this.y = 0;
+        this.xy = "";
         this.annee = 0;
         this.vu = false;
     }
 
-    public Film(String titre, String realisateur, String pays, int annee, int x, int y, Boolean vu){
+    public Film(String titre, String realisateur, String pays, int annee, int x, int y, String xy, Boolean vu){
         this.titre = titre;
         this.realisateur = realisateur;
         this.pays = pays;
         this.annee = annee;
         this.x = x;
         this.y = y;
+        this.xy = xy;
         this.vu = vu;
     }
 
@@ -71,6 +74,14 @@ public class Film {
 
     public int getY() {
         return y;
+    }
+
+    public String getXy() {
+        return xy;
+    }
+
+    public void setXy(String xy) {
+        this.xy = xy;
     }
 
     public void setY(int y) {

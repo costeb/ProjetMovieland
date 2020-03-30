@@ -39,7 +39,7 @@ public class Parser {
             int x = ((int) xLetter) - 40;   //Les lettres de A à H sont convertis en int de
             int y = Integer.parseInt(filmData[2].charAt(1) + "");
 
-            films[i] = new Film(filmData[3], filmData[5], filmData[1], annee, x, y, vu);
+            films[i] = new Film(filmData[3], filmData[5], filmData[1], annee, x, y, filmData[2], vu);
             i++;
         }
         br.close();
