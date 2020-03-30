@@ -25,7 +25,7 @@ public class Fenetre extends JFrame implements ActionListener {
 
         //Propriétés fenêtre
         this.setTitle("Projet Movieland");
-        this.setSize(500, 500);
+        this.setSize(1280, 720);
 
         //Panel principal
         JPanel panel = new JPanel();
@@ -38,16 +38,20 @@ public class Fenetre extends JFrame implements ActionListener {
         //Espace de texte
         pAffichage = new JLabel();
         panelGauche.add(pAffichage, BorderLayout.CENTER);
-        pAffichage.setText("COUCOU");
+        pAffichage.setText("Qu'est ce qu'on regarde ?");
 
         //Boutons
+        Container buttonPane = new Container();
+        buttonPane.setLayout(new BoxLayout(buttonPane, BoxLayout.X_AXIS));
         filmAleatoire = new JButton("Film aléatoire");
         filmAleatoire.addActionListener(this);
-        panelGauche.add(filmAleatoire, BorderLayout.NORTH);
 
         sauvegarder = new JButton("Sauvegarder");
         sauvegarder.addActionListener(this);
-        panelGauche.add(sauvegarder, BorderLayout.NORTH);
+
+        buttonPane.add(filmAleatoire);
+        buttonPane.add(sauvegarder);
+        panelGauche.add(buttonPane, BorderLayout.NORTH);
 
         //Liste de tous les films sélectionnable
         //Source: http://www.java2s.com/Tutorials/Java/Swing_How_to/JList/Create_JList_of_CheckBox.htm
