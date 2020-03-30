@@ -62,9 +62,9 @@ public class Parser {
         return films;
     }
 
-    public static Fenetre.CheckListItem[] parserFichierCheckListItem(String lienFichier) throws IOException {
+    public static CheckList.CheckListItem[] parserFichierCheckListItem(String lienFichier) throws IOException {
         int nbFilms = nbFilms(lienFichier);
-        Fenetre.CheckListItem[] films = new Fenetre.CheckListItem[nbFilms];
+        CheckList.CheckListItem[] films = new CheckList.CheckListItem[nbFilms];
         File file = new File(lienFichier);
         BufferedReader br = new BufferedReader(new FileReader(file));
 
@@ -73,7 +73,7 @@ public class Parser {
         while ((line = br.readLine()) != null) {
             String[] filmData = line.split("\\|");
             String label = filmData[3] + ", " + filmData[5] + ", " + filmData[4];
-            films[i] = new Fenetre.CheckListItem(label);
+            films[i] = new CheckList.CheckListItem(label);
             i++;
         }
         br.close();

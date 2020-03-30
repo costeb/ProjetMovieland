@@ -10,7 +10,7 @@ public class Main {
 
         Film[] films = Parser.parserFichier("Movieland.txt");
         String[] sFilms = Parser.parserFichierString("Movieland.txt");
-        Fenetre.CheckListItem[] chFilms = Parser.parserFichierCheckListItem("Movieland.txt");
+        CheckList.CheckListItem[] chFilms = Parser.parserFichierCheckListItem("Movieland.txt");
 
         Fenetre fenetre = new Fenetre(films, sFilms, chFilms);
 

@@ -14,7 +14,7 @@ public class Fenetre extends JFrame implements ActionListener {
 
     private JButton filmAleatoire;
 
-    public Fenetre(Film[] films, String[] sFilms, CheckListItem[] chFilms){
+    public Fenetre(Film[] films, String[] sFilms, CheckList.CheckListItem[] chFilms){
         this.films = films;
         this.sFilms = sFilms;
 
@@ -43,7 +43,7 @@ public class Fenetre extends JFrame implements ActionListener {
         //Liste de tous les films sélectionnable
         //Source: http://www.java2s.com/Tutorials/Java/Swing_How_to/JList/Create_JList_of_CheckBox.htm
         JList liste = new JList(chFilms);
-        liste.setCellRenderer(new CheckListRenderer());
+        liste.setCellRenderer(new CheckList.CheckListRenderer());
         liste.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         liste.addMouseListener(new MouseAdapter() {
             @Override
@@ -51,7 +51,7 @@ public class Fenetre extends JFrame implements ActionListener {
                 JList list = (JList) event.getSource();
                 int index = list.locationToIndex(event.getPoint());// Get index of item
                 // clicked
-                CheckListItem item = (CheckListItem) list.getModel()
+                CheckList.CheckListItem item = (CheckList.CheckListItem) list.getModel()
                         .getElementAt(index);
                 item.setSelected(!item.isSelected()); // Toggle selected state
                 list.repaint(list.getCellBounds(index, index));// Repaint cell
@@ -64,6 +64,7 @@ public class Fenetre extends JFrame implements ActionListener {
 
         this.setLocationRelativeTo(null);
         this.setContentPane(panel);
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
     }
 
@@ -76,44 +77,6 @@ public class Fenetre extends JFrame implements ActionListener {
             System.out.println("Vous avez cliqué ici.");
             Film filmGenere = Generation.aleatoire(this.films);
             pAffichage.setText(filmGenere.getTitre());
-        }
-    }
-
-
-    //Partie CheckList
-    static class CheckListItem {
-
-        private String label;
-        private boolean isSelected = false;
-
-        public CheckListItem(String label) {
-            this.label = label;
-        }
-
-        public boolean isSelected() {
-            return isSelected;
-        }
-
-        public void setSelected(boolean isSelected) {
-            this.isSelected = isSelected;
-        }
-
-        @Override
-        public String toString() {
-            return label;
-        }
-    }
-
-    class CheckListRenderer extends JCheckBox implements ListCellRenderer {
-        public Component getListCellRendererComponent(JList list, Object value,
-                                                      int index, boolean isSelected, boolean hasFocus) {
-            setEnabled(list.isEnabled());
-            setSelected(((CheckListItem) value).isSelected());
-            setFont(list.getFont());
-            setBackground(list.getBackground());
-            setForeground(list.getForeground());
-            setText(value.toString());
-            return this;
         }
     }
 
