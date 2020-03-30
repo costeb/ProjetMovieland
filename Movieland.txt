@@ -1,11 +1,11 @@
-N|US|G3| (500) jours ensemble |2007| Marc Webb
+Y|US|G3| (500) jours ensemble |2007| Marc Webb
 N|US|B5| 10 bonnes raisons de te larguer |2000| Gil Junger
-N|US|D5| 12 hommes en colère |1957| Sidney Lumet
+Y|US|D5| 12 hommes en colère |1957| Sidney Lumet
 N|US|B4| 12 Years a Slave |2013| Steve McQueen
 N|US|B5| 127 heures |2010| Danny Boyle
 N|RO|H1| 12h08 à l'est de Bucarest |2007| Corneliu Porumboiu
 N|US|D4| 1492 : Christophe Colomb |1992| Ridley Scott
-N|US|C3| 1941 |1979| Steven Spielberg
+Y|US|C3| 1941 |1979| Steven Spielberg
 N|US|A3| 20 Feet from Stardom |2013| Morgan Neville
 N|US|E4| 2001 : l'odyssée de l'espace |1968| Stanley Kubrick
 N|US|D7| 21 grammes |2003| Alejandro Gonzalez Inarritu

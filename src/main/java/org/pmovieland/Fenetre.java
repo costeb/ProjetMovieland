@@ -6,17 +6,22 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.io.IOException;
 
 public class Fenetre extends JFrame implements ActionListener {
     private Film[] films;
     private String[] sFilms;
+    private CheckList.CheckListItem[] chFilms;
     private JLabel pAffichage;
+    private JList liste;
 
     private JButton filmAleatoire;
+    private JButton sauvegarder;
 
     public Fenetre(Film[] films, String[] sFilms, CheckList.CheckListItem[] chFilms){
         this.films = films;
         this.sFilms = sFilms;
+        this.chFilms = chFilms;
 
         //Propriétés fenêtre
         this.setTitle("Projet Movieland");
@@ -40,9 +45,13 @@ public class Fenetre extends JFrame implements ActionListener {
         filmAleatoire.addActionListener(this);
         panelGauche.add(filmAleatoire, BorderLayout.NORTH);
 
+        sauvegarder = new JButton("Sauvegarder");
+        sauvegarder.addActionListener(this);
+        panelGauche.add(sauvegarder, BorderLayout.NORTH);
+
         //Liste de tous les films sélectionnable
         //Source: http://www.java2s.com/Tutorials/Java/Swing_How_to/JList/Create_JList_of_CheckBox.htm
-        JList liste = new JList(chFilms);
+        liste = new JList(chFilms);
         liste.setCellRenderer(new CheckList.CheckListRenderer());
         liste.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         liste.addMouseListener(new MouseAdapter() {
@@ -57,6 +66,17 @@ public class Fenetre extends JFrame implements ActionListener {
                 list.repaint(list.getCellBounds(index, index));// Repaint cell
             }
         });
+
+        //On coche les cases des films vus (pas élégant mais bon, à revoir)
+        int i = 0;
+        while(i < films.length){
+            if(films[i].isVu()) {
+                CheckList.CheckListItem item = (CheckList.CheckListItem) liste.getModel().getElementAt(i);
+                item.setSelected(!item.isSelected()); // Toggle selected state
+                liste.repaint(liste.getCellBounds(i, i));// Repaint cell
+            }
+            i++;
+        }
 
 
         panel.add(new JScrollPane(liste), BorderLayout.CENTER);
@@ -73,10 +93,18 @@ public class Fenetre extends JFrame implements ActionListener {
 
         System.out.println("Action Performed");
 
-        if(source == filmAleatoire){
+        if (source == filmAleatoire) {
             System.out.println("Vous avez cliqué ici.");
             Film filmGenere = Generation.aleatoire(this.films);
             pAffichage.setText(filmGenere.getTitre());
+        }
+        if (source == sauvegarder) {
+            System.out.println("Vous avez cliqué sur sauvegarder.");
+            try {
+                Sauvegarde.sauvegarder(films, liste.getModel());
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
         }
     }
 
